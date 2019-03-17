@@ -10,9 +10,11 @@ public class scr_MasterController : MonoBehaviour
     // Static reference
     public static scr_MasterController masterController;
 
-    //=Persistant Data=
-
-    //==================
+    //=Persistent Data=
+    private const float endgameTime = 5000.0f;
+    private float elapsedTime;
+    public float getElapsedTime() { return elapsedTime; }
+    //=================
 
     void Awake()
     {
@@ -27,40 +29,8 @@ public class scr_MasterController : MonoBehaviour
         }
     }
 
-    void OnEnable()
+    private void Update()
     {
-        Load();
-    }
-    void OnDisable()
-    {
-        Save();
-    }
-
-    public void Load()
-    {
-        if (File.Exists(Application.persistentDataPath + "/userData.dat"))
-        {
-            BinaryFormatter bf = new BinaryFormatter();
-            FileStream file = File.Open(Application.persistentDataPath + "/userData.dat", FileMode.Open);
-            UserData data = (UserData)bf.Deserialize(file);
-            file.Close();
-        }
-    }
-    public void Save()
-    {
-        BinaryFormatter bf = new BinaryFormatter();
-        FileStream file = File.Create(Application.persistentDataPath + "/userData.dat");
-        UserData data = new UserData();
-        bf.Serialize(file, data);
-        file.Close();
-    } 
-}
-
-[Serializable]
-class UserData
-{
-    public UserData()
-    {
-
+        elapsedTime += Time.deltaTime;
     }
 }
