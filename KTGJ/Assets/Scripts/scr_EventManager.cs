@@ -18,14 +18,11 @@ public class scr_EventManager : MonoBehaviour
 
     void Update()
     {
-        if (scr_MasterController.masterController.getElapsedTime() > 10.0f)
-        {
-            eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime()));
-        }
 
-        for (int i = 0; i < eventList.Count; i++)
-        {
+    }
 
-        }
+    public void CreateEmailInstance()
+    {
+        eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime()));
     }
 }

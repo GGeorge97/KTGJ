@@ -36,7 +36,6 @@ public class scr_SceneChange : MonoBehaviour
         {
             scr_SceneDirector.animator.Play(transitionAnimation.name);
             StartCoroutine(TransitionScene(transitionAnimation));
-            SceneManager.UnloadSceneAsync(scene);
         }
         else
             SceneManager.UnloadSceneAsync(scene);

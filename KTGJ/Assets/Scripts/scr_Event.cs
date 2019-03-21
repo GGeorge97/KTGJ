@@ -21,13 +21,15 @@ public class emailEvent : scr_Event
     float getTimeStamp() { return timeStamp; }
     void setTimeStamp(float setVal) { timeStamp = setVal; }
 
-    private scr_Email emailObject;
-    scr_Email getEmail() { return emailObject; }
+    private GameObject emailObject;
+    GameObject getEmail() { return emailObject; }
 
     public emailEvent(Status in_status, float in_timeStamp)
     {
         status = in_status;
         timeStamp = in_timeStamp;
+        emailObject = GameObject.Instantiate();
+
     }
 
     public override void runEvent()

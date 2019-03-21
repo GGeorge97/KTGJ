@@ -16,10 +16,7 @@ public class scr_GUIinterface : MonoBehaviour
 
     void Update()
     {
-        
-    }
-
-    public void createEmailInstance()
-    {
+        if (Input.GetButtonDown("G"))
+            scr_EventManager.eventManager.CreateEmailInstance();
     }
 }
