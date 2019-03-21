@@ -11,30 +11,33 @@ public class scr_Event
     }
 }
 
-class emailEvent : scr_Event
+public class emailEvent : scr_Event
 {
-    private string sender;
-    private string subject;
-    private string message;
-
-
-    private bool acceptDecline;
     private Status status;
+    Status getStatus() { return status; }
+    void setStatus(Status setVal) { status = setVal; }
 
-    public emailEvent(string in_sender, string in_subject, string in_message)
+    private float timeStamp;
+    float getTimeStamp() { return timeStamp; }
+    void setTimeStamp(float setVal) { timeStamp = setVal; }
+
+    private scr_Email emailObject;
+    scr_Email getEmail() { return emailObject; }
+
+    public emailEvent(Status in_status, float in_timeStamp)
     {
-        sender = in_sender;
-        subject = in_subject;
-        message = in_message;
+        status = in_status;
+        timeStamp = in_timeStamp;
     }
 
     public override void runEvent()
     {
         // View email
+
     }
 }
 
-class communicateEvent : scr_Event
+public class communicateEvent : scr_Event
 {
     public override void runEvent()
     {
@@ -42,7 +45,7 @@ class communicateEvent : scr_Event
     }
 }
 
-class treatmentEvent : scr_Event
+public class treatmentEvent : scr_Event
 {
     public override void runEvent()
     {

@@ -4,19 +4,28 @@ using UnityEngine;
 
 public class scr_EventManager : MonoBehaviour
 {
-    public static List<scr_Event> eventList;
+    // Static reference
+    public static scr_EventManager eventManager;
+
+    private List<scr_Event> eventList;
+    public List<scr_Event> getList() { return eventList; }
 
     void Start()
     {
         eventList = new List<scr_Event>();
-        eventList.Add(new emailEvent("WhitehouseUrgent@USA.gov", "Your Mission", "Good day, Sir. /n You must look after this alien blah blah blah."));
+        eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime()));
     }
 
     void Update()
     {
-        if (scr_MasterController.masterController.getElapsedTime() > 1000.0f)
+        if (scr_MasterController.masterController.getElapsedTime() > 10.0f)
         {
-            eventList.Add(new emailEvent("WhitehouseUrgent@USA.gov", "New Email", "Please try this experiment for us!"));
+            eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime()));
+        }
+
+        for (int i = 0; i < eventList.Count; i++)
+        {
+
         }
     }
 }
