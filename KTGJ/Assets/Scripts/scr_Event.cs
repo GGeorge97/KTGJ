@@ -28,7 +28,7 @@ public class emailEvent : scr_Event
     {
         status = in_status;
         timeStamp = in_timeStamp;
-        emailObject = GameObject.Instantiate();
+        //emailObject = GameObject.Instantiate();
 
     }
 
