@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class scr_Event
 {
-    public virtual void runEvent() { }
+    public virtual void RunEvent() { }
     public enum Status
     {
         ACTIVE, INACTIVE, ARCHIVED
@@ -14,34 +14,67 @@ public class scr_Event
 public class emailEvent : scr_Event
 {
     private Status status;
-    Status getStatus() { return status; }
-    void setStatus(Status setVal) { status = setVal; }
+    public Status getStatus() { return status; }
+    public void setStatus(Status setVal) { status = setVal; }
 
     private float timeStamp;
-    float getTimeStamp() { return timeStamp; }
-    void setTimeStamp(float setVal) { timeStamp = setVal; }
+    public float getTimeStamp() { return timeStamp; }
+    public void setTimeStamp(float setVal) { timeStamp = setVal; }
 
-    private GameObject emailObject;
-    GameObject getEmail() { return emailObject; }
+    private string sender;
+    public string getSender() { return sender; }
+
+    private string subject;
+    public string getSubject() { return subject; }
+
+    private string message;
+    public string getMessage() { return message; }
+
+    private string timeRecieved;
+    public string getTimeRecieved() { return timeRecieved; }
+
+    private bool acceptDecline;
+    public bool getAcceptDecline() { return acceptDecline; }
+    public void setAcceptDecline(bool setVal) { acceptDecline = setVal; }
+
+    //private GameObject emailObject;
+    //public GameObject getEmail() { return emailObject; }
+
+    //private scr_Email emailDataScr;
+    //public scr_Email getEmailData() { return emailDataScr; }
 
     public emailEvent(Status in_status, float in_timeStamp)
     {
         status = in_status;
         timeStamp = in_timeStamp;
-        emailObject = GameObject.Instantiate();
-
+        generateEmailData();
     }
 
-    public override void runEvent()
+    public override void RunEvent()
     {
         // View email
 
+        // Display info
+
+        // Accept or Decline
+
+        // Set to inactive/archived
+    }
+
+    private void generateEmailData()
+    {
+        // Create a randomly gen email from database
+
+        sender = "WhitehouseUrgent@USA.gov";
+        subject = "Your Mission";
+        timeRecieved = "22:30";
+        message = "Good day, Sir. /n You must look after this alien blah blah blah.";
     }
 }
 
 public class communicateEvent : scr_Event
 {
-    public override void runEvent()
+    public override void RunEvent()
     {
         // Start communication game
     }
@@ -49,7 +82,7 @@ public class communicateEvent : scr_Event
 
 public class treatmentEvent : scr_Event
 {
-    public override void runEvent()
+    public override void RunEvent()
     {
         // Deal with something
     }

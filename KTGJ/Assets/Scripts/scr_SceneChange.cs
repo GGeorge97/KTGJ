@@ -27,7 +27,18 @@ public class scr_SceneChange : MonoBehaviour
             StartCoroutine(TransitionScene(transitionAnimation));
         }
         else
-            SceneManager.LoadScene(scene, LoadSceneMode.Additive);
+        {
+            if (scene == "sce_EmailPanel")
+                scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.EMAIL);
+            else if (scene == "sce_ComPanel")
+                scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.COMMS);
+
+            if (!scr_MasterController.masterController.getIsSceneLoaded())
+            {
+                SceneManager.LoadScene(scene, LoadSceneMode.Additive);
+                scr_MasterController.masterController.setIsSceneLoaded(true);
+            }
+        }
     }
 
     void Unload()
@@ -38,15 +49,34 @@ public class scr_SceneChange : MonoBehaviour
             StartCoroutine(TransitionScene(transitionAnimation));
         }
         else
+        {
+            scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.MAIN);
+            scr_MasterController.masterController.setIsSceneLoaded(false);
             SceneManager.UnloadSceneAsync(scene);
+        }
     }
 
     private IEnumerator TransitionScene(AnimationClip animation)
     {
         yield return new WaitForSeconds(transitionAnimation.length);
-        if(isUnloader)
+        if (isUnloader)
+        {
+            scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.MAIN);
+            scr_MasterController.masterController.setIsSceneLoaded(false);
             SceneManager.UnloadSceneAsync(scene);
+        }
         else
-            SceneManager.LoadScene(scene, LoadSceneMode.Additive);
+        {
+            if(scene == "sce_EmailPanel")
+                scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.EMAIL);
+            else if (scene == "sce_ComPanel")
+                scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.COMMS);
+
+            if (!scr_MasterController.masterController.getIsSceneLoaded())
+            {
+                SceneManager.LoadScene(scene, LoadSceneMode.Additive);
+                scr_MasterController.masterController.setIsSceneLoaded(true);
+            }
+        }
     }
 }

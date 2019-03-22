@@ -1,30 +1,30 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class scr_Email
+public class scr_Email : MonoBehaviour
 {
-    private string sender;
-    string getSender() { return sender; }
+    private Text[] textContainers;
+    private int ID;
 
-    private string subject;
-    string geSubject() { return subject; }
-
-    private string message;
-    string getMessage() { return message; }
-
-    private string timeRecieved;
-    string getTimeRecieved() { return timeRecieved; }
-
-    private bool acceptDecline;
-    bool getAcceptDecline() { return acceptDecline; }
-    void setAcceptDecline(bool setVal) { acceptDecline = setVal; }
-
-    public scr_Email(string in_sender, string in_subject, string in_message)
+    private void Awake()
     {
-        sender = in_sender;
-        subject = in_subject;
-        message = in_message;
+        textContainers = gameObject.GetComponentsInChildren<Text>();
+        gameObject.GetComponent<Button>().onClick.AddListener(OpenEmail);
     }
-    //"WhitehouseUrgent@USA.gov", "Your Mission", "Good day, Sir. /n You must look after this alien blah blah blah."
+
+    public void setEmailContents(int in_ID, string in_sender, string in_subject, string in_recieved)
+    {
+        ID = in_ID;
+        textContainers[0].text = in_sender;
+        textContainers[1].text = in_subject;
+        textContainers[2].text = in_recieved;
+    }
+
+    private void OpenEmail()
+    {
+
+        Debug.Log("OPEN");
+    }
 }

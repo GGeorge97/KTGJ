@@ -9,7 +9,22 @@ public class scr_MasterController : MonoBehaviour
     // Static reference
     public static scr_MasterController masterController;
 
-    //=Persistent Data=
+    //=Scene tracking=//
+    public enum Scenes
+    {
+        MAIN, EMAIL, COMMS
+    }
+
+    private bool isSceneLoaded;
+    public bool getIsSceneLoaded() { return isSceneLoaded; }
+    public void setIsSceneLoaded(bool setVal) { isSceneLoaded = setVal; }
+
+    private Scenes currentScene;
+    public Scenes getCurrentScene() { return currentScene; }
+    public void setCurrentScene(Scenes setVal) { currentScene = setVal; }
+    //================//
+
+    //=Persistent Data=//
     private float elapsedTime;                  // Global timer
     public float getElapsedTime() { return elapsedTime; }
 
@@ -30,9 +45,9 @@ public class scr_MasterController : MonoBehaviour
     private int gusHealth;                      // Alien health status
     public int getGusHealth() { return gusHealth; }
     public void setGusHealth(int setVal) { gusHealth = setVal; }
-    //=================
+    //=================//
 
-    void Awake()
+    private void Awake()
     {
         if (masterController == null)
         {
@@ -48,6 +63,6 @@ public class scr_MasterController : MonoBehaviour
     private void Update()
     {
         elapsedTime += Time.deltaTime;
-        Debug.Log("Timer = " + elapsedTime);
+        //Debug.Log("Timer = " + elapsedTime);
     }
 }

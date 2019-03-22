@@ -56,3 +56,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5de96fa680074574595297e69d4034a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  emailPrefab: {fileID: 8523803185663530189, guid: 8e207ab42a6ae8744b9600a1844d5438,
+    type: 3}

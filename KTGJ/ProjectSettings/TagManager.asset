@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Interface
+  - ScreenSpace
   layers:
   - Default
   - TransparentFX
