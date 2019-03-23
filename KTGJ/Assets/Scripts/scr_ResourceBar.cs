@@ -26,11 +26,11 @@ public class scr_ResourceBar : MonoBehaviour
         if (resourceScale >= 0.0f)
         {
             resourceScale += Time.deltaTime * -(decayModifier);
-            Debug.Log("Resource: " + resourceScale);
+            //Debug.Log("Resource: " + resourceScale);
         }
         else
         {
-            Debug.Log("Gus dead");
+            //Debug.Log("Gus dead");
         }
 
         // Cooldown of button

@@ -10,13 +10,17 @@ public class scr_EventManager : MonoBehaviour
 
     public GameObject emailPrefab;
 
+    private bool inputActive;
+    public bool getInputActive() { return inputActive; }
+    public void setInputActive(bool setVal) { inputActive = setVal; }
+
     private bool newEmailEventAdded;
     public bool getNewEmailEventAdded() { return newEmailEventAdded; }
     public void setNewEmailEventAdded(bool setVal) { newEmailEventAdded = setVal; }
 
-    private bool inputActive;
-    public bool getInputActive() { return inputActive; }
-    public void setInputActive(bool setVal) { inputActive = setVal; }
+    private int activeEmailCount;
+    public int getActiveEmailCount() { return activeEmailCount; }
+    public void setActiveEmailCount(int setVal) { activeEmailCount = setVal; }
 
     void Start()
     {
@@ -28,6 +32,7 @@ public class scr_EventManager : MonoBehaviour
 
     private void Update()
     {
+        Debug.Log(eventList.Count);
         HandleInput();
     }
 
@@ -41,49 +46,58 @@ public class scr_EventManager : MonoBehaviour
             case (scr_MasterController.Scenes.EMAIL):
                 if (Input.GetKeyDown(KeyCode.G))
                     scr_EventManager.eventManager.CreateEmailEvent();
-                if (Input.GetKey(KeyCode.UpArrow) || Input.GetAxis("MouseScrollWheel") > 0.0f)
+                if (eventList.Count > 5)
                 {
-                    for (int i = 0; i < scr_EventManager.eventList.Count; i++)
+                    if (Input.GetKey(KeyCode.UpArrow) || Input.GetAxis("MouseScrollWheel") > 0.0f)
                     {
-                        emailEvent email;
-                        email = (emailEvent)scr_EventManager.eventList[i];
-                        if (scr_EventManager.eventList[i].GetType() == typeof(emailEvent))
+                        //foreach (Transform childObject in GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform)
+                        //{
+                        //    if (childObject.gameObject.name == "Email(Clone)")
+                        //    {
+                        //        if (childObject.transform.position.y <= 90.0f)
+                        //            childObject.transform.position += new Vector3(0.0f, 80.0f, 0.0f);
+                        //    }
+                        //}
+                        for (int i = 0; i <= GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform.childCount + 1; i++)
                         {
-                            foreach (Transform childObject in GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform)
+                            Transform childObject = GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform.GetChild(i);
+                            if (childObject.gameObject.name == "Email(Clone)")
                             {
-                                if (childObject.transform.position.y < 0.0f)
-                                {
-                                    if (childObject.gameObject.name == "Email(Clone)")
-                                        childObject.transform.position += new Vector3(0.0f, 80.0f, 0.0f);
-                                }
-                                else
-                                    break;
+                                if (childObject.transform.position.y <= 90.0f)
+                                    childObject.transform.position -= new Vector3(0.0f, 80.0f, 0.0f);
                             }
                         }
                     }
-                }
-                if (Input.GetKey(KeyCode.DownArrow) || Input.GetAxis("MouseScrollWheel") < 0.0f)
-                {
-                    for (int i = 0; i < scr_EventManager.eventList.Count; i++)
+                    if (Input.GetKey(KeyCode.DownArrow) || Input.GetAxis("MouseScrollWheel") < 0.0f)
                     {
-                        emailEvent email;
-                        email = (emailEvent)scr_EventManager.eventList[i];
-                        if (scr_EventManager.eventList[i].GetType() == typeof(emailEvent))
-                        {
-                            if (email.getStatus() == scr_Event.Status.ACTIVE)
-                            {
-                                foreach (Transform childObject in GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform)
+                        //int searchIndex = 0;
+                        //foreach (Transform childObjectFirstPass in GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform)
+                        //{
+                        //    if (childObjectFirstPass.gameObject.name == "Email(Clone)")
+                        //        searchIndex++;
+                        //    if (searchIndex == 5)
+                        //    {
+                                //Transform bottomEmail = childObjectFirstPass;
+                                for(int i = GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform.childCount - 1; i >= 0; i--)
                                 {
-                                    if (childObject.transform.position.y > 80.0f * eventList.Count)
+                                    Transform childObject = GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform.GetChild(i);
+                                    if (childObject.gameObject.name == "Email(Clone)")
                                     {
-                                        if (childObject.gameObject.name == "Email(Clone)")
-                                        childObject.transform.position -= new Vector3(0.0f, 80.0f, 0.0f);
+                                        if (childObject.transform.position.y >= 90.0f - (80.0f * eventList.Count))
+                                            childObject.transform.position += new Vector3(0.0f, 80.0f, 0.0f);
                                     }
-                                    else
-                                        break;
                                 }
-                            }
-                        }
+                                //foreach (Transform childObjectSecondPass in GameObject.FindGameObjectWithTag("ScreenSpace").gameObject.transform)
+                                //{
+                                //    if (childObjectSecondPass.gameObject.name == "Email(Clone)")
+                                //    {
+                                //        if (childObjectFirstPass.transform.position.y >= 90.0f + (80.0f * eventList.Count))
+                                //            childObjectSecondPass.transform.position -= new Vector3(0.0f, 80.0f, 0.0f);
+                                //    }
+                                //}
+                                //break;
+                            //}
+                        //}
                     }
                 }
                 break;
@@ -103,7 +117,9 @@ public class scr_EventManager : MonoBehaviour
 
     public void CreateEmailEvent()
     {
+        Debug.Log(scr_MasterController.masterController.getElapsedTime());
         eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime()));
+        activeEmailCount++;
         newEmailEventAdded = true;
     }
 }

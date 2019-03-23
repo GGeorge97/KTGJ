@@ -24,7 +24,6 @@ public class scr_Email : MonoBehaviour
 
     private void OpenEmail()
     {
-
-        Debug.Log("OPEN");
+        scr_EventManager.eventManager.RunEvent(ID);
     }
 }

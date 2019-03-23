@@ -37,12 +37,6 @@ public class emailEvent : scr_Event
     public bool getAcceptDecline() { return acceptDecline; }
     public void setAcceptDecline(bool setVal) { acceptDecline = setVal; }
 
-    //private GameObject emailObject;
-    //public GameObject getEmail() { return emailObject; }
-
-    //private scr_Email emailDataScr;
-    //public scr_Email getEmailData() { return emailDataScr; }
-
     public emailEvent(Status in_status, float in_timeStamp)
     {
         status = in_status;
@@ -52,6 +46,8 @@ public class emailEvent : scr_Event
 
     public override void RunEvent()
     {
+        // TODO:
+
         // View email
 
         // Display info
@@ -67,7 +63,7 @@ public class emailEvent : scr_Event
 
         sender = "WhitehouseUrgent@USA.gov";
         subject = "Your Mission";
-        timeRecieved = "22:30";
+        timeRecieved = timeStamp.ToString();
         message = "Good day, Sir. /n You must look after this alien blah blah blah.";
     }
 }
@@ -76,7 +72,7 @@ public class communicateEvent : scr_Event
 {
     public override void RunEvent()
     {
-        // Start communication game
+        // TODO: Start communication game
     }
 }
 
@@ -84,6 +80,6 @@ public class treatmentEvent : scr_Event
 {
     public override void RunEvent()
     {
-        // Deal with something
+        // TODO: Deal with something
     }
 }
