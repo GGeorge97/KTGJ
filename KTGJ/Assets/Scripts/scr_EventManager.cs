@@ -32,7 +32,7 @@ public class scr_EventManager : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(eventList.Count);
+        //Debug.Log(eventList.Count);
         HandleInput();
     }
 
