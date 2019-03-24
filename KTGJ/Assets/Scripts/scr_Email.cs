@@ -24,6 +24,10 @@ public class scr_Email : MonoBehaviour
 
     private void OpenEmail()
     {
+        ColorBlock colours = gameObject.GetComponent<Button>().colors;
+        Color32 colour = new Color32(74, 159, 140, 225);
+        colours.normalColor = colour;
+        gameObject.GetComponent<Button>().colors = colours;
         scr_EventManager.eventManager.RunEvent(ID);
     }
 }

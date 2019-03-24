@@ -5,7 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Interface
-  - ScreenSpace
+  - EmailScreen
+  - ShopScreen
   layers:
   - Default
   - TransparentFX

@@ -52,6 +52,8 @@ public class scr_SceneChange : MonoBehaviour
         {
             scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.MAIN);
             scr_MasterController.masterController.setIsSceneLoaded(false);
+            scr_EventManager.eventManager.resetScrollUPindex();
+            scr_EventManager.eventManager.resetScrollDOWNindex();
             SceneManager.UnloadSceneAsync(scene);
         }
     }
@@ -63,6 +65,8 @@ public class scr_SceneChange : MonoBehaviour
         {
             scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.MAIN);
             scr_MasterController.masterController.setIsSceneLoaded(false);
+            scr_EventManager.eventManager.resetScrollUPindex();
+            scr_EventManager.eventManager.resetScrollDOWNindex();
             SceneManager.UnloadSceneAsync(scene);
         }
         else
