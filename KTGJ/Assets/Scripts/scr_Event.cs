@@ -47,10 +47,15 @@ public class emailEvent : scr_Event
 
     public emailEvent(Status in_status, float in_timeStamp, bool in_readUnread)
     {
+        scr_Database.EmailData emailData = scr_Database.database.GenerateEmailData();
+
         status = in_status;
         timeStamp = in_timeStamp;
         readUnread = in_readUnread;
-        generateEmailData();
+        sender = emailData.getSender();
+        subject = emailData.getSubject();
+        message = emailData.getMessage();
+        timeRecieved = timeStamp.ToString();
     }
 
     public override void RunEvent()
@@ -66,16 +71,6 @@ public class emailEvent : scr_Event
         // Accept or Decline
 
         // Set to inactive/archived
-    }
-
-    private void generateEmailData()
-    {
-        // Create a randomly gen email from database
-
-        sender = "";
-        subject = "";
-        timeRecieved = timeStamp.ToString();
-        message = "";
     }
 }
 
