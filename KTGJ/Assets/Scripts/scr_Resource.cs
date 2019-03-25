@@ -7,7 +7,7 @@ public class scr_Resource : MonoBehaviour
 {
     // Variables 
     private float resourceScale = 100.0f;
-    public float getResouceScale() { return resourceScale; }
+    public float getResourceScale() { return resourceScale; }
     public void setResourceScale(float setVal) { resourceScale = setVal; }
 
     private float delay;
@@ -26,7 +26,7 @@ public class scr_Resource : MonoBehaviour
     {
         if (resourceScale >= 0.0f)
         {
-            resourceScale += Time.deltaTime * -(decayModifier);
+            resourceScale += -Time.deltaTime;
             //Debug.Log("Resource: " + resourceScale);
         }
         else
