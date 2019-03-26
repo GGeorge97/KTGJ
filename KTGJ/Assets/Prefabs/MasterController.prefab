@@ -61,6 +61,10 @@ MonoBehaviour:
     type: 3}
   openedEmailPrefab: {fileID: 9086864874124048486, guid: cf2ac74b3cae97f4fb8f3decc75eab42,
     type: 3}
+  openedSpamPrefab: {fileID: 4134061068087965317, guid: c0824a567dfa5364e9d1cdee397b341f,
+    type: 3}
+  openedTutorialPrefab: {fileID: 7175718045579606269, guid: 60814f8097da0b1409f0b96c33fa18e8,
+    type: 3}
 --- !u!114 &1650732399902581961
 MonoBehaviour:
   m_ObjectHideFlags: 0

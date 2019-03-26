@@ -5,14 +5,15 @@ using UnityEngine;
 public class scr_Event : MonoBehaviour
 {
     public virtual void RunEvent(int id) { }
+    public enum EmailType
+    {
+        CHOICE, SPAM, TUTORIAL
+    }
     public enum Status
     {
         ACTIVE, ARCHIVED
     }
-}
 
-public class emailEvent : scr_Event
-{
     private Status status;
     public Status getStatus() { return status; }
     public void setStatus(Status setVal) { status = setVal; }
@@ -27,15 +28,19 @@ public class emailEvent : scr_Event
 
     private string sender;
     public string getSender() { return sender; }
+    public void setSender(string setVal) { sender = setVal; }
 
     private string subject;
     public string getSubject() { return subject; }
+    public void setSubject(string setVal) { subject = setVal; }
 
     private string message;
     public string getMessage() { return message; }
+    public void setMessage(string setVal) { message = setVal; }
 
     private string timeRecieved;
     public string getTimeRecieved() { return timeRecieved; }
+    public void setTimeRecieved(string setVal) { timeRecieved = setVal; }
 
     private bool readUnread;
     public bool getReadUnread() { return readUnread; }
@@ -44,51 +49,43 @@ public class emailEvent : scr_Event
     private bool acceptDecline;
     public bool getAcceptDecline() { return acceptDecline; }
     public void setAcceptDecline(bool setVal) { acceptDecline = setVal; }
+}
 
+public class emailEvent : scr_Event
+{
     public emailEvent(Status in_status, float in_timeStamp, bool in_readUnread)
     {
         scr_Database.EmailData emailData = scr_Database.database.GenerateEmailData();
 
-        status = in_status;
-        timeStamp = in_timeStamp;
-        readUnread = in_readUnread;
-        sender = emailData.getSender();
-        subject = emailData.getSubject();
-        message = emailData.getMessage();
-        timeRecieved = timeStamp.ToString();
+        setStatus(in_status);
+        setTimeStamp(in_timeStamp);
+        setReadUnread(in_readUnread);
+        setSender(emailData.getSender());
+        setSubject(emailData.getSubject());
+        setMessage(emailData.getMessage());
+        setTimeRecieved(getTimeStamp().ToString());
     }
 
     public override void RunEvent(int id)
     {
-        // TODO:
-
-        readUnread = false;
-
+        setReadUnread(false);
         GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedEmailPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
-        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id ,sender, subject, timeRecieved, message);
-
-        // View email
-
-        // Display info
-
-        // Accept or Decline
-
-        // Set to inactive/archived
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id ,getSender(), getSubject(), getTimeRecieved(), getMessage());
     }
 }
 
-public class communicateEvent : scr_Event
+public class spamEmailEvent : scr_Event
 {
     public override void RunEvent(int id)
     {
-        // TODO: Start communication game
+
     }
 }
 
-public class treatmentEvent : scr_Event
+public class tutorialInformationEvent : scr_Event
 {
     public override void RunEvent(int id)
     {
-        // TODO: Deal with something
+
     }
 }

@@ -10,6 +10,8 @@ public class scr_EventManager : MonoBehaviour
 
     public GameObject emailPrefab;
     public GameObject openedEmailPrefab;
+    public GameObject openedSpamPrefab;
+    public GameObject openedTutorialPrefab;
 
     private bool inputActive;
     public bool getInputActive() { return inputActive; }
@@ -18,6 +20,14 @@ public class scr_EventManager : MonoBehaviour
     private bool newEmailEventAdded;
     public bool getNewEmailEventAdded() { return newEmailEventAdded; }
     public void setNewEmailEventAdded(bool setVal) { newEmailEventAdded = setVal; }
+
+    private bool refreshRequired;
+    public bool getRefreshRequired() { return refreshRequired; }
+    public void setRefreshRequired(bool setVal) { refreshRequired = setVal; }
+
+    private bool isNotified;
+    public bool getIsNotified() { return isNotified; }
+    public void setIsNotified(bool setVal) { isNotified = setVal; }
 
     private int activeEmailCount;
     public int getActiveEmailCount() { return activeEmailCount; }
@@ -34,6 +44,8 @@ public class scr_EventManager : MonoBehaviour
             eventManager = this;
 
         eventList = new List<scr_Event>();
+
+        //CreateEmailEvent();
     }
 
     private void Update()
@@ -43,14 +55,14 @@ public class scr_EventManager : MonoBehaviour
 
     private void HandleInput()
     {
+        if (Input.GetKeyDown(KeyCode.G))
+            scr_EventManager.eventManager.CreateEmailEvent();
         switch (scr_MasterController.masterController.getCurrentScene())
         {
             case (scr_MasterController.Scenes.MAIN):
                 break;
 
             case (scr_MasterController.Scenes.EMAIL):
-                if (Input.GetKeyDown(KeyCode.G))
-                    scr_EventManager.eventManager.CreateEmailEvent();
                 if (scrollDOWNindex > 5 || scrollUPindex > 0)
                 {
                     if (Input.GetKey(KeyCode.DownArrow) || Input.GetAxis("MouseScrollWheel") < 0.0f)
@@ -66,8 +78,6 @@ public class scr_EventManager : MonoBehaviour
                             scrollDOWNindex--;
                             scrollUPindex++;
                         }
-                        Debug.Log("scrolldown = " + scrollDOWNindex);
-                        Debug.Log("scrollup = " + scrollUPindex);
                     }
                     if (Input.GetKey(KeyCode.UpArrow) || Input.GetAxis("MouseScrollWheel") > 0.0f)
                     {
@@ -82,8 +92,6 @@ public class scr_EventManager : MonoBehaviour
                             scrollUPindex--;
                             scrollDOWNindex++;
                         }
-                        Debug.Log("scrolldown = " + scrollDOWNindex);
-                        Debug.Log("scrollup = " + scrollUPindex);
                     }
                 }
                 break;

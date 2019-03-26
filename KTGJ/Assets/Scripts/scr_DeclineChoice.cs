@@ -18,7 +18,7 @@ public class scr_DeclineChoice : MonoBehaviour
         scr_EventManager.eventManager.decreaseActiveEmailCount();
         scr_EventManager.eventManager.resetScrollUPindex();
         scr_EventManager.eventManager.resetScrollDOWNindex();
-        scr_EventManager.eventManager.setNewEmailEventAdded(true);
+        scr_EventManager.eventManager.setRefreshRequired(true);
         Destroy(transform.parent.gameObject.transform.parent.gameObject);
     }
 }

@@ -32,7 +32,7 @@ public class scr_GUIinterface : MonoBehaviour
                 break;
 
             case (scr_MasterController.Scenes.EMAIL):
-                if (scr_EventManager.eventManager.getNewEmailEventAdded())
+                if (scr_EventManager.eventManager.getNewEmailEventAdded() || scr_EventManager.eventManager.getRefreshRequired())
                 {
                     int lastItem = scr_EventManager.eventList.Count;
                     if (scr_EventManager.eventList[lastItem - 1].GetType() == typeof(emailEvent))
@@ -70,7 +70,7 @@ public class scr_GUIinterface : MonoBehaviour
                     if (email.getReadUnread())
                     {
                         ColorBlock colours = emailObject.GetComponentInChildren<Button>().colors;
-                        Color32 colour = new Color32(147, 255, 255, 225);
+                        Color32 colour = new Color32(123, 236, 235, 225);
                         colours.normalColor = colour;
                         emailObject.GetComponentInChildren<Button>().colors = colours;
                     }
@@ -81,5 +81,6 @@ public class scr_GUIinterface : MonoBehaviour
             }
         }
         scr_EventManager.eventManager.setNewEmailEventAdded(false);
+        scr_EventManager.eventManager.setRefreshRequired(false);
     }
 }

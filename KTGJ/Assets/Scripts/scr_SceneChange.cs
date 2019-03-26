@@ -29,7 +29,10 @@ public class scr_SceneChange : MonoBehaviour
         else
         {
             if (scene == "sce_EmailPanel")
+            {
+                scr_EventManager.eventManager.setIsNotified(false);
                 scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.EMAIL);
+            }
             else if (scene == "sce_ComPanel")
                 scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.COMMS);
 
@@ -71,8 +74,11 @@ public class scr_SceneChange : MonoBehaviour
         }
         else
         {
-            if(scene == "sce_EmailPanel")
+            if (scene == "sce_EmailPanel")
+            {
+                scr_EventManager.eventManager.setIsNotified(false);
                 scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.EMAIL);
+            }
             else if (scene == "sce_ComPanel")
                 scr_MasterController.masterController.setCurrentScene(scr_MasterController.Scenes.COMMS);
 

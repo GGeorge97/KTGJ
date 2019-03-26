@@ -97,10 +97,10 @@ public class scr_Database : MonoBehaviour
         //=Senders=
         emailSenders = new string[eDataSize]
         {
-            "Whitehouse@gov.co.usa",
+            "Whitehouse@gov.co.us",
             "EnergyCorp@Qmail.com",
             "FutureTech@Qmail.com",
-            "CIA-Secure@gov.co.usa",
+            "CIA-Secure@gov.co.us",
             "Anon@Qmail.com"
         };
         //=========
@@ -111,7 +111,7 @@ public class scr_Database : MonoBehaviour
             " We need your help!",
             " This could be interesting...",
             " New objective",
-            " Run this experiment.",
+            " Run this experiment...",
             " Have a look at this"
         };
         //==========
@@ -120,10 +120,10 @@ public class scr_Database : MonoBehaviour
         emailGreetings = new string[eDataSize]
         {
             " Hello!",
-            " Greetings, how are you, Sir?",
-            " Sir!",
-            " Hello again,",
-            " Hey,"
+            " Hello, how are you?",
+            " Hey!",
+            " Hello again.",
+            " Greetings."
         };
         //===========
 
@@ -141,11 +141,11 @@ public class scr_Database : MonoBehaviour
         //=Goodbye=
         emailGoodbye = new string[eDataSize] 
         {
-            " Thanks, bye.",
-            " Goodbye.",
+            " Thank you for your help.",
+            " We need your signature!",
             " Please choose quick!",
             " The sooner the better. Thanks.",
-            " We would appreciate it, Sir."
+            " We would appreciate it."
         };
         //=========
 
