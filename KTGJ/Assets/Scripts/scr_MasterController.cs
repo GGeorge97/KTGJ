@@ -31,8 +31,16 @@ public class scr_MasterController : MonoBehaviour
     private string[] gameClock;                 // Simulation clock
     public string getGameClock(int i) { return gameClock[i]; }
 
-    private const float endgameTime = 5000.0f;  // End of game time value
+    private const float endgameTime = 300.0f;  // End of game time value, 300 = 5 mins
     public float getEndgameTime() { return endgameTime; }
+
+    private bool timerWarning = false;      // Two minutes until game over
+    public bool getTimerWarning() { return timerWarning; }
+    public void setTimerWarning(bool setVal) { timerWarning = setVal; }
+
+    private bool gameOver = false;             // Game Over flag
+    public bool getGameOver() { return gameOver; }
+    public void setGameOver(bool setVal) { gameOver = setVal; }
 
     private int funds;                          // Player money count
     public int getFunds() { return funds; }
@@ -60,9 +68,16 @@ public class scr_MasterController : MonoBehaviour
         }
     }
 
+    private float warningThreshhold = endgameTime - (endgameTime / 25.0f);
     private void Update()
     {
         elapsedTime += Time.deltaTime;
-        //Debug.Log("Timer = " + elapsedTime);
+        Debug.Log("Timer = " + elapsedTime);
+
+        if (elapsedTime >= warningThreshhold)
+            timerWarning = true;
+
+        if (elapsedTime >= endgameTime)
+            gameOver = true;
     }
 }
