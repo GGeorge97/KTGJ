@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.47852492, b: 1, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.19270587, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -535,6 +535,7 @@ GameObject:
   - component: {fileID: 6953787833957486793}
   - component: {fileID: 8285990953837226186}
   - component: {fileID: 8178038088748401390}
+  - component: {fileID: 6642030819369921546}
   m_Layer: 0
   m_Name: DeclineButton
   m_TagString: Untagged
@@ -585,7 +586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.697198, b: 0, a: 1}
+  m_Color: {r: 0.9622642, g: 0.20014769, b: 0.18609825, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -644,6 +645,18 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &6642030819369921546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5204792317654215451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c5767f2e43d884f8bb8fe79729bc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5575143572158353561
 GameObject:
   m_ObjectHideFlags: 0

@@ -65,7 +65,7 @@ public class emailEvent : scr_Event
         readUnread = false;
 
         GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedEmailPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
-        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(sender, subject, timeRecieved, message);
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id ,sender, subject, timeRecieved, message);
 
         // View email
 

@@ -21,12 +21,12 @@ public class scr_EventManager : MonoBehaviour
 
     private int activeEmailCount;
     public int getActiveEmailCount() { return activeEmailCount; }
-    public void setActiveEmailCount(int setVal) { activeEmailCount = setVal; }
+    public void decreaseActiveEmailCount() { activeEmailCount--; }
 
     private int scrollUPindex = 0;
     public void resetScrollUPindex() { scrollUPindex = 0; }
     private int scrollDOWNindex = 0;
-    public void resetScrollDOWNindex() { scrollDOWNindex = eventList.Count; }
+    public void resetScrollDOWNindex() { scrollDOWNindex = activeEmailCount; }
 
     void Start()
     {
@@ -66,6 +66,8 @@ public class scr_EventManager : MonoBehaviour
                             scrollDOWNindex--;
                             scrollUPindex++;
                         }
+                        Debug.Log("scrolldown = " + scrollDOWNindex);
+                        Debug.Log("scrollup = " + scrollUPindex);
                     }
                     if (Input.GetKey(KeyCode.UpArrow) || Input.GetAxis("MouseScrollWheel") > 0.0f)
                     {
@@ -80,6 +82,8 @@ public class scr_EventManager : MonoBehaviour
                             scrollUPindex--;
                             scrollDOWNindex++;
                         }
+                        Debug.Log("scrolldown = " + scrollDOWNindex);
+                        Debug.Log("scrollup = " + scrollUPindex);
                     }
                 }
                 break;
@@ -101,8 +105,8 @@ public class scr_EventManager : MonoBehaviour
     {
         eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime(), true));
         activeEmailCount++;
-        scrollUPindex = 0;
-        scrollDOWNindex++;
+        scr_EventManager.eventManager.resetScrollUPindex();
+        scr_EventManager.eventManager.resetScrollDOWNindex();
         newEmailEventAdded = true;
     }
 }
