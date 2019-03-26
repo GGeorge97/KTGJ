@@ -8,7 +8,7 @@ public class scr_Database : MonoBehaviour
     // Static reference
     public static scr_Database database;
 
-    public struct EmailData
+    public struct EmailData // CHOICES
     {
         private string sender;
         public string getSender() { return sender; }
@@ -50,6 +50,90 @@ public class scr_Database : MonoBehaviour
         emailData.setMessage(msg);
 
         return emailData;
+    }
+
+    public struct SpamData  // SPAM
+    {
+        private string sender;
+        public string getSender() { return sender; }
+        public void setSender(string i) { sender = i; }
+        private string subject;
+        public string getSubject() { return subject; }
+        public void setSubject(string i) { subject = i; }
+        private string message;
+        public string getMessage() { return message; }
+        public void setMessage(string i) { message = i; }
+    }
+
+    private const int sDataSize = 5;
+    private string[] spamSenders;
+    private string[] spamSubjects;
+    private string[] spamGreetings;
+    private string[] spamBody;
+    private string[] spamGoodbye;
+
+    public SpamData GenerateSpamData()
+    {
+        SpamData spamData = new SpamData();
+
+        Random.InitState(System.Environment.TickCount);
+
+        int rand = Random.Range(0, sDataSize);
+        spamData.setSender(spamSenders[rand]);
+
+        rand = Random.Range(0, sDataSize);
+        spamData.setSubject(spamSubjects[rand]);
+
+        string msg = "";
+        rand = Random.Range(0, sDataSize);
+        msg += spamGreetings[rand];
+        rand = Random.Range(0, sDataSize);
+        msg += spamBody[rand];
+        rand = Random.Range(0, sDataSize);
+        msg += spamGoodbye[rand];
+        spamData.setMessage(msg);
+
+        return spamData;
+    }
+
+    public struct TutorialData  // TUTORIALS
+    {
+        private string sender;
+        public string getSender() { return sender; }
+        public void setSender(string i) { sender = i; }
+        private string subject;
+        public string getSubject() { return subject; }
+        public void setSubject(string i) { subject = i; }
+        private string message;
+        public string getMessage() { return message; }
+        public void setMessage(string i) { message = i; }
+    }
+
+    private const int tDataSize = 5;
+    private int tutorialIndex = 0;
+    private string[] tutorialSenders;
+    private string[] tutorialSubjects;
+    private string[] tutorialGreetings;
+    private string[] tutorialBody;
+    private string[] tutorialGoodbye;
+
+    public TutorialData GenerateTutorialData()
+    {
+        TutorialData tutorialData = new TutorialData();
+
+        tutorialData.setSender(tutorialSenders[tutorialIndex]);
+        tutorialData.setSubject(tutorialSubjects[tutorialIndex]);
+
+        string msg = "";
+        msg += tutorialGreetings[tutorialIndex];
+        msg += tutorialBody[tutorialIndex];
+        msg += tutorialGoodbye[tutorialIndex];
+        tutorialData.setMessage(msg);
+
+        if(tutorialIndex < tDataSize - 1)
+            tutorialIndex++;
+
+        return tutorialData;
     }
 
     public struct PhraseData
@@ -103,6 +187,22 @@ public class scr_Database : MonoBehaviour
             "CIA-Secure@gov.co.us",
             "Anon@Qmail.com"
         };
+        spamSenders = new string[sDataSize]
+        {
+            "",
+            "",
+            "",
+            "",
+            ""
+        };
+        tutorialSenders = new string[tDataSize]
+{
+            "Whitehouse@gov.co.us",
+            "",
+            "",
+            "",
+            ""
+};
         //=========
 
         //=Subjects=
@@ -114,10 +214,26 @@ public class scr_Database : MonoBehaviour
             " Run this experiment...",
             " Have a look at this"
         };
+        spamSubjects = new string[sDataSize]
+        {
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        };
+        tutorialSubjects = new string[sDataSize]
+        {
+            "Your Mission, Commander:",
+            " ",
+            " ",
+            " ",
+            " "
+        };
         //==========
 
         //=Greetings=
-        emailGreetings = new string[eDataSize]
+        emailGreetings = new string[tDataSize]
         {
             " Hello!",
             " Hello, how are you?",
@@ -125,27 +241,75 @@ public class scr_Database : MonoBehaviour
             " Hello again.",
             " Greetings."
         };
+        spamGreetings = new string[sDataSize]
+        {
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        };
+        tutorialGreetings = new string[tDataSize]
+        {
+            "Greetings, Commander.",
+            " ",
+            " ",
+            " ",
+            " "
+        };
         //===========
 
         //=Bodies=
         emailBody = new string[eDataSize] 
         {
-            " There has been a fatal disease outbreak and the Alien holds the key to stopping the deaths. Will you agree to a surgical operation to study the Alien's DNA & cells?",
-            " A viral outbreak is killing many humans and animals but if we exploit the Alien's immune system we could produce an antivirus! Do you agree to the experiment?",
+            " There has been a fatal disease outbreak and the Alien holds the key to stopping the deaths.\nWill you agree to a surgical operation to study the Alien's DNA & cells?",
+            " A viral outbreak is killing many humans and animals but if we exploit the Alien's immune system we could produce an antivirus!\nDo you agree to the experiment?",
             " Help us advance technology by hurting the Alien.",
             " Save the animals by hurting the Alien.",
             " Experiment on the Alien to advance medical care for the sick."
+        };
+        spamBody = new string[sDataSize]
+        {
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        };
+        tutorialBody = new string[tDataSize]
+        {
+            "\nYou are tasked with monitoring the specimen held in containment within your laboratory. We have intercepted transmissions which indicate that the alien Mothership is en route to Earth and their intentions are unclear. We will keep in contact through the email system for your approval of certain alien experiments. These experiments will greatly benefit Humanity. Make sure to keep the alien safe and happy.",
+            " ",
+            " ",
+            " ",
+            " "
         };
         //========
 
         //=Goodbye=
         emailGoodbye = new string[eDataSize] 
         {
-            " Thank you for your help.",
-            " We need your signature!",
-            " Please choose quick!",
-            " The sooner the better. Thanks.",
-            " We would appreciate it."
+            "\nThank you for your help.",
+            "\nWe need your signature!",
+            "\nPlease choose quick!",
+            "\nThe sooner the better. Thanks.",
+            "\nWe would appreciate it."
+        };
+        spamGoodbye = new string[sDataSize]
+        {
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        };
+        tutorialGoodbye = new string[tDataSize]
+        {
+            "\nGood luck, Commander.",
+            " ",
+            " ",
+            " ",
+            " "
         };
         //=========
 

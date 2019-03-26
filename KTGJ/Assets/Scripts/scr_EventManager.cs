@@ -6,7 +6,7 @@ public class scr_EventManager : MonoBehaviour
 {
     // Static reference
     public static scr_EventManager eventManager;
-    public static List<scr_Event> eventList;        // <--- This list is just for email events, renaming will take too long
+    public static List<scr_Event> eventList;    // <--- This list is just for email events, renaming will take too long
 
     public GameObject emailPrefab;
     public GameObject openedEmailPrefab;
@@ -55,14 +55,14 @@ public class scr_EventManager : MonoBehaviour
         if (scr_MasterController.masterController.getElapsedTime() > 3.0f && !once)
         {
             once = true;
-            CreateEmailEvent();
+            CreateEmailEvent(scr_Event.EmailType.TUTORIAL);
         }
     }
 
     private void HandleInput()
     {
         if (Input.GetKeyDown(KeyCode.G))
-            scr_EventManager.eventManager.CreateEmailEvent();
+            scr_EventManager.eventManager.CreateEmailEvent(scr_Event.EmailType.CHOICE);
         switch (scr_MasterController.masterController.getCurrentScene())
         {
             case (scr_MasterController.Scenes.MAIN):
@@ -115,9 +115,22 @@ public class scr_EventManager : MonoBehaviour
         eventList[eventID].RunEvent(eventID);
     }
 
-    public void CreateEmailEvent()
+    public void CreateEmailEvent(scr_Event.EmailType type)
     {
-        eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime(), true));
+        switch (type)
+        {
+            case scr_Event.EmailType.CHOICE:
+                eventList.Add(new emailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime(), true));
+                break;
+            case scr_Event.EmailType.SPAM:
+                eventList.Add(new spamEmailEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime(), true));
+                break;
+            case scr_Event.EmailType.TUTORIAL:
+                eventList.Add(new tutorialInformationEvent(scr_Event.Status.ACTIVE, scr_MasterController.masterController.getElapsedTime(), true));
+                break;
+            default:
+                return;
+        }
         activeEmailCount++;
         scr_EventManager.eventManager.resetScrollUPindex();
         scr_EventManager.eventManager.resetScrollDOWNindex();

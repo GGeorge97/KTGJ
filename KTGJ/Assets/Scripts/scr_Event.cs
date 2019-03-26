@@ -14,6 +14,10 @@ public class scr_Event : MonoBehaviour
         ACTIVE, ARCHIVED
     }
 
+    private EmailType type;
+    public EmailType getType() { return type; }
+    public void setType(EmailType setVal) { type = setVal; }
+
     private Status status;
     public Status getStatus() { return status; }
     public void setStatus(Status setVal) { status = setVal; }
@@ -76,16 +80,46 @@ public class emailEvent : scr_Event
 
 public class spamEmailEvent : scr_Event
 {
+    public spamEmailEvent(Status in_status, float in_timeStamp, bool in_readUnread)
+    {
+        scr_Database.SpamData spamData = scr_Database.database.GenerateSpamData();
+
+        setStatus(in_status);
+        setTimeStamp(in_timeStamp);
+        setReadUnread(in_readUnread);
+        setSender(spamData.getSender());
+        setSubject(spamData.getSubject());
+        setMessage(spamData.getMessage());
+        setTimeRecieved(getTimeStamp().ToString());
+    }
+
     public override void RunEvent(int id)
     {
-
+        setReadUnread(false);
+        GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedSpamPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id, getSender(), getSubject(), getTimeRecieved(), getMessage());
     }
 }
 
 public class tutorialInformationEvent : scr_Event
 {
+    public tutorialInformationEvent(Status in_status, float in_timeStamp, bool in_readUnread)
+    {
+        scr_Database.TutorialData tutorialData = scr_Database.database.GenerateTutorialData();
+
+        setStatus(in_status);
+        setTimeStamp(in_timeStamp);
+        setReadUnread(in_readUnread);
+        setSender(tutorialData.getSender());
+        setSubject(tutorialData.getSubject());
+        setMessage(tutorialData.getMessage());
+        setTimeRecieved(getTimeStamp().ToString());
+    }
+
     public override void RunEvent(int id)
     {
-
+        setReadUnread(false);
+        GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedTutorialPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id, getSender(), getSubject(), getTimeRecieved(), getMessage(), 24);
     }
 }

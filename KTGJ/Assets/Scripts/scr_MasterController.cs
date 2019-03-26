@@ -72,7 +72,7 @@ public class scr_MasterController : MonoBehaviour
     private void Update()
     {
         elapsedTime += Time.deltaTime;
-        Debug.Log("Timer = " + elapsedTime);
+        //Debug.Log("Timer = " + elapsedTime);
 
         if (elapsedTime >= warningThreshhold)
             timerWarning = true;

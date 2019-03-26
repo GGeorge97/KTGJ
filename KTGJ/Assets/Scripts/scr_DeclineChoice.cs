@@ -12,8 +12,8 @@ public class scr_DeclineChoice : MonoBehaviour
 
     private void Decline()
     {
-        emailEvent email;
-        email = (emailEvent)scr_EventManager.eventList[transform.parent.gameObject.GetComponent<scr_OpenEmail>().getEventID()];
+        scr_Event email;
+        email = scr_EventManager.eventList[transform.parent.gameObject.GetComponent<scr_OpenEmail>().getEventID()];
         email.setStatus(scr_Event.Status.ARCHIVED);
         scr_EventManager.eventManager.decreaseActiveEmailCount();
         scr_EventManager.eventManager.resetScrollUPindex();
