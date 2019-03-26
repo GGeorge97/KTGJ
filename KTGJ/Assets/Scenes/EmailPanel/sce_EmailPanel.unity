@@ -369,6 +369,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5047095777481480743, guid: d01e2b616e6352048b792bf2301b8cb0,
+        type: 3}
+      propertyPath: openedEmailPrefab
+      value: 
+      objectReference: {fileID: 4317539290921130286, guid: abb702011ccb4194388f07260daa8d86,
+        type: 3}
     - target: {fileID: 1650732399902581961, guid: d01e2b616e6352048b792bf2301b8cb0,
         type: 3}
       propertyPath: emoji1
@@ -478,7 +484,7 @@ GameObject:
   - component: {fileID: 793411914}
   m_Layer: 0
   m_Name: EmailScreenImage
-  m_TagString: Untagged
+  m_TagString: EmailScreenNoMask
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -607,7 +613,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -872,7 +878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Navigation:
-    m_Mode: 3
+    m_Mode: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}

@@ -38,7 +38,7 @@ public class scr_Database : MonoBehaviour
         emailData.setSender(emailSenders[rand]);
 
         rand = Random.Range(0, eDataSize);
-        emailData.setSubject(emailSenders[rand]);
+        emailData.setSubject(emailSubjects[rand]);
 
         string msg = "";
         rand = Random.Range(0, eDataSize);
@@ -97,55 +97,55 @@ public class scr_Database : MonoBehaviour
         //=Senders=
         emailSenders = new string[eDataSize]
         {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            "Whitehouse@gov.co.usa",
+            "EnergyCorp@Qmail.com",
+            "FutureTech@Qmail.com",
+            "CIA-Secure@gov.co.usa",
+            "Anon@Qmail.com"
         };
         //=========
 
         //=Subjects=
         emailSubjects = new string[eDataSize]
         {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            " We need your help!",
+            " This could be interesting...",
+            " New objective",
+            " Run this experiment.",
+            " Have a look at this"
         };
         //==========
 
         //=Greetings=
         emailGreetings = new string[eDataSize]
         {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            " Hello!",
+            " Greetings, how are you, Sir?",
+            " Sir!",
+            " Hello again,",
+            " Hey,"
         };
         //===========
 
         //=Bodies=
         emailBody = new string[eDataSize] 
         {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            " There has been a fatal disease outbreak and the Alien holds the key to stopping the deaths. Will you agree to a surgical operation to study the Alien's DNA & cells?",
+            " A viral outbreak is killing many humans and animals but if we exploit the Alien's immune system we could produce an antivirus! Do you agree to the experiment?",
+            " Help us advance technology by hurting the Alien.",
+            " Save the animals by hurting the Alien.",
+            " Experiment on the Alien to advance medical care for the sick."
         };
         //========
 
         //=Goodbye=
         emailGoodbye = new string[eDataSize] 
         {
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            " Thanks, bye.",
+            " Goodbye.",
+            " Please choose quick!",
+            " The sooner the better. Thanks.",
+            " We would appreciate it, Sir."
         };
         //=========
 

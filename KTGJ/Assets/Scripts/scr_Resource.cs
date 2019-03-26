@@ -31,7 +31,7 @@ public class scr_Resource : MonoBehaviour
         }
         else
         {
-            Debug.Log("Gus mad");
+           // Debug.Log("Gus mad");
         }
 
         if (delay >= 0.0f)

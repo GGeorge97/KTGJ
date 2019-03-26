@@ -9,6 +9,7 @@ public class scr_EventManager : MonoBehaviour
     public static List<scr_Event> eventList;        // <--- This list is just for email events, renaming will take too long
 
     public GameObject emailPrefab;
+    public GameObject openedEmailPrefab;
 
     private bool inputActive;
     public bool getInputActive() { return inputActive; }
@@ -93,7 +94,7 @@ public class scr_EventManager : MonoBehaviour
 
     public void RunEvent(int eventID)
     {
-        eventList[eventID].RunEvent();
+        eventList[eventID].RunEvent(eventID);
     }
 
     public void CreateEmailEvent()

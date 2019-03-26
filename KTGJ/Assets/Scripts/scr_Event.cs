@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class scr_Event
+public class scr_Event : MonoBehaviour
 {
-    public virtual void RunEvent() { }
+    public virtual void RunEvent(int id) { }
     public enum Status
     {
         ACTIVE, ARCHIVED
@@ -58,11 +58,14 @@ public class emailEvent : scr_Event
         timeRecieved = timeStamp.ToString();
     }
 
-    public override void RunEvent()
+    public override void RunEvent(int id)
     {
         // TODO:
 
         readUnread = false;
+
+        GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedEmailPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(sender, subject, timeRecieved, message);
 
         // View email
 
@@ -76,7 +79,7 @@ public class emailEvent : scr_Event
 
 public class communicateEvent : scr_Event
 {
-    public override void RunEvent()
+    public override void RunEvent(int id)
     {
         // TODO: Start communication game
     }
@@ -84,7 +87,7 @@ public class communicateEvent : scr_Event
 
 public class treatmentEvent : scr_Event
 {
-    public override void RunEvent()
+    public override void RunEvent(int id)
     {
         // TODO: Deal with something
     }

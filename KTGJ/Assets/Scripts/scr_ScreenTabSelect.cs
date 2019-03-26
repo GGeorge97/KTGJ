@@ -8,19 +8,14 @@ public class scr_ScreenTabSelect : MonoBehaviour
     public GameObject emailScreen;
     public GameObject shopScreen;
 
-    private bool tab = false;
-    // false = email
-    // true = shop
-
-    void Start()
+    void Awake()
     {
         gameObject.GetComponent<Button>().onClick.AddListener(ChangeTab);
     }
 
     private void ChangeTab()
     {
-        tab = !tab;
-        if (tab)
+        if (gameObject.name == "ShopTab")
             shopScreen.SetActive(true);
         else
             shopScreen.SetActive(false);

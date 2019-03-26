@@ -59,6 +59,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emailPrefab: {fileID: 8523803185663530189, guid: 8e207ab42a6ae8744b9600a1844d5438,
     type: 3}
+  openedEmailPrefab: {fileID: 9086864874124048486, guid: cf2ac74b3cae97f4fb8f3decc75eab42,
+    type: 3}
 --- !u!114 &1650732399902581961
 MonoBehaviour:
   m_ObjectHideFlags: 0
