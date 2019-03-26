@@ -12,9 +12,8 @@ public class scr_PressureBar : MonoBehaviour
     [SerializeField]
     private Image pressureNeedle;
 
-    private float start = 45.0f;
-    private float end = -135.0f; 
-    private float scale;
+    private float maxVal;
+    private float speed;
 
     private void Start()
     {
@@ -22,42 +21,51 @@ public class scr_PressureBar : MonoBehaviour
 
         button.onClick.AddListener(OnClick);
 
-        resource.setResourceScale(100.0f);
-        resource.setDecayModifier(5.0f);
+        maxVal = 100.0f;
+        resource.setResourceScale(maxVal);
         resource.setRescourceValue(25.0f);
         resource.setDelay(2.5f);
+
+        // Get the speed of the needle based of 180 degrees over the time/scale of the pressure bar
+        speed = 180 / resource.getResourceScale();
     }
 
     private void Update()
-    {
-        // speed of needle over duration (Need to slightly fix a bit)
-        scale = 180 / resource.getResouceScale();
+    { 
         resource.UpdateValues();
         UpdatePressure();
-        //Debug.Log(resource.getResourceScale());
     }
 
     private void OnClick()
     {
+        // Check if the cooldown of the lever is ready
         if (resource.getDelay() <= 0.0f)
         {
+            // Add the resource value to the time/scale of the pressure bar
             resource.AddResourceValue();
-            if (resource.getResourceValue() + resource.getResouceScale() >= 100.0f)
+            if (resource.getResourceScale() >= maxVal)
             {
-                pressureNeedle.transform.rotation = Quaternion.AngleAxis(45.0f, new Vector3(0.0f, 0.0f, 45.0f));
+                // Clamp to max value if greater 
+                // Also clamp the needle to the max pressure value 
+                resource.setResourceScale(maxVal);
+                pressureNeedle.transform.rotation = Quaternion.AngleAxis(0.0f, new Vector3(0.0f, 0.0f, 1.0f));
             }
             else
             {
-                pressureNeedle.transform.Rotate(0.0f, 0.0f, resource.getResourceValue());
+                // Calculate the precentage of the added time/scale over 180 
+                // Then rotate the needle to the correct added value
+                float percentage = ((180 * resource.getResourceScale()) / 100);
+                pressureNeedle.transform.eulerAngles = new Vector3(0.0f, 0.0f, (percentage - 180));
             }
         }
     }
 
     private void UpdatePressure()
     {
-        if (resource.getResouceScale() >= 0.0f)
+        // Keep the pressure needle rotating until -180
+        if (pressureNeedle.transform.rotation != Quaternion.Euler(0.0f, 0.0f, -180.0f))
         {
-            pressureNeedle.transform.Rotate(0.0f, 0.0f, -scale * Time.deltaTime);
+            pressureNeedle.transform.Rotate(0.0f, 0.0f, -speed * Time.deltaTime);
         }
     }
 }

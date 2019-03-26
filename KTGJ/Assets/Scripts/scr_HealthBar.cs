@@ -16,7 +16,9 @@ public class scr_HealthBar : MonoBehaviour
     [SerializeField]
     private Sprite blank; 
     [SerializeField]
-    private Image[] healthBar = new Image[3]; 
+    private Image[] healthBar = new Image[3];
+
+    private float percentage = 0.0f; 
 
     private void Start()
     {
@@ -30,9 +32,11 @@ public class scr_HealthBar : MonoBehaviour
 
         //Testing values 
         resource.setResourceScale(100.0f);
-        resource.setDecayModifier(2.5f);
+        resource.setDecayModifier(5.0f);
         resource.setRescourceValue(16.6f);
         resource.setDelay(5.0f);
+
+        percentage = resource.getResourceScale() / (healthBar.Length * 2);
     }
 
     private void Update()
@@ -55,33 +59,33 @@ public class scr_HealthBar : MonoBehaviour
     private void UpdateHealth()
     {
         // Need to change from hardcoded (temp)
-        if (resource.getResouceScale() >= 83.3f && resource.getResouceScale() <= 100.0f)
+        if (resource.getResourceScale() >= (percentage * 5) && resource.getResourceScale() <= (percentage * 6))
         {
             healthBar[2].sprite = fullHealth;
         }
-        else if (resource.getResouceScale() >= 66.6f && resource.getResouceScale() <= 83.3f)
+        else if (resource.getResourceScale() >= (percentage * 4) && resource.getResourceScale() <= (percentage * 5))
         {
             healthBar[2].sprite = halfHealth; 
         }
-        else if (resource.getResouceScale() >= 50.0f && resource.getResouceScale() <= 66.6f)
+        else if (resource.getResourceScale() >= (percentage * 3) && resource.getResourceScale() <= (percentage * 4))
         {
             healthBar[2].sprite = blank;
             healthBar[1].sprite = fullHealth;
         }
-        else if (resource.getResouceScale() >= 33.3f && resource.getResouceScale() <= 50.0f)
+        else if (resource.getResourceScale() >= (percentage * 2) && resource.getResourceScale() <= (percentage * 3))
         {
             healthBar[1].sprite = halfHealth;
         }
-        else if (resource.getResouceScale() >= 16.6f && resource.getResouceScale() <= 33.3f)
+        else if (resource.getResourceScale() >= (percentage) && resource.getResourceScale() <= (percentage * 2))
         {
             healthBar[1].sprite = blank;
             healthBar[0].sprite = fullHealth;
         }
-        else if (resource.getResouceScale() >= 0.0f && resource.getResouceScale() <= 16.6f)
+        else if (resource.getResourceScale() >= 0.0f && resource.getResourceScale() <= (percentage))
         {
             healthBar[0].sprite = halfHealth; 
         }
-        else if (resource.getResouceScale() <= 0.0f)
+        else if (resource.getResourceScale() <= 0.0f)
         {
             healthBar[0].sprite = blank;
         }
