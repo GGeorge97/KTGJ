@@ -28,9 +28,6 @@ public class scr_MasterController : MonoBehaviour
     private float elapsedTime;                  // Global timer
     public float getElapsedTime() { return elapsedTime; }
 
-    private string[] gameClock;                 // Simulation clock
-    public string getGameClock(int i) { return gameClock[i]; }
-
     private const float endgameTime = 300.0f;  // End of game time value, 300 = 5 mins
     public float getEndgameTime() { return endgameTime; }
 

@@ -52,7 +52,7 @@ public class scr_EventManager : MonoBehaviour
     {
         HandleInput();
 
-        if (scr_MasterController.masterController.getElapsedTime() > 3.0f && !once)
+        if (scr_MasterController.masterController.getElapsedTime() > 2.0f && !once)
         {
             once = true;
             CreateEmailEvent(scr_Event.EmailType.TUTORIAL);

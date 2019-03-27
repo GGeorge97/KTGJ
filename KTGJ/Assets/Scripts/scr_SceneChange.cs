@@ -10,9 +10,11 @@ public class scr_SceneChange : MonoBehaviour
     public bool isUnloader = false;
     public string scene = "sce_Main";
     public AnimationClip transitionAnimation;
+    private AudioSource audioClip;
 
     void Start()
     {
+        audioClip = gameObject.GetComponent<AudioSource>();
         if (isUnloader)
             gameObject.GetComponent<Button>().onClick.AddListener(Unload);
         else
@@ -21,6 +23,7 @@ public class scr_SceneChange : MonoBehaviour
 
     void SceneTransition()
     {
+        audioClip.Play();
         if (transitionAnimation)
         {
             scr_SceneDirector.animator.Play(transitionAnimation.name);

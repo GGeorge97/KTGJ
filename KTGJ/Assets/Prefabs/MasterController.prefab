@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2565377739464811709}
   - component: {fileID: 5047095777481480743}
   - component: {fileID: 1650732399902581961}
+  - component: {fileID: 6931790902664312354}
   m_Layer: 0
   m_Name: MasterController
   m_TagString: Untagged
@@ -81,3 +82,11 @@ MonoBehaviour:
   emoji1: {fileID: 21300000, guid: eab424758fd43ab4d85a4cb941cf4c89, type: 3}
   emoji2: {fileID: 21300000, guid: f6f67b50ed28fec41a5ed8466300599c, type: 3}
   emoji3: {fileID: 21300000, guid: 918876b9e23c97d42868143a7b48ab46, type: 3}
+--- !u!81 &6931790902664312354
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475143204488407449}
+  m_Enabled: 1

@@ -67,7 +67,7 @@ public class emailEvent : scr_Event
         setSender(emailData.getSender());
         setSubject(emailData.getSubject());
         setMessage(emailData.getMessage());
-        setTimeRecieved(getTimeStamp().ToString());
+        setTimeRecieved(emailData.getTimeRecieved());
     }
 
     public override void RunEvent(int id)
@@ -90,7 +90,7 @@ public class spamEmailEvent : scr_Event
         setSender(spamData.getSender());
         setSubject(spamData.getSubject());
         setMessage(spamData.getMessage());
-        setTimeRecieved(getTimeStamp().ToString());
+        setTimeRecieved(spamData.getTimeRecieved());
     }
 
     public override void RunEvent(int id)
@@ -113,7 +113,7 @@ public class tutorialInformationEvent : scr_Event
         setSender(tutorialData.getSender());
         setSubject(tutorialData.getSubject());
         setMessage(tutorialData.getMessage());
-        setTimeRecieved(getTimeStamp().ToString());
+        setTimeRecieved(tutorialData.getTimeRecieved());
     }
 
     public override void RunEvent(int id)
