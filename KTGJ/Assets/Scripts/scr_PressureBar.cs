@@ -31,7 +31,7 @@ public class scr_PressureBar : MonoBehaviour
     }
 
     private void Update()
-    { 
+    {
         resource.UpdateValues();
         UpdatePressure();
     }

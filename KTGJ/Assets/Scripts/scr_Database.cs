@@ -152,7 +152,7 @@ public class scr_Database : MonoBehaviour
 
     public struct PhraseData
     {
-        private Sprite[] emojis;
+        public Sprite[] emojis;
         public Sprite[] getEmojis() { return emojis; }
         public void setEmojis(Sprite image, int i) { emojis[i] = image; }
         private string phrase;
@@ -179,6 +179,8 @@ public class scr_Database : MonoBehaviour
         Random.InitState(System.Environment.TickCount);
 
         int rand = Random.Range(0, pDataSize);
+
+        phraseData.emojis = new Sprite[3];
         for (int i = 0; i < 3; i++)
             phraseData.setEmojis(emojiSets[rand, i], i);
 
@@ -334,7 +336,7 @@ public class scr_Database : MonoBehaviour
         //=Phrases=
         phrases = new string[pDataSize] 
         {
-            "abc",
+            "Help",
             "abc_xyz",
             "abc_xyz_nop"
         };
@@ -342,7 +344,7 @@ public class scr_Database : MonoBehaviour
 
         emojiSets = new Sprite[pDataSize, pDataSize] 
         {
-            { emoji1, emptyEmoji, emptyEmoji },
+            { emptyEmoji, emoji1, emptyEmoji },
             { emoji1, emoji2, emptyEmoji },
             { emoji1, emoji2, emoji3 }
         };

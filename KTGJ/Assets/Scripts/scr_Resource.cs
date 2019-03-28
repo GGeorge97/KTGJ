@@ -46,4 +46,9 @@ public class scr_Resource : MonoBehaviour
 
         delay = 3.0f;
     }
+
+    public void AddPressure()
+    {
+        resourceScale += 2.0f * Time.deltaTime;
+    }
 }
