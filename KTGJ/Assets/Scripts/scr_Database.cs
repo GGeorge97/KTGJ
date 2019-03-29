@@ -209,7 +209,8 @@ public class scr_Database : MonoBehaviour
         public void setPhrase(string i) { phrase = i; }
     }
 
-    private const int pDataSize = 3;
+    private const int pDataSize = 2;
+    private const int cDataSize = 3;
     private Sprite[,] emojiSets;
     private string[] phrases;
     [SerializeField]
@@ -394,16 +395,14 @@ public class scr_Database : MonoBehaviour
         phrases = new string[pDataSize] 
         {
             "HELP",
-            "abc_xyz",
-            "abc_xyz_nop"
+            "HUNGRY"
         };
         //=========
 
-        emojiSets = new Sprite[pDataSize, pDataSize] 
+        emojiSets = new Sprite[pDataSize, cDataSize] 
         {
             { emptyEmoji, emoji1, emptyEmoji },
-            { emoji1, emoji2, emptyEmoji },
-            { emoji1, emoji2, emoji3 }
+            { emoji2, emoji3, emptyEmoji }
         };
 
         gameClock = new string[]

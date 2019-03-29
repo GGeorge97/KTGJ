@@ -50,6 +50,7 @@ public class scr_EmojiEvent : MonoBehaviour
         setPhrase(phraseData.getPhrase());
 
         shuffle = phrase.ToCharArray();
+        codedString = phrase.ToCharArray();
         for (int i = 0; i < phrase.Length; i++)
         {
             if (phrase[i] == '_')
