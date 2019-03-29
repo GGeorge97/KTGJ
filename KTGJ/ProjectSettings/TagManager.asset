@@ -8,6 +8,7 @@ TagManager:
   - EmailScreen
   - ShopScreen
   - EmailScreenNoMask
+  - MasterController
   layers:
   - Default
   - TransparentFX
@@ -42,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sprite
+    uniqueID: 3859376863
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

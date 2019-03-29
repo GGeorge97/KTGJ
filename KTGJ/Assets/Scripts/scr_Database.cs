@@ -8,6 +8,18 @@ public class scr_Database : MonoBehaviour
     // Static reference
     public static scr_Database database;
 
+    // Icon sprites
+    [SerializeField]
+    private Sprite iconTutorial;
+    [SerializeField]
+    private Sprite iconSpam1;
+    [SerializeField]
+    private Sprite iconSpam2;
+    [SerializeField]
+    private Sprite iconChoice1;
+    [SerializeField]
+    private Sprite iconChoice2;
+
     public struct EmailData // CHOICES
     {
         private string sender;
@@ -22,6 +34,18 @@ public class scr_Database : MonoBehaviour
         private string timeRecieved;
         public string getTimeRecieved() { return timeRecieved; }
         public void setTimeRecieved(string i) { timeRecieved = i; }
+        private string result;
+        public string getResult() { return result; }
+        public void setResult(string i) { result = i; }
+        private int cashReward;
+        public int getCashReward() { return cashReward; }
+        public void setCashReward(int i) { cashReward = i; }
+        private int moodImpact;
+        public int getMoodImpact() { return moodImpact; }
+        public void setMoodImpact(int i) { moodImpact = i; }
+        private Sprite icon;
+        public Sprite getIcon() { return icon; }
+        public void seticon(Sprite setval) { icon = setval; }
     }
 
     private const int eDataSize = 5;
@@ -30,6 +54,7 @@ public class scr_Database : MonoBehaviour
     private string[] emailGreetings;
     private string[] emailBody;
     private string[] emailGoodbye;
+    private string[] emailResult;
 
     public EmailData GenerateEmailData()
     {
@@ -50,9 +75,20 @@ public class scr_Database : MonoBehaviour
         msg += emailGreetings[rand];
         rand = Random.Range(0, eDataSize);
         msg += emailBody[rand];
+        emailData.setResult(emailResult[rand]);
         rand = Random.Range(0, eDataSize);
         msg += emailGoodbye[rand];
         emailData.setMessage(msg);
+
+        rand = Random.Range(1, eDataSize);
+        emailData.setMoodImpact((rand * 3) * -1);
+        rand = Random.Range(1, eDataSize);
+        emailData.setCashReward(rand * 10);
+
+        if(rand > 3)
+            emailData.seticon(iconChoice2);
+        else
+            emailData.seticon(iconChoice1);
 
         return emailData;
     }
@@ -71,6 +107,9 @@ public class scr_Database : MonoBehaviour
         private string timeRecieved;
         public string getTimeRecieved() { return timeRecieved; }
         public void setTimeRecieved(string i) { timeRecieved = i; }
+        private Sprite icon;
+        public Sprite getIcon() { return icon; }
+        public void seticon(Sprite setval) { icon = setval; }
     }
 
     private const int sDataSize = 5;
@@ -103,6 +142,11 @@ public class scr_Database : MonoBehaviour
         msg += spamGoodbye[rand];
         spamData.setMessage(msg);
 
+        if (rand >= 2)
+            spamData.seticon(iconSpam1);
+        else
+            spamData.seticon(iconSpam2);
+
         return spamData;
     }
 
@@ -120,6 +164,9 @@ public class scr_Database : MonoBehaviour
         private string timeRecieved;
         public string getTimeRecieved() { return timeRecieved; }
         public void setTimeRecieved(string i) { timeRecieved = i; }
+        private Sprite icon;
+        public Sprite getIcon() { return icon; }
+        public void seticon(Sprite setval) { icon = setval; }
     }
 
     private const int tDataSize = 5;
@@ -144,7 +191,9 @@ public class scr_Database : MonoBehaviour
         msg += tutorialGoodbye[tutorialIndex];
         tutorialData.setMessage(msg);
 
-        if(tutorialIndex < tDataSize - 1)
+        tutorialData.seticon(iconTutorial);
+
+        if (tutorialIndex < tDataSize - 1)
             tutorialIndex++;
 
         return tutorialData;
@@ -200,26 +249,26 @@ public class scr_Database : MonoBehaviour
         emailSenders = new string[eDataSize]
         {
             "Whitehouse@gov.co.us",
-            "EnergyCorp@Qmail.com",
-            "FutureTech@Qmail.com",
+            "EnergyCorp@gov.co.us",
+            "FutureTech@gov.co.us",
             "CIA-Secure@gov.co.us",
-            "Anon@Qmail.com"
+            "Anon@666.com"
         };
         spamSenders = new string[sDataSize]
         {
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Forever51@deals.com",
+            "TopChartHits@junk.com",
+            "SpaceBlog@web.com",
+            "Conspiracies@web.com",
+            "Trollman4000@web.com"
         };
         tutorialSenders = new string[tDataSize]
 {
             "Whitehouse@gov.co.us",
-            "",
-            "",
-            "",
-            ""
+            "Whitehouse@gov.co.us",
+            "Whitehouse@gov.co.us",
+            "Whitehouse@gov.co.us",
+            "Whitehouse@gov.co.us"
 };
         //=========
 
@@ -234,16 +283,16 @@ public class scr_Database : MonoBehaviour
         };
         spamSubjects = new string[sDataSize]
         {
-            " ",
-            " ",
-            " ",
-            " ",
-            " "
+            " Check out these deals!",
+            " Your Bank Details Are Required...",
+            " Not Spam:",
+            " Very useful information ahead",
+            " New sign in from your account..."
         };
         tutorialSubjects = new string[sDataSize]
         {
             "Your Mission, Commander:",
-            " ",
+            "How to play:",
             " ",
             " ",
             " "
@@ -261,8 +310,8 @@ public class scr_Database : MonoBehaviour
         };
         spamGreetings = new string[sDataSize]
         {
-            " ",
-            " ",
+            "Dear Sir/Madam\n",
+            "Hello there.",
             " ",
             " ",
             " "
@@ -270,7 +319,7 @@ public class scr_Database : MonoBehaviour
         tutorialGreetings = new string[tDataSize]
         {
             "Greetings, Commander.",
-            " ",
+            "Hello, Commander.",
             " ",
             " ",
             " "
@@ -286,18 +335,26 @@ public class scr_Database : MonoBehaviour
             " Save the animals by hurting the Alien.",
             " Experiment on the Alien to advance medical care for the sick."
         };
+        emailResult = new string[eDataSize] 
+        {
+            "\nYou chose to experiment on the alien to prevent a diesase.\nYou saved thousands lives.\n",
+            "\nYou chose to exploit the alien to produce an antivirus, saving many lives.\n",
+            "\nYou chose to advance technology at the expense of the alien.\n",
+            "\nBy experimenting on the alien you managed to save an animal species on Earth from extinction.\n",
+            "\nYou chose to run experiments that would make humanties healthcare better.\nFrom the sacrafice of the aliens health.\n"
+        };
         spamBody = new string[sDataSize]
         {
-            " ",
-            " ",
-            " ",
-            " ",
-            " "
+            "\nClick the link to safeguard your account,\nwww.shadysite.com",
+            "Help us break into your bank account by sending us all of your details!",
+            "Sale now on!\nLowest prices in days!\nwww.Forever51.com",
+            "Aliens don't exist!? Here are 15 reasons to suggest otherwise...\nwww.conspiracy.com",
+            "12 steps to become ripped! The fourth will blow your mind...\nwww.clickbait.com"
         };
         tutorialBody = new string[tDataSize]
         {
             "\nYou are tasked with monitoring the specimen held in containment within your laboratory. We have intercepted transmissions which indicate that the alien Mothership is en route to Earth and their intentions are unclear. We will keep in contact through the email system for your approval of certain alien experiments. These experiments will greatly benefit Humanity. Make sure to keep the alien safe and happy.",
-            " ",
+            "\nGenerate funds by accepting experiments.\nIncrease the mood of the alien by completing comms challenges.\nKeep the alien healthy by monitioring the tank pressure and feeding it.\n Try to not get caught up in the spam emails!",
             " ",
             " ",
             " "
@@ -315,16 +372,16 @@ public class scr_Database : MonoBehaviour
         };
         spamGoodbye = new string[sDataSize]
         {
-            " ",
-            " ",
-            " ",
-            " ",
-            " "
+            "\n",
+            "\n",
+            "\n",
+            "\n",
+            "\n"
         };
         tutorialGoodbye = new string[tDataSize]
         {
             "\nGood luck, Commander.",
-            " ",
+            "\nAct quickly, there isn't a lot of time!",
             " ",
             " ",
             " "

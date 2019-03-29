@@ -11,11 +11,12 @@ GameObject:
   - component: {fileID: 1656134794970915306}
   - component: {fileID: 2565377739464811709}
   - component: {fileID: 5047095777481480743}
+  - component: {fileID: 6789187164036815205}
   - component: {fileID: 1650732399902581961}
   - component: {fileID: 6931790902664312354}
   m_Layer: 0
   m_Name: MasterController
-  m_TagString: Untagged
+  m_TagString: MasterController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66,6 +67,18 @@ MonoBehaviour:
     type: 3}
   openedTutorialPrefab: {fileID: 7175718045579606269, guid: 60814f8097da0b1409f0b96c33fa18e8,
     type: 3}
+--- !u!114 &6789187164036815205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475143204488407449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b8877091e862142ac6d13d57a9e496, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1650732399902581961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78,6 +91,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7044cab3391c9e14d98718fd576aa51a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  iconTutorial: {fileID: 21300000, guid: 841891c405d131540985585778d048f1, type: 3}
+  iconSpam1: {fileID: 21300000, guid: 8bd0bed616a27044a95e723ed8f33ebb, type: 3}
+  iconSpam2: {fileID: 21300000, guid: f42880c4a1cb01c45b22306dd19f95b4, type: 3}
+  iconChoice1: {fileID: 21300000, guid: 58dd1c5bb2abc53409c6fb9b75e9864e, type: 3}
+  iconChoice2: {fileID: 21300000, guid: ba3f9b125b3a54f4ebb2677323fa833c, type: 3}
   emptyEmoji: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
   emoji1: {fileID: 21300000, guid: eab424758fd43ab4d85a4cb941cf4c89, type: 3}
   emoji2: {fileID: 21300000, guid: f6f67b50ed28fec41a5ed8466300599c, type: 3}

@@ -10,7 +10,7 @@ public class scr_SceneDirector : MonoBehaviour
 
     void Start()
     {
-        TrackCurrentScene();
+        //TrackCurrentScene();
 
         if (!animator)
             animator = gameObject.GetComponent<Animator>();
@@ -18,7 +18,13 @@ public class scr_SceneDirector : MonoBehaviour
 
     private void Update()
     {
-        TrackCurrentScene();
+
+        if (!animator)
+            animator = gameObject.GetComponent<Animator>();
+
+        if (scr_MasterController.masterController.getGameOver())
+            SceneManager.LoadScene("sce_End", LoadSceneMode.Single);
+        //TrackCurrentScene();
     }
 
     private void TrackCurrentScene()
@@ -27,6 +33,7 @@ public class scr_SceneDirector : MonoBehaviour
         if (!loadState)
         {
             SceneManager.SetActiveScene(SceneManager.GetSceneByName("sce_Main"));
+            animator = gameObject.GetComponent<Animator>();
         }
         else
         {
@@ -35,11 +42,13 @@ public class scr_SceneDirector : MonoBehaviour
                 case (scr_MasterController.Scenes.EMAIL):
                     if (loadState)
                         SceneManager.SetActiveScene(SceneManager.GetSceneByName("sce_EmailPanel"));
+                    animator = gameObject.GetComponent<Animator>();
                     break;
 
                 case (scr_MasterController.Scenes.COMMS):
                     if (loadState)
                         SceneManager.SetActiveScene(SceneManager.GetSceneByName("sce_ComPanel"));
+                    animator = gameObject.GetComponent<Animator>();
                     break;
 
                 default:

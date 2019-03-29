@@ -1,0 +1,5172 @@
+fileFormatVersion: 2
+guid: 9615c20b4bdefbd4bbd47967e5fa9264
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gus_Sad_Spritesheet_0
+    21300002: Gus_Sad_Spritesheet_1
+    21300004: Gus_Sad_Spritesheet_2
+    21300006: Gus_Sad_Spritesheet_3
+    21300008: Gus_Sad_Spritesheet_4
+    21300010: Gus_Sad_Spritesheet_5
+    21300012: Gus_Sad_Spritesheet_6
+    21300014: Gus_Sad_Spritesheet_7
+    21300016: Gus_Sad_Spritesheet_8
+    21300018: Gus_Sad_Spritesheet_9
+    21300020: Gus_Sad_Spritesheet_10
+    21300022: Gus_Sad_Spritesheet_11
+    21300024: Gus_Sad_Spritesheet_12
+    21300026: Gus_Sad_Spritesheet_13
+    21300028: Gus_Sad_Spritesheet_14
+    21300030: Gus_Sad_Spritesheet_15
+    21300032: Gus_Sad_Spritesheet_16
+    21300034: Gus_Sad_Spritesheet_17
+    21300036: Gus_Sad_Spritesheet_18
+    21300038: Gus_Sad_Spritesheet_19
+    21300040: Gus_Sad_Spritesheet_20
+    21300042: Gus_Sad_Spritesheet_21
+    21300044: Gus_Sad_Spritesheet_22
+    21300046: Gus_Sad_Spritesheet_23
+    21300048: Gus_Sad_Spritesheet_24
+    21300050: Gus_Sad_Spritesheet_25
+    21300052: Gus_Sad_Spritesheet_26
+    21300054: Gus_Sad_Spritesheet_27
+    21300056: Gus_Sad_Spritesheet_28
+    21300058: Gus_Sad_Spritesheet_29
+    21300060: Gus_Sad_Spritesheet_30
+    21300062: Gus_Sad_Spritesheet_31
+    21300064: Gus_Sad_Spritesheet_32
+    21300066: Gus_Sad_Spritesheet_33
+    21300068: Gus_Sad_Spritesheet_34
+    21300070: Gus_Sad_Spritesheet_35
+    21300072: Gus_Sad_Spritesheet_36
+    21300074: Gus_Sad_Spritesheet_37
+    21300076: Gus_Sad_Spritesheet_38
+    21300078: Gus_Sad_Spritesheet_39
+    21300080: Gus_Sad_Spritesheet_40
+    21300082: Gus_Sad_Spritesheet_41
+    21300084: Gus_Sad_Spritesheet_42
+    21300086: Gus_Sad_Spritesheet_43
+    21300088: Gus_Sad_Spritesheet_44
+    21300090: Gus_Sad_Spritesheet_45
+    21300092: Gus_Sad_Spritesheet_46
+    21300094: Gus_Sad_Spritesheet_47
+    21300096: Gus_Sad_Spritesheet_48
+    21300098: Gus_Sad_Spritesheet_49
+    21300100: Gus_Sad_Spritesheet_50
+    21300102: Gus_Sad_Spritesheet_51
+    21300104: Gus_Sad_Spritesheet_52
+    21300106: Gus_Sad_Spritesheet_53
+    21300108: Gus_Sad_Spritesheet_54
+    21300110: Gus_Sad_Spritesheet_55
+    21300112: Gus_Sad_Spritesheet_56
+    21300114: Gus_Sad_Spritesheet_57
+    21300116: Gus_Sad_Spritesheet_58
+    21300118: Gus_Sad_Spritesheet_59
+    21300120: Gus_Sad_Spritesheet_60
+    21300122: Gus_Sad_Spritesheet_61
+    21300124: Gus_Sad_Spritesheet_62
+    21300126: Gus_Sad_Spritesheet_63
+    21300128: Gus_Sad_Spritesheet_64
+    21300130: Gus_Sad_Spritesheet_65
+    21300132: Gus_Sad_Spritesheet_66
+    21300134: Gus_Sad_Spritesheet_67
+    21300136: Gus_Sad_Spritesheet_68
+    21300138: Gus_Sad_Spritesheet_69
+    21300140: Gus_Sad_Spritesheet_70
+    21300142: Gus_Sad_Spritesheet_71
+    21300144: Gus_Sad_Spritesheet_72
+    21300146: Gus_Sad_Spritesheet_73
+    21300148: Gus_Sad_Spritesheet_74
+    21300150: Gus_Sad_Spritesheet_75
+    21300152: Gus_Sad_Spritesheet_76
+    21300154: Gus_Sad_Spritesheet_77
+    21300156: Gus_Sad_Spritesheet_78
+    21300158: Gus_Sad_Spritesheet_79
+    21300160: Gus_Sad_Spritesheet_80
+    21300162: Gus_Sad_Spritesheet_81
+    21300164: Gus_Sad_Spritesheet_82
+    21300166: Gus_Sad_Spritesheet_83
+    21300168: Gus_Sad_Spritesheet_84
+    21300170: Gus_Sad_Spritesheet_85
+    21300172: Gus_Sad_Spritesheet_86
+    21300174: Gus_Sad_Spritesheet_87
+    21300176: Gus_Sad_Spritesheet_88
+    21300178: Gus_Sad_Spritesheet_89
+    21300180: Gus_Sad_Spritesheet_90
+    21300182: Gus_Sad_Spritesheet_91
+    21300184: Gus_Sad_Spritesheet_92
+    21300186: Gus_Sad_Spritesheet_93
+    21300188: Gus_Sad_Spritesheet_94
+    21300190: Gus_Sad_Spritesheet_95
+    21300192: Gus_Sad_Spritesheet_96
+    21300194: Gus_Sad_Spritesheet_97
+    21300196: Gus_Sad_Spritesheet_98
+    21300198: Gus_Sad_Spritesheet_99
+    21300200: Gus_Sad_Spritesheet_100
+    21300202: Gus_Sad_Spritesheet_101
+    21300204: Gus_Sad_Spritesheet_102
+    21300206: Gus_Sad_Spritesheet_103
+    21300208: Gus_Sad_Spritesheet_104
+    21300210: Gus_Sad_Spritesheet_105
+    21300212: Gus_Sad_Spritesheet_106
+    21300214: Gus_Sad_Spritesheet_107
+    21300216: Gus_Sad_Spritesheet_108
+    21300218: Gus_Sad_Spritesheet_109
+    21300220: Gus_Sad_Spritesheet_110
+    21300222: Gus_Sad_Spritesheet_111
+    21300224: Gus_Sad_Spritesheet_112
+    21300226: Gus_Sad_Spritesheet_113
+    21300228: Gus_Sad_Spritesheet_114
+    21300230: Gus_Sad_Spritesheet_115
+    21300232: Gus_Sad_Spritesheet_116
+    21300234: Gus_Sad_Spritesheet_117
+    21300236: Gus_Sad_Spritesheet_118
+    21300238: Gus_Sad_Spritesheet_119
+    21300240: Gus_Sad_Spritesheet_120
+    21300242: Gus_Sad_Spritesheet_121
+    21300244: Gus_Sad_Spritesheet_122
+    21300246: Gus_Sad_Spritesheet_123
+    21300248: Gus_Sad_Spritesheet_124
+    21300250: Gus_Sad_Spritesheet_125
+    21300252: Gus_Sad_Spritesheet_126
+    21300254: Gus_Sad_Spritesheet_127
+    21300256: Gus_Sad_Spritesheet_128
+    21300258: Gus_Sad_Spritesheet_129
+    21300260: Gus_Sad_Spritesheet_130
+    21300262: Gus_Sad_Spritesheet_131
+    21300264: Gus_Sad_Spritesheet_132
+    21300266: Gus_Sad_Spritesheet_133
+    21300268: Gus_Sad_Spritesheet_134
+    21300270: Gus_Sad_Spritesheet_135
+    21300272: Gus_Sad_Spritesheet_136
+    21300274: Gus_Sad_Spritesheet_137
+    21300276: Gus_Sad_Spritesheet_138
+    21300278: Gus_Sad_Spritesheet_139
+    21300280: Gus_Sad_Spritesheet_140
+    21300282: Gus_Sad_Spritesheet_141
+    21300284: Gus_Sad_Spritesheet_142
+    21300286: Gus_Sad_Spritesheet_143
+    21300288: Gus_Sad_Spritesheet_144
+    21300290: Gus_Sad_Spritesheet_145
+    21300292: Gus_Sad_Spritesheet_146
+    21300294: Gus_Sad_Spritesheet_147
+    21300296: Gus_Sad_Spritesheet_148
+    21300298: Gus_Sad_Spritesheet_149
+    21300300: Gus_Sad_Spritesheet_150
+    21300302: Gus_Sad_Spritesheet_151
+    21300304: Gus_Sad_Spritesheet_152
+    21300306: Gus_Sad_Spritesheet_153
+    21300308: Gus_Sad_Spritesheet_154
+    21300310: Gus_Sad_Spritesheet_155
+    21300312: Gus_Sad_Spritesheet_156
+    21300314: Gus_Sad_Spritesheet_157
+    21300316: Gus_Sad_Spritesheet_158
+    21300318: Gus_Sad_Spritesheet_159
+    21300320: Gus_Sad_Spritesheet_160
+    21300322: Gus_Sad_Spritesheet_161
+    21300324: Gus_Sad_Spritesheet_162
+    21300326: Gus_Sad_Spritesheet_163
+    21300328: Gus_Sad_Spritesheet_164
+    21300330: Gus_Sad_Spritesheet_165
+    21300332: Gus_Sad_Spritesheet_166
+    21300334: Gus_Sad_Spritesheet_167
+    21300336: Gus_Sad_Spritesheet_168
+    21300338: Gus_Sad_Spritesheet_169
+    21300340: Gus_Sad_Spritesheet_170
+    21300342: Gus_Sad_Spritesheet_171
+    21300344: Gus_Sad_Spritesheet_172
+    21300346: Gus_Sad_Spritesheet_173
+    21300348: Gus_Sad_Spritesheet_174
+    21300350: Gus_Sad_Spritesheet_175
+    21300352: Gus_Sad_Spritesheet_176
+    21300354: Gus_Sad_Spritesheet_177
+    21300356: Gus_Sad_Spritesheet_178
+    21300358: Gus_Sad_Spritesheet_179
+    21300360: Gus_Sad_Spritesheet_180
+    21300362: Gus_Sad_Spritesheet_181
+    21300364: Gus_Sad_Spritesheet_182
+    21300366: Gus_Sad_Spritesheet_183
+    21300368: Gus_Sad_Spritesheet_184
+    21300370: Gus_Sad_Spritesheet_185
+    21300372: Gus_Sad_Spritesheet_186
+    21300374: Gus_Sad_Spritesheet_187
+    21300376: Gus_Sad_Spritesheet_188
+    21300378: Gus_Sad_Spritesheet_189
+    21300380: Gus_Sad_Spritesheet_190
+    21300382: Gus_Sad_Spritesheet_191
+    21300384: Gus_Sad_Spritesheet_192
+    21300386: Gus_Sad_Spritesheet_193
+    21300388: Gus_Sad_Spritesheet_194
+    21300390: Gus_Sad_Spritesheet_195
+    21300392: Gus_Sad_Spritesheet_196
+    21300394: Gus_Sad_Spritesheet_197
+    21300396: Gus_Sad_Spritesheet_198
+    21300398: Gus_Sad_Spritesheet_199
+    21300400: Gus_Sad_Spritesheet_200
+    21300402: Gus_Sad_Spritesheet_201
+    21300404: Gus_Sad_Spritesheet_202
+    21300406: Gus_Sad_Spritesheet_203
+    21300408: Gus_Sad_Spritesheet_204
+    21300410: Gus_Sad_Spritesheet_205
+    21300412: Gus_Sad_Spritesheet_206
+    21300414: Gus_Sad_Spritesheet_207
+    21300416: Gus_Sad_Spritesheet_208
+    21300418: Gus_Sad_Spritesheet_209
+    21300420: Gus_Sad_Spritesheet_210
+    21300422: Gus_Sad_Spritesheet_211
+    21300424: Gus_Sad_Spritesheet_212
+    21300426: Gus_Sad_Spritesheet_213
+    21300428: Gus_Sad_Spritesheet_214
+    21300430: Gus_Sad_Spritesheet_215
+    21300432: Gus_Sad_Spritesheet_216
+    21300434: Gus_Sad_Spritesheet_217
+    21300436: Gus_Sad_Spritesheet_218
+    21300438: Gus_Sad_Spritesheet_219
+    21300440: Gus_Sad_Spritesheet_220
+    21300442: Gus_Sad_Spritesheet_221
+    21300444: Gus_Sad_Spritesheet_222
+    21300446: Gus_Sad_Spritesheet_223
+    21300448: Gus_Sad_Spritesheet_224
+    21300450: Gus_Sad_Spritesheet_225
+    21300452: Gus_Sad_Spritesheet_226
+    21300454: Gus_Sad_Spritesheet_227
+    21300456: Gus_Sad_Spritesheet_228
+    21300458: Gus_Sad_Spritesheet_229
+    21300460: Gus_Sad_Spritesheet_230
+    21300462: Gus_Sad_Spritesheet_231
+    21300464: Gus_Sad_Spritesheet_232
+    21300466: Gus_Sad_Spritesheet_233
+    21300468: Gus_Sad_Spritesheet_234
+    21300470: Gus_Sad_Spritesheet_235
+    21300472: Gus_Sad_Spritesheet_236
+    21300474: Gus_Sad_Spritesheet_237
+    21300476: Gus_Sad_Spritesheet_238
+    21300478: Gus_Sad_Spritesheet_239
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89705b9c7c4ff3b4396fbe62a045bc19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03406b76d702cad479869f3360771bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62572ae9df636b84dbdf3626545bbac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a1c61c03c8fc40af772bba114f1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989b700729211b42b1fa3a379153d9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db3ba9be1423641ae8139f4e44dd90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f102a06128f90d46bc3a3541837be35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082e235fd3a2294a8eb7d9834ff49c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e15f2b9d45e25744bad83adb6b3e34c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318c3d70038a0743a7e0c2fa91561a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560090e1dd4e11846a2cc3f161d503ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fb52a5eee0caa45a61448f0a6b04aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09190fd9181de4848bfc1bc9f094f68e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53a988deb2c7c4da73ea4c7df0544e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85714f84319c37141acd003b40f23af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb1220f86e8484c9d6769655ed9ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0af223dd518f541ac5bb4b7930be11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61280c8e56aa5fd4c9a101eb865a68f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b183e5a9cfb454484f59f1c14ead84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41102f00d31f78742a5953af9050469e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002e757e78ba2a44a7386df1e36afb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b072fdda262f4048bccdc8da1b04091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57b762bab47be459bc2ca93c5a2c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd456b54c1d5c46bf783dab1d52ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f365b93f1263f4ebfe86f0a9be10f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183a0f3a9e9d3741a26e773284448cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d75d18d716f248a7dc8abd8792507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca03c287ba66c24e8f8c16a349c9a80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbca5df4c461cd42bee234316fd5691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79069cdace13094f9a4d6f82856a1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e70a72d1a0104ba26375055461917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cf71859e9bfb49a380140b4cb2a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a05fb957841c478038a262527435f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7c66f9108bbd4b924dab83ef6396a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eede93a2cba287449b22e68fb4495e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d3c3b469e1b64a88a2f5b8c96e5e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f8526d56d99e4db695161c0a550f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2d07dd0305b04da39f607cd903f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c211444ba206a4eb79cb028dd3cee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a020f5e62473534d8740ee6d8e57299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae894fe9b804040b9fd00ba22edf4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777765c9d4ffeb74b9cd7e7e35be6828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b988b29206ca4c8dc3a161ee39004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0abb1f2e3b6c8a44a6b517e5b9dc338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1b2f04c8df754999d65dfc0341279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba7837c512e3742aaa3642ae4000a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375bb9dc87ce784dbe66f34b3602403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b414d6f41880e4eb09af0d9991a62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cdb6db2137a144a65fdcba7cbf0fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6453c36a0830648a8ced02c500b55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139538f696c04a243b3a27264d41cc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e68e670c5b65429188b602a56e1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773840a85052834418a0370504c56dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ef77e3b3aa5fc43be431a0a996ce2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a787d47552af48abf601fc6bd22b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c225b29d5e94a514e8cf66917813bfa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98952a371c652504fab039fb48a8e3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec21bdd75b4b4243b3e0586fade031e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bebe5573f8ea64097865513167ac90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91289d03397811045ada6f0fa8799e2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6333f48a49324a82a436fcdf33678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720067357592eb458a4ed3c1056646f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c4cdac6b008c42869defd237dcd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80eac761102cc488c56f1e9cc833e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c26b254dcad2d4d8f1d6e9356af11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0a9a9ef3ecca4c8eb4a6ac8fd782c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750eee8eed8a9f47816037eb54059d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6dfbdf553dc324eb84f256320076d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355b27b0b94bbb46bf4b0a2ed13d0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926720bc06ce52249a6aa929916811bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926980683cf5f174d84342db7dd6a13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb858d7c4de34374db33470460e0cd95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec9e31822d1ee458d70bc67a53db47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d72a3b98cf1b4d911e332aac1bd8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736a3956c70eda4eb28f9ac0e1e43a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2c9f35e01e0ca4f82b972bff7d13b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82d46a52d45f443aa4c04822787c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef5b00ad696ea43915ebc703fd8f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e464e0ea26dba40a359c134ba4148b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47475074a947ce64ca1d974375086380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57aa4100794ca47bfdd153c526c5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2d325d5bf8034e8d4aaca9a1fd062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d969287767d34a8f060c60adcf3bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f21db4fe6af04f9e1cbbbaa12872e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47343534c7cf9db499582b10a2a98113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83d0d00fdf7784a9e0d38a5794a298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccb2d3214953604eb731850f171bd0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f05268f36fce646aa5e3665101e066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901dd66febc78d94892875993cd02252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9831090cfd67545891ee70a90fe8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece779965a62ef34bbaf423c53b28101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4442757eec81140a38f03c3b1deedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97653586ba795240a43aba11b614390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97cb0dc28576740a4ea4b1915e7f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209aa2a00a94a134484cfa4d1900de9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ceb520b8a6445489100841e18783ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32ec34df033fb4d824d16e6032792f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38b7ef067d9cb47907e87c918daac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c890d50133e0e54ba778a9867f76e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e87bbe8a2b7f4f9c257223a96958f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8193600071b484bbfa9f47d7e5df25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c056978442579c499a56e9e772567e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e75298dd419a844801064f5efda146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c1d0fa952955448a23c6105c3bdfa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b7db1eaf52b4140804bdbbc1faab15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31b1d38d1af5f4c9127c3b2c472499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7555dbaad8f7244af262af513b095a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424032de638de204f8ddf246a93e45e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662cbab83f13af4ab062bc927066521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f0a45f937d586489e67b2399803716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694f77bcb95e434dae3d323953eb428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67925b352920a824abcadeb4593400d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22fcc1d18d7e148a777783953f8c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43f89ebca819b42a740806a7e915d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a64bd02d0b8184e8247364a2ac6c1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d24ceada559448b15fcb4493a9f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e08c8e905a0e53418e612cb0b108844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232ef5b0081b79409eba6d6abf3ab54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a546f7b3dc5904e8b5ce80a3afd063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9fd8d21f5c9d47a53f27deb233416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627fbe34735e6648a18555463f9b2c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d0e80a397b0742b1269702bb893cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a28d979856ea44eb136d6670cee2fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57724180255339f45adfb99c7cdf48b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd54753b77790429bddcac164b1f82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43db0313614ff5418f3c4a38ab4c0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbe3505d7c88047839dc53f9ca4c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de0cb7c5fb0a1f41b187973b9fb6280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f55999bb38ad439f3f3575c268059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf6c8cb22ff694886a99216542414b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9a405dcf72aac40aa50abc032f27fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ea3df779d6914db6902fac2ff0e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffce73529483f3944ab7fad35e67a167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d7321077585341aaef867e61be8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b937c398f6ce43bf119575365bcb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08667d4d1a7a88745997d9cca15f43c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7535f1539fe545b77b28a0c151b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32a188ec6f36548a231b91c8c40b20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336dc54f15a1aea4499e5b3534283d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a7cbce043654418ea010039e61c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8788655230e9f74989165101c91c31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85562bef599a5c141a04e9fe2e7004a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb517d367a1feb3429aacf1879e45523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6d964948e1274db6e8ad235cc6d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c565607ccec135488664ba631e9e48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896dcc2fc7daa445a0fc931a6ef6418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f16be915e1e7c469d3bbfca703633e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaedb9e233f8d814fab574dba0df1e7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaab9e5368310b49a1c59dd59a96d15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c37bc93918b149b9eacfb56859cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f6a1eae09c604aacf61e49419c526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c416fe6dec9c19f449d218ef24785711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c2474728a597d4087d36acb8c3b96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683892cd9fc359e4cb7e4ddb2c7c64a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6edd1862a0b9124fadff20587b856ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43ea6a6b0d3934392dbf3d5ae9cdc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd605bb0421f2f498c79e3709e400bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d621f295f024e974583067b35073b43b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fced69878edc2d4c8b6e4f3048e163e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2052a2992b7d574c9a04819ca614bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d614b2c89a094892edf925f6c92d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5f8dc6225432418a5a0398c0ef527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a72379d3779347949a289b06a9dc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8dad556f3f9f8408fc09a51c5b9fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9639ffc1b8024a8eadd8c1a0d2bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ac4c630e7e914f8c7fe6f36e2c3c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc567981ca880644b4d9b16b5c29868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94a1e724e408f438887667e31194ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e885e0d8c9750244927cc5e07ad8023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf8334d99b45042a4bd1e3fe1effa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f980e4a3770fdc44d9458995769587b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8f46d8cd4b804faef06c8a64ceedd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8af3d6d13aeb3f48a13717a5f87bac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d7bca12a0d524e9f48c38630df884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb41f600f69c2845acf089e7276a3ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c46e5f6133bd4584b6f621b018106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce576068bf4d94da6ddc66d6d656bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fce2579b62ffd247aa453bfb714b491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae0e9fa74967a49b8b769f78eeb992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0fe9e65309e5d4fb2ab6ffaba94193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06233a5079253174db276c7ea288a8d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f264bb47cccbcd41bc5032d91843dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad114e23186dd849b87abe03584f287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d56ee2b1af7b6643ac5f3241a2b039e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be6749a075d71e4bb202b06a227bbaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f8d81206b4e64281b817001a607a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3402146a378340915b43ceb0a9290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc3d102da399c4a87aacde6ba7ccb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc159e96d4ab904a96119b3bae336d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb66d305e7b53d418dc70250c5c3b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a3a3789e348047a689e31452c1324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa21ef39402f3ba4db6c2e973f5be051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367d1177d3c1d3419dc6955e5d3aa53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f33fbfa245f65a448a637667e9e92cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d6540d23db384aadb008ed17ab7a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75caaf0873086a64eb9951140d33a5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a944bdfe8bf5a7849b13479b8c5fbe76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddfe2fb177aa8741bb2ca170fd5359e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089ccc55bc1a654284112e4fb1d4af1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff85b6c869683043af02657c803306d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b250d2b9a7904d9adc53f2baf5fcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e8e3451d55a1458238d21dcb9de62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ff939f214004c45b186798421c83fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99188d21963806f48b4332adf043c3c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e644079805c0b40ad7615465e93c97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab74e880191e445a5c9c0a3b40cf45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d279682e30e4be54cb1139ef095cc48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eaa0acef67ef647bd5a57603ea59fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaefbc6f92944c40b5e0879813c594a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca46346f6df1ad346935f5073c228929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190806eec40f3e14bb5958fe2b4469b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05d612f4351df94486cac111419a57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6269a581fac550d4d9f5a4e4f84ae25a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f59b6e3257f4ed4db7b049378027fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e12366a6616242b2042cfb02a2227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e12507ff50b494096e15de5237f8f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4c1d4b13e61141ab200904d539f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af153e04eec44240beeb7755dd80197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9036801e29f4e543899335eb044cb38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ba4c0269e8974ca8e9938da97995e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca01e101e185f14ca37672c9ba11f10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5954669dd97a5454ab415a2041602626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a081e91d4abbf0449dd83a28a68ca77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafba9220ad926a4cbfb88be9e5835a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a36fc2fe7afb548832d9e88e9dff50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38735c95b7c94b14ebdfe3ef6e277619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d5ce5bb013bb49b94deb3731006ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798279732017b14e89d31484c2d2462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29823c65f68489541bf18f6b4cc812a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b09b8f69f1094793d177f91f1f73c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e034886bff62074199690c0fbf3c3d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9f43c60b238245a6d332ff5d6d7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4cfa04daac8946b7903186bb4408a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec6392824919248969187eb92acbe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae145e4500c0abb409e37142474d2c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395270361ed336848b721c680d8d1438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd9b6725d42a4448f371dcbaa8baba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5694d4536905854e9aa54e51b909a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07408b400e0ccc54c9d6b535a91d58b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Sad_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a5b01a20b6ae4fa1bf2e062ed0f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a5fe1236f22397498475860bad3dfff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

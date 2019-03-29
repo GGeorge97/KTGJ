@@ -11,7 +11,7 @@ public class scr_Event : MonoBehaviour
     }
     public enum Status
     {
-        ACTIVE, ARCHIVED
+        ACTIVE, ARCHIVED, ACCEPTED
     }
 
     private EmailType type;
@@ -53,6 +53,18 @@ public class scr_Event : MonoBehaviour
     private bool acceptDecline;
     public bool getAcceptDecline() { return acceptDecline; }
     public void setAcceptDecline(bool setVal) { acceptDecline = setVal; }
+
+    private string result;
+    public string getResult() { return result; }
+    public void setResult(string i) { result = i; }
+
+    private int cashReward;
+    public int getCashReward() { return cashReward; }
+    public void setCashReward(int i) { cashReward = i; }
+
+    private int moodImpact;
+    public int getMoodImpact() { return moodImpact; }
+    public void setMoodImpact(int i) { moodImpact = i; }
 }
 
 public class emailEvent : scr_Event
@@ -64,9 +76,13 @@ public class emailEvent : scr_Event
         setStatus(in_status);
         setTimeStamp(in_timeStamp);
         setReadUnread(in_readUnread);
+        setIcon(emailData.getIcon());
         setSender(emailData.getSender());
+        setResult(emailData.getResult());
         setSubject(emailData.getSubject());
         setMessage(emailData.getMessage());
+        setCashReward(emailData.getCashReward());
+        setMoodImpact(emailData.getMoodImpact());
         setTimeRecieved(emailData.getTimeRecieved());
     }
 
@@ -74,7 +90,7 @@ public class emailEvent : scr_Event
     {
         setReadUnread(false);
         GameObject openedEmailObject = Instantiate(scr_EventManager.eventManager.openedEmailPrefab, GameObject.FindGameObjectWithTag("EmailScreenNoMask").gameObject.transform);
-        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id ,getSender(), getSubject(), getTimeRecieved(), getMessage());
+        openedEmailObject.GetComponentInChildren<scr_OpenEmail>().setEmailContents(id ,getSender(), getSubject(), getTimeRecieved(), getMessage(), getCashReward(), getMoodImpact());
     }
 }
 
@@ -87,6 +103,7 @@ public class spamEmailEvent : scr_Event
         setStatus(in_status);
         setTimeStamp(in_timeStamp);
         setReadUnread(in_readUnread);
+        setIcon(spamData.getIcon());
         setSender(spamData.getSender());
         setSubject(spamData.getSubject());
         setMessage(spamData.getMessage());
@@ -110,6 +127,7 @@ public class tutorialInformationEvent : scr_Event
         setStatus(in_status);
         setTimeStamp(in_timeStamp);
         setReadUnread(in_readUnread);
+        setIcon(tutorialData.getIcon());
         setSender(tutorialData.getSender());
         setSubject(tutorialData.getSubject());
         setMessage(tutorialData.getMessage());

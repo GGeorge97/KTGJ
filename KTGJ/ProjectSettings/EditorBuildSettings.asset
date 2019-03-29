@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Intro/sce_Intro.unity
+    guid: f2a7dbae628892346b7f05b9de43a164
+  - enabled: 1
     path: Assets/Scenes/Main/sce_Main.unity
     guid: 6e9a0a3186bff9e458ce8cb2b844f707
   - enabled: 1
@@ -14,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EmailPanel/sce_EmailPanel.unity
     guid: d4aa553d08b468f43805780c8bbd334c
+  - enabled: 1
+    path: Assets/Scenes/Endgame/sce_End.unity
+    guid: 61b8ce273cd81514ea2bf6b3dc685559
   m_configObjects: {}

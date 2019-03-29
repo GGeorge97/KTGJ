@@ -28,7 +28,7 @@ public class scr_MasterController : MonoBehaviour
     private float elapsedTime;                  // Global timer
     public float getElapsedTime() { return elapsedTime; }
 
-    private const float endgameTime = 300.0f;  // End of game time value, 300 = 5 mins
+    private const float endgameTime = 180.0f;  // End of game time value, 180 = 3 mins
     public float getEndgameTime() { return endgameTime; }
 
     private bool timerWarning = false;      // Two minutes until game over
@@ -39,17 +39,34 @@ public class scr_MasterController : MonoBehaviour
     public bool getGameOver() { return gameOver; }
     public void setGameOver(bool setVal) { gameOver = setVal; }
 
-    private int funds;                          // Player money count
+    private int funds = 10;                          // Player money count
     public int getFunds() { return funds; }
     public void setFunds(int setVal) { funds = setVal; }
+    public void changeFunds(int setVal) { funds += setVal; }
 
     private int gusMood;                        // Alien mood
     public int getGusMood() { return gusMood; }
     public void setGusMood(int setVal) { gusMood = setVal; }
+    public void changeGusMood(int setVal)
+    {
+        gusMood += setVal;
+        if (gusMood < -100)
+            gusMood = -100;
+        if (gusMood > 100)
+            gusMood = 100;
+    }
 
     private int gusHealth;                      // Alien health status
     public int getGusHealth() { return gusHealth; }
     public void setGusHealth(int setVal) { gusHealth = setVal; }
+    public void changeGusHealth(int setVal)
+    {
+        gusHealth += setVal;
+        if (gusHealth < -100)
+            gusHealth = -100;
+        if (gusHealth > 100)
+            gusHealth = 100;
+    }
     //=================//
 
     private void Awake()
@@ -65,7 +82,7 @@ public class scr_MasterController : MonoBehaviour
         }
     }
 
-    private float warningThreshhold = endgameTime - (endgameTime / 25.0f);
+    private float warningThreshhold = endgameTime - 60.0f;
     private void Update()
     {
         elapsedTime += Time.deltaTime;

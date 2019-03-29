@@ -1,0 +1,5172 @@
+fileFormatVersion: 2
+guid: e8e9090d53a3bac4c9038624794fed91
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gus_Tierd_Spritesheet_0
+    21300002: Gus_Tierd_Spritesheet_1
+    21300004: Gus_Tierd_Spritesheet_2
+    21300006: Gus_Tierd_Spritesheet_3
+    21300008: Gus_Tierd_Spritesheet_4
+    21300010: Gus_Tierd_Spritesheet_5
+    21300012: Gus_Tierd_Spritesheet_6
+    21300014: Gus_Tierd_Spritesheet_7
+    21300016: Gus_Tierd_Spritesheet_8
+    21300018: Gus_Tierd_Spritesheet_9
+    21300020: Gus_Tierd_Spritesheet_10
+    21300022: Gus_Tierd_Spritesheet_11
+    21300024: Gus_Tierd_Spritesheet_12
+    21300026: Gus_Tierd_Spritesheet_13
+    21300028: Gus_Tierd_Spritesheet_14
+    21300030: Gus_Tierd_Spritesheet_15
+    21300032: Gus_Tierd_Spritesheet_16
+    21300034: Gus_Tierd_Spritesheet_17
+    21300036: Gus_Tierd_Spritesheet_18
+    21300038: Gus_Tierd_Spritesheet_19
+    21300040: Gus_Tierd_Spritesheet_20
+    21300042: Gus_Tierd_Spritesheet_21
+    21300044: Gus_Tierd_Spritesheet_22
+    21300046: Gus_Tierd_Spritesheet_23
+    21300048: Gus_Tierd_Spritesheet_24
+    21300050: Gus_Tierd_Spritesheet_25
+    21300052: Gus_Tierd_Spritesheet_26
+    21300054: Gus_Tierd_Spritesheet_27
+    21300056: Gus_Tierd_Spritesheet_28
+    21300058: Gus_Tierd_Spritesheet_29
+    21300060: Gus_Tierd_Spritesheet_30
+    21300062: Gus_Tierd_Spritesheet_31
+    21300064: Gus_Tierd_Spritesheet_32
+    21300066: Gus_Tierd_Spritesheet_33
+    21300068: Gus_Tierd_Spritesheet_34
+    21300070: Gus_Tierd_Spritesheet_35
+    21300072: Gus_Tierd_Spritesheet_36
+    21300074: Gus_Tierd_Spritesheet_37
+    21300076: Gus_Tierd_Spritesheet_38
+    21300078: Gus_Tierd_Spritesheet_39
+    21300080: Gus_Tierd_Spritesheet_40
+    21300082: Gus_Tierd_Spritesheet_41
+    21300084: Gus_Tierd_Spritesheet_42
+    21300086: Gus_Tierd_Spritesheet_43
+    21300088: Gus_Tierd_Spritesheet_44
+    21300090: Gus_Tierd_Spritesheet_45
+    21300092: Gus_Tierd_Spritesheet_46
+    21300094: Gus_Tierd_Spritesheet_47
+    21300096: Gus_Tierd_Spritesheet_48
+    21300098: Gus_Tierd_Spritesheet_49
+    21300100: Gus_Tierd_Spritesheet_50
+    21300102: Gus_Tierd_Spritesheet_51
+    21300104: Gus_Tierd_Spritesheet_52
+    21300106: Gus_Tierd_Spritesheet_53
+    21300108: Gus_Tierd_Spritesheet_54
+    21300110: Gus_Tierd_Spritesheet_55
+    21300112: Gus_Tierd_Spritesheet_56
+    21300114: Gus_Tierd_Spritesheet_57
+    21300116: Gus_Tierd_Spritesheet_58
+    21300118: Gus_Tierd_Spritesheet_59
+    21300120: Gus_Tierd_Spritesheet_60
+    21300122: Gus_Tierd_Spritesheet_61
+    21300124: Gus_Tierd_Spritesheet_62
+    21300126: Gus_Tierd_Spritesheet_63
+    21300128: Gus_Tierd_Spritesheet_64
+    21300130: Gus_Tierd_Spritesheet_65
+    21300132: Gus_Tierd_Spritesheet_66
+    21300134: Gus_Tierd_Spritesheet_67
+    21300136: Gus_Tierd_Spritesheet_68
+    21300138: Gus_Tierd_Spritesheet_69
+    21300140: Gus_Tierd_Spritesheet_70
+    21300142: Gus_Tierd_Spritesheet_71
+    21300144: Gus_Tierd_Spritesheet_72
+    21300146: Gus_Tierd_Spritesheet_73
+    21300148: Gus_Tierd_Spritesheet_74
+    21300150: Gus_Tierd_Spritesheet_75
+    21300152: Gus_Tierd_Spritesheet_76
+    21300154: Gus_Tierd_Spritesheet_77
+    21300156: Gus_Tierd_Spritesheet_78
+    21300158: Gus_Tierd_Spritesheet_79
+    21300160: Gus_Tierd_Spritesheet_80
+    21300162: Gus_Tierd_Spritesheet_81
+    21300164: Gus_Tierd_Spritesheet_82
+    21300166: Gus_Tierd_Spritesheet_83
+    21300168: Gus_Tierd_Spritesheet_84
+    21300170: Gus_Tierd_Spritesheet_85
+    21300172: Gus_Tierd_Spritesheet_86
+    21300174: Gus_Tierd_Spritesheet_87
+    21300176: Gus_Tierd_Spritesheet_88
+    21300178: Gus_Tierd_Spritesheet_89
+    21300180: Gus_Tierd_Spritesheet_90
+    21300182: Gus_Tierd_Spritesheet_91
+    21300184: Gus_Tierd_Spritesheet_92
+    21300186: Gus_Tierd_Spritesheet_93
+    21300188: Gus_Tierd_Spritesheet_94
+    21300190: Gus_Tierd_Spritesheet_95
+    21300192: Gus_Tierd_Spritesheet_96
+    21300194: Gus_Tierd_Spritesheet_97
+    21300196: Gus_Tierd_Spritesheet_98
+    21300198: Gus_Tierd_Spritesheet_99
+    21300200: Gus_Tierd_Spritesheet_100
+    21300202: Gus_Tierd_Spritesheet_101
+    21300204: Gus_Tierd_Spritesheet_102
+    21300206: Gus_Tierd_Spritesheet_103
+    21300208: Gus_Tierd_Spritesheet_104
+    21300210: Gus_Tierd_Spritesheet_105
+    21300212: Gus_Tierd_Spritesheet_106
+    21300214: Gus_Tierd_Spritesheet_107
+    21300216: Gus_Tierd_Spritesheet_108
+    21300218: Gus_Tierd_Spritesheet_109
+    21300220: Gus_Tierd_Spritesheet_110
+    21300222: Gus_Tierd_Spritesheet_111
+    21300224: Gus_Tierd_Spritesheet_112
+    21300226: Gus_Tierd_Spritesheet_113
+    21300228: Gus_Tierd_Spritesheet_114
+    21300230: Gus_Tierd_Spritesheet_115
+    21300232: Gus_Tierd_Spritesheet_116
+    21300234: Gus_Tierd_Spritesheet_117
+    21300236: Gus_Tierd_Spritesheet_118
+    21300238: Gus_Tierd_Spritesheet_119
+    21300240: Gus_Tierd_Spritesheet_120
+    21300242: Gus_Tierd_Spritesheet_121
+    21300244: Gus_Tierd_Spritesheet_122
+    21300246: Gus_Tierd_Spritesheet_123
+    21300248: Gus_Tierd_Spritesheet_124
+    21300250: Gus_Tierd_Spritesheet_125
+    21300252: Gus_Tierd_Spritesheet_126
+    21300254: Gus_Tierd_Spritesheet_127
+    21300256: Gus_Tierd_Spritesheet_128
+    21300258: Gus_Tierd_Spritesheet_129
+    21300260: Gus_Tierd_Spritesheet_130
+    21300262: Gus_Tierd_Spritesheet_131
+    21300264: Gus_Tierd_Spritesheet_132
+    21300266: Gus_Tierd_Spritesheet_133
+    21300268: Gus_Tierd_Spritesheet_134
+    21300270: Gus_Tierd_Spritesheet_135
+    21300272: Gus_Tierd_Spritesheet_136
+    21300274: Gus_Tierd_Spritesheet_137
+    21300276: Gus_Tierd_Spritesheet_138
+    21300278: Gus_Tierd_Spritesheet_139
+    21300280: Gus_Tierd_Spritesheet_140
+    21300282: Gus_Tierd_Spritesheet_141
+    21300284: Gus_Tierd_Spritesheet_142
+    21300286: Gus_Tierd_Spritesheet_143
+    21300288: Gus_Tierd_Spritesheet_144
+    21300290: Gus_Tierd_Spritesheet_145
+    21300292: Gus_Tierd_Spritesheet_146
+    21300294: Gus_Tierd_Spritesheet_147
+    21300296: Gus_Tierd_Spritesheet_148
+    21300298: Gus_Tierd_Spritesheet_149
+    21300300: Gus_Tierd_Spritesheet_150
+    21300302: Gus_Tierd_Spritesheet_151
+    21300304: Gus_Tierd_Spritesheet_152
+    21300306: Gus_Tierd_Spritesheet_153
+    21300308: Gus_Tierd_Spritesheet_154
+    21300310: Gus_Tierd_Spritesheet_155
+    21300312: Gus_Tierd_Spritesheet_156
+    21300314: Gus_Tierd_Spritesheet_157
+    21300316: Gus_Tierd_Spritesheet_158
+    21300318: Gus_Tierd_Spritesheet_159
+    21300320: Gus_Tierd_Spritesheet_160
+    21300322: Gus_Tierd_Spritesheet_161
+    21300324: Gus_Tierd_Spritesheet_162
+    21300326: Gus_Tierd_Spritesheet_163
+    21300328: Gus_Tierd_Spritesheet_164
+    21300330: Gus_Tierd_Spritesheet_165
+    21300332: Gus_Tierd_Spritesheet_166
+    21300334: Gus_Tierd_Spritesheet_167
+    21300336: Gus_Tierd_Spritesheet_168
+    21300338: Gus_Tierd_Spritesheet_169
+    21300340: Gus_Tierd_Spritesheet_170
+    21300342: Gus_Tierd_Spritesheet_171
+    21300344: Gus_Tierd_Spritesheet_172
+    21300346: Gus_Tierd_Spritesheet_173
+    21300348: Gus_Tierd_Spritesheet_174
+    21300350: Gus_Tierd_Spritesheet_175
+    21300352: Gus_Tierd_Spritesheet_176
+    21300354: Gus_Tierd_Spritesheet_177
+    21300356: Gus_Tierd_Spritesheet_178
+    21300358: Gus_Tierd_Spritesheet_179
+    21300360: Gus_Tierd_Spritesheet_180
+    21300362: Gus_Tierd_Spritesheet_181
+    21300364: Gus_Tierd_Spritesheet_182
+    21300366: Gus_Tierd_Spritesheet_183
+    21300368: Gus_Tierd_Spritesheet_184
+    21300370: Gus_Tierd_Spritesheet_185
+    21300372: Gus_Tierd_Spritesheet_186
+    21300374: Gus_Tierd_Spritesheet_187
+    21300376: Gus_Tierd_Spritesheet_188
+    21300378: Gus_Tierd_Spritesheet_189
+    21300380: Gus_Tierd_Spritesheet_190
+    21300382: Gus_Tierd_Spritesheet_191
+    21300384: Gus_Tierd_Spritesheet_192
+    21300386: Gus_Tierd_Spritesheet_193
+    21300388: Gus_Tierd_Spritesheet_194
+    21300390: Gus_Tierd_Spritesheet_195
+    21300392: Gus_Tierd_Spritesheet_196
+    21300394: Gus_Tierd_Spritesheet_197
+    21300396: Gus_Tierd_Spritesheet_198
+    21300398: Gus_Tierd_Spritesheet_199
+    21300400: Gus_Tierd_Spritesheet_200
+    21300402: Gus_Tierd_Spritesheet_201
+    21300404: Gus_Tierd_Spritesheet_202
+    21300406: Gus_Tierd_Spritesheet_203
+    21300408: Gus_Tierd_Spritesheet_204
+    21300410: Gus_Tierd_Spritesheet_205
+    21300412: Gus_Tierd_Spritesheet_206
+    21300414: Gus_Tierd_Spritesheet_207
+    21300416: Gus_Tierd_Spritesheet_208
+    21300418: Gus_Tierd_Spritesheet_209
+    21300420: Gus_Tierd_Spritesheet_210
+    21300422: Gus_Tierd_Spritesheet_211
+    21300424: Gus_Tierd_Spritesheet_212
+    21300426: Gus_Tierd_Spritesheet_213
+    21300428: Gus_Tierd_Spritesheet_214
+    21300430: Gus_Tierd_Spritesheet_215
+    21300432: Gus_Tierd_Spritesheet_216
+    21300434: Gus_Tierd_Spritesheet_217
+    21300436: Gus_Tierd_Spritesheet_218
+    21300438: Gus_Tierd_Spritesheet_219
+    21300440: Gus_Tierd_Spritesheet_220
+    21300442: Gus_Tierd_Spritesheet_221
+    21300444: Gus_Tierd_Spritesheet_222
+    21300446: Gus_Tierd_Spritesheet_223
+    21300448: Gus_Tierd_Spritesheet_224
+    21300450: Gus_Tierd_Spritesheet_225
+    21300452: Gus_Tierd_Spritesheet_226
+    21300454: Gus_Tierd_Spritesheet_227
+    21300456: Gus_Tierd_Spritesheet_228
+    21300458: Gus_Tierd_Spritesheet_229
+    21300460: Gus_Tierd_Spritesheet_230
+    21300462: Gus_Tierd_Spritesheet_231
+    21300464: Gus_Tierd_Spritesheet_232
+    21300466: Gus_Tierd_Spritesheet_233
+    21300468: Gus_Tierd_Spritesheet_234
+    21300470: Gus_Tierd_Spritesheet_235
+    21300472: Gus_Tierd_Spritesheet_236
+    21300474: Gus_Tierd_Spritesheet_237
+    21300476: Gus_Tierd_Spritesheet_238
+    21300478: Gus_Tierd_Spritesheet_239
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6ce05ae0b85844b482c31577ee029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ade0d07fcb4bb4bbbd9c92543002e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720bf7b873a3f794188db8f2d167962b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40dd4298d643140a702ea31a92551b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc8e026f2e5764b88347ce117ea4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ed0477edf09849a7fc235320f3160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5def2cc54714c46aa014f89a13c050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1688b80638410e4caf06acd1a4977d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863ec5ac38828f439a26e360248e909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de200a7f8486e9a4fbeb2ec6bca0e26c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4164c5800879da4f9a09b13df0db96b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b4b59f1b9a1748a8a466f41ed088a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81f663faa6918499213e7783da6b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e49430226c9943a2f84be55bbcb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a96f11ad79d4c40ab5e71853c89c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05996692f329434c9dbcb285b09df02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe1e7679cbaaf4190ba278b95bafdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2802f4c1dcd6bd4293560164f6662bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485dc9c57d72b0440824a2f0730371aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955017f19fa15d4468f359ef414f4034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592a077982add743b1492dcc61c37dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a80c904002fe94bb3066563360c465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8202943b27fdb1f459a37ea785ffcb12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435c4a8e1751ae4bbe535e46604f3d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282346eddf6b31e4e93be046c02b881e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e8f938f1576f4780b03cee534dd4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24499f54453404ca011e8600a86cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a737c6e69d8d744aa11371ae29c082d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef3abb3b2a91e45968736fa3dcbf82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e152985184bf4c9d6e4b789fa3c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ec5baff2f5f5f49a7d6e6c4e749e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8c40183567324f8e9e3805c7b983f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c99b83b3bc2648ac35863fc654a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c318fd0733134e803f8e7462e88c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b364f7e52cab4cb2c0cf6eec4ae57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed010c76caa44094f84f1e5863227829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ec7d730f96cfa4791e65cb1da77363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96828299c27526c42bc57856b708b8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a02df828b765ee468f215fbf53ff4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6654df2d2692f4db5465e38e8cffcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a20f5c5e90884e9bb239a5262b35b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddcb3b93a7bc54a8e159f4a80c75fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05997e690ff39a4cb798e96bdb3743f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebb493756b30de428ca68969d4c6659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3549b3f65c406dd4396d98e9872b6d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39376dd3c6dcfb4a8a3866b484a7f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1554a46d5331fc043a1370bba6d4d7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7034a35b0d22a4ca0a68cea796eda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a802fa4b2fcc4195f59fb3c2b6e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58f38840f4f8249bf5fbb1cac3e721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cdce92eb7a1c0479e04bfbf561e3c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3139c6e2c43bd499f724597b216792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b7aa7e442d5644bd921dfda4d73af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ee390b9c1a8b42a25e32a6afb6fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241467f4299f8444af5537600d5a139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a994d08090fd44a7724338b64b154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee6b270977a8f4e84ccac21a49d669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab30d7d93399143bbfd6ffc951ddd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9aa14da66e0cc47bad224482a9cb15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafeccad2e052dc498fa0291734e90b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0af89a2f37aa54a8e4609c991edc86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa2efca7fd8dd43bf5db22a46d4205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d85a2404cea7438cd61e61c309d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21c9b7218c9f54cad733c1a4f9fd60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b6767098e234c41bd279e8f7a5f4be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916396e0c510c942a0cd341fc878b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d5f28454a9e1743b877cf303bb2815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee721d9366d4ae44bce73823bfcd0a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fadb504240f83e469c089c2bef90121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f32402b4ab3cb4db17878e717f82ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023bddb5e64eee74a884d251bb463078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a9236dcb7ff9f47be5f95a7b4fd37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7debdf97ddcfeda4fb9c9d95b2c1ccbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145256b71edcb264c9d6dd46c41d419f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e810b5b147bc64aae9da26c2f1da8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2e07f87cce3a4bb3642110803f636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577b9b51e165384b854775d0f2366f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d14f2205e7004aa178117e7bf0fed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a881cccc4d3749bfc2572166a38ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb13aa6f2314a408087b68e1d579d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af427539d4d379408811faadfaf46d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c038cbf08e7c49a569486d4292701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d026d018c94a0f42b0ea5c03ccbb08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab429581ab617a346b6bc918ac471262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2a8ebe28034348b853e71f3c94709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92041ce28fc63d439b50e2bde82b245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e29e7012ef7ff4a992b625d98ddcd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e31efb35c824e4f8e648b7099cdb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9fd766c5dda774ab65e29999e6f515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa61c22c7d09dc4491758e5c4ac3a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9924be2ff24b5b948885b61e0630b69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7998455d8fa5484aa11ccd4f7102c2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723524b615cc87641bf86f71f55c737a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b352c6ed8db7d43aa0606789d45bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e92844e986e964b93ee11c352f62b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd4deb3ae5b6f34fb8411600b9cabe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202b0979b4210b4c89dab4308d77298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c70277fadbee84e803f4c3942d98f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764458eaf7904c4498122237f97c3a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d993c6ed43d14cb38d3a4154c73ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd42cf413759742b7c7647fb27d846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3d209040dded4a92bd2631fadd53c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5e80fefe5f1e4c9020ea3d4513fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e745de82efdc44a4881c7588f6205e48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49286b519291e4893fe3603278837e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113d7349b1ceaa459fba3043e3f7b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758218bb0743ca14ca8ab3fb12fcd3ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1548fb34d1cdc4ea02a488518d1a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929145acd4e21f8469eac6ede01b7a24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de2ec4bb4b09e419569eda7d11b368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9bab2758fc474dbe369d480b55713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c78c9d083b374e9bbf1588d43790d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb518b0b42c04442b057472124ef1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11d045683630f4ba25a28dc3ab64a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585bb4568773dfb458c8719989f970f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716ed931ac531141a022602c474d204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4208d2e1700ec41b5a3187f72e0fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf2ca1e4b8d3a4eac6d124af651b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20142d162a76f58499540426bd7d5db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb11a6fd055114a956c8844b0bfbcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e6f2eae020109429bae7439a5c5fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0e35ac4c543b47a94746946656e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d58508ea7d87845b7d00728bbf9c14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd987296952624dbb7e60882822383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b4b496582dea4289286784f9ab40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b081bca4cc774cae900eca8af6191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6578bd2b6ec7a41b3eead630c14aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d10df55c4d93744c9833faf18e695dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8edb070c577cc43be8bd0770c3a583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d97decac63934a84818e7ab80fe4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7ffcdbef24374d879a41b011613ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2e668ee496b64881826945aaaa6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4245992925518147aefb804ddf29805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e733430a6aba69448440caa85e6f28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8831c49cd50c04fbdc51afad573fb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4a53fde168e648a7cadd3ade01c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4740dd234626a747bc3a1f57803ccac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea829640a07a51f4292e1ce81525847a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e2580021d4d3428d54b84162ab4b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085f879947502049af4def76ea09192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656d1b1c28b1334993ac89ca342192b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e36ed27da6419439f125bb36ae18e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffa855fcf14754429d6ce46802c7682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82d2fcbe6c44734587600e52e115581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28974f85370172e4ea2d8a54bd5dab9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc746836a9239843a743b9a541e4500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12876e53509ea87419cadeffea229b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b64b9ef60f070a44aa158a00acb69f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682b7c03defd4149bf1b90f67fcca79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b7ce2276bcc94a92cc5b46a1a4883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f4d14ceaec84441ba909b1ac2cbc23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07daa0fbde5f4b4fa14dbb06ab608b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69fc5570c0bc1f409f3f851c79c50fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9853ae88fdf751f4880795416e272e71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9d0cb0477563418f5d54c5f98d2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa82b9156d00744c86fcc154738aafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84766eb9908d3439e092bbb645416b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca14268897b8349b6d6743c0676fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d464b0d014fb1d4a8a492eaafda3274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8142952f0a4e0244ea71c6f32618674f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010081c62814d747adedce8f3728823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd369bcc669a844a8660e4d7ccfd87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9311907ee1fe449d2ff7b2e869fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f857eace823b7041a91d2397e580e31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ad388bcda90648bfba0b4dc310d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af41601ab729f45a5d0b86c2e317d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697806e25e0ff574da29cfe18b50dbd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed57478e6c588488a9a97e4b1c3dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22fa652415635438b239d2dd55899c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f3ee459f0abe47bd0b9ce58db6e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f506e229127f024ab7032b3ede0bf92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822edb7fe80dbd428292fa2f488e4f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78329ea47327c43bacc7f3c829661e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9526316dce1f2ef49a11e773ea089a4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad3b96591f3654a8e2f1d7225dbbd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f07d09ee42253d46ba718724a8646a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b575ade3eebf444991ec0417b30da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d631f96882f568419f29c36cdf61624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af28ddd9a5f355478adb851af0e5fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30507d91940e17247b3b837b001b2c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83d9f3897fbb748aa3441c1db12a77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20ebd1e222008c43bf2ee943fbbb1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280cc4f3556b8b848940b68e87b09401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d69930ec1dbe1a4e83b57685555d440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7843df6c95e5f4abdbcca07bd7df57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1b85b9afd6e444b595f1ce388c2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081d7b098acf6142b5911f4f4774536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c4032abc416894a9d9d459667d4cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3568be1f77833438c4427c36163c85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6bb5301d0f804da29d5ee652485eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4b44f5fbf580499f1122cbecaded9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64efe576aa69aee45b71d3b06ca9fcb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1ceeb38f3ec94ebb70ebc76f11292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6aeb5d909331945882b084ce0118bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920c8ddc7dd0ba44becad29a4facb5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7b3783a422df42825fdb86e3f36ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f01704692fc9964c90f08387045e469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb1988c7dc88a4c9119f346e465328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed092aabbfdf740a7ecd66d98926ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35dc535a1f7124280374d46aab63e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c040dbbde1c24eb625dbbb86c3870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd490b9d6fa0647adad2792f44227a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef04ce222a6e6c4390ad7dc088102ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ef7fef87a46740a0697287e6dd559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce387f07e95ff6e449fd1f6fd1d5d0ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7a9752f3f7a484186313f61cf99379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc6dd44bf1fed45b516e32704be2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112479d0289e9448b8342e916f9c7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e31f1e37c9b6644ac150ed171a58c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7298545396f2146b5fa04cdf8f3816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d205912a93d429e41bb508c0e879103d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a001ac40cce64489cee52658321392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd984ba1505ccf6438ac9bd84a4223dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a38140124259d4aa59a08516b6df64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922099f1d9be7b45b0a7a64c19d86e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7e983a56a6e547bd4229b4eb9b5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c19172efa40f2e4c86b174c017f7f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b36b0becd1ed94e9268a82300346d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b2b82277e5a24abd699042fcff55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe010457dd426db44be9df2c5354bfee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db16775edae374943b85762420156faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26c55d871661741bb786c364cde4e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae93c56e3018ee4e8454eb7539b7e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac7ec9a76736e46b2b435b328299d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d5a3d0a4dc2a54387c46c1ce7cebf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fbcc2f09f82149a4924ce9e965921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1177ece1f0b30349bd1de4d085e4a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0777406863575408bdf00f17a17e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403e83135067f6543a1f0ef235cbf453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aac0682003c3f40853e90887db8193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25a47c058506bf4a98533d1371f4321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21cd704e3b23b49aeb865d205a6b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d069418d378664a46a299b025b69cab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0254deb48b1ed4b96299e7da6828f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66da80e39ac1764fa00710e3b90a6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f5c88e359c8b4f8d3107e018ecc6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3bab0312629504f8e50716ff7736f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5c2376463ec8429b6ba4a41e90dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2437bd02ddd894b8238f0d8579f8cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Tierd_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db67f591f14d544fbb9b00accd24980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7acffbd5df759034498db50dffe13c80
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

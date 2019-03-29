@@ -279,6 +279,8 @@ GameObject:
   - component: {fileID: 1562762151}
   - component: {fileID: 1562762154}
   - component: {fileID: 1562762153}
+  - component: {fileID: 1562762156}
+  - component: {fileID: 1562762155}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -399,3 +401,30 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &1562762155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562762149}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf1460fa3476237458cbc405bb974929, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!111 &1562762156
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1562762149}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 74598bd717e39f348873cef9d21a1b77, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0

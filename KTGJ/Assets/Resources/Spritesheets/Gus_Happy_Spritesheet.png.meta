@@ -1,0 +1,5172 @@
+fileFormatVersion: 2
+guid: 715b9aa3e4223a1429597db3917b3bee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gus_Happy_Spritesheet_0
+    21300002: Gus_Happy_Spritesheet_1
+    21300004: Gus_Happy_Spritesheet_2
+    21300006: Gus_Happy_Spritesheet_3
+    21300008: Gus_Happy_Spritesheet_4
+    21300010: Gus_Happy_Spritesheet_5
+    21300012: Gus_Happy_Spritesheet_6
+    21300014: Gus_Happy_Spritesheet_7
+    21300016: Gus_Happy_Spritesheet_8
+    21300018: Gus_Happy_Spritesheet_9
+    21300020: Gus_Happy_Spritesheet_10
+    21300022: Gus_Happy_Spritesheet_11
+    21300024: Gus_Happy_Spritesheet_12
+    21300026: Gus_Happy_Spritesheet_13
+    21300028: Gus_Happy_Spritesheet_14
+    21300030: Gus_Happy_Spritesheet_15
+    21300032: Gus_Happy_Spritesheet_16
+    21300034: Gus_Happy_Spritesheet_17
+    21300036: Gus_Happy_Spritesheet_18
+    21300038: Gus_Happy_Spritesheet_19
+    21300040: Gus_Happy_Spritesheet_20
+    21300042: Gus_Happy_Spritesheet_21
+    21300044: Gus_Happy_Spritesheet_22
+    21300046: Gus_Happy_Spritesheet_23
+    21300048: Gus_Happy_Spritesheet_24
+    21300050: Gus_Happy_Spritesheet_25
+    21300052: Gus_Happy_Spritesheet_26
+    21300054: Gus_Happy_Spritesheet_27
+    21300056: Gus_Happy_Spritesheet_28
+    21300058: Gus_Happy_Spritesheet_29
+    21300060: Gus_Happy_Spritesheet_30
+    21300062: Gus_Happy_Spritesheet_31
+    21300064: Gus_Happy_Spritesheet_32
+    21300066: Gus_Happy_Spritesheet_33
+    21300068: Gus_Happy_Spritesheet_34
+    21300070: Gus_Happy_Spritesheet_35
+    21300072: Gus_Happy_Spritesheet_36
+    21300074: Gus_Happy_Spritesheet_37
+    21300076: Gus_Happy_Spritesheet_38
+    21300078: Gus_Happy_Spritesheet_39
+    21300080: Gus_Happy_Spritesheet_40
+    21300082: Gus_Happy_Spritesheet_41
+    21300084: Gus_Happy_Spritesheet_42
+    21300086: Gus_Happy_Spritesheet_43
+    21300088: Gus_Happy_Spritesheet_44
+    21300090: Gus_Happy_Spritesheet_45
+    21300092: Gus_Happy_Spritesheet_46
+    21300094: Gus_Happy_Spritesheet_47
+    21300096: Gus_Happy_Spritesheet_48
+    21300098: Gus_Happy_Spritesheet_49
+    21300100: Gus_Happy_Spritesheet_50
+    21300102: Gus_Happy_Spritesheet_51
+    21300104: Gus_Happy_Spritesheet_52
+    21300106: Gus_Happy_Spritesheet_53
+    21300108: Gus_Happy_Spritesheet_54
+    21300110: Gus_Happy_Spritesheet_55
+    21300112: Gus_Happy_Spritesheet_56
+    21300114: Gus_Happy_Spritesheet_57
+    21300116: Gus_Happy_Spritesheet_58
+    21300118: Gus_Happy_Spritesheet_59
+    21300120: Gus_Happy_Spritesheet_60
+    21300122: Gus_Happy_Spritesheet_61
+    21300124: Gus_Happy_Spritesheet_62
+    21300126: Gus_Happy_Spritesheet_63
+    21300128: Gus_Happy_Spritesheet_64
+    21300130: Gus_Happy_Spritesheet_65
+    21300132: Gus_Happy_Spritesheet_66
+    21300134: Gus_Happy_Spritesheet_67
+    21300136: Gus_Happy_Spritesheet_68
+    21300138: Gus_Happy_Spritesheet_69
+    21300140: Gus_Happy_Spritesheet_70
+    21300142: Gus_Happy_Spritesheet_71
+    21300144: Gus_Happy_Spritesheet_72
+    21300146: Gus_Happy_Spritesheet_73
+    21300148: Gus_Happy_Spritesheet_74
+    21300150: Gus_Happy_Spritesheet_75
+    21300152: Gus_Happy_Spritesheet_76
+    21300154: Gus_Happy_Spritesheet_77
+    21300156: Gus_Happy_Spritesheet_78
+    21300158: Gus_Happy_Spritesheet_79
+    21300160: Gus_Happy_Spritesheet_80
+    21300162: Gus_Happy_Spritesheet_81
+    21300164: Gus_Happy_Spritesheet_82
+    21300166: Gus_Happy_Spritesheet_83
+    21300168: Gus_Happy_Spritesheet_84
+    21300170: Gus_Happy_Spritesheet_85
+    21300172: Gus_Happy_Spritesheet_86
+    21300174: Gus_Happy_Spritesheet_87
+    21300176: Gus_Happy_Spritesheet_88
+    21300178: Gus_Happy_Spritesheet_89
+    21300180: Gus_Happy_Spritesheet_90
+    21300182: Gus_Happy_Spritesheet_91
+    21300184: Gus_Happy_Spritesheet_92
+    21300186: Gus_Happy_Spritesheet_93
+    21300188: Gus_Happy_Spritesheet_94
+    21300190: Gus_Happy_Spritesheet_95
+    21300192: Gus_Happy_Spritesheet_96
+    21300194: Gus_Happy_Spritesheet_97
+    21300196: Gus_Happy_Spritesheet_98
+    21300198: Gus_Happy_Spritesheet_99
+    21300200: Gus_Happy_Spritesheet_100
+    21300202: Gus_Happy_Spritesheet_101
+    21300204: Gus_Happy_Spritesheet_102
+    21300206: Gus_Happy_Spritesheet_103
+    21300208: Gus_Happy_Spritesheet_104
+    21300210: Gus_Happy_Spritesheet_105
+    21300212: Gus_Happy_Spritesheet_106
+    21300214: Gus_Happy_Spritesheet_107
+    21300216: Gus_Happy_Spritesheet_108
+    21300218: Gus_Happy_Spritesheet_109
+    21300220: Gus_Happy_Spritesheet_110
+    21300222: Gus_Happy_Spritesheet_111
+    21300224: Gus_Happy_Spritesheet_112
+    21300226: Gus_Happy_Spritesheet_113
+    21300228: Gus_Happy_Spritesheet_114
+    21300230: Gus_Happy_Spritesheet_115
+    21300232: Gus_Happy_Spritesheet_116
+    21300234: Gus_Happy_Spritesheet_117
+    21300236: Gus_Happy_Spritesheet_118
+    21300238: Gus_Happy_Spritesheet_119
+    21300240: Gus_Happy_Spritesheet_120
+    21300242: Gus_Happy_Spritesheet_121
+    21300244: Gus_Happy_Spritesheet_122
+    21300246: Gus_Happy_Spritesheet_123
+    21300248: Gus_Happy_Spritesheet_124
+    21300250: Gus_Happy_Spritesheet_125
+    21300252: Gus_Happy_Spritesheet_126
+    21300254: Gus_Happy_Spritesheet_127
+    21300256: Gus_Happy_Spritesheet_128
+    21300258: Gus_Happy_Spritesheet_129
+    21300260: Gus_Happy_Spritesheet_130
+    21300262: Gus_Happy_Spritesheet_131
+    21300264: Gus_Happy_Spritesheet_132
+    21300266: Gus_Happy_Spritesheet_133
+    21300268: Gus_Happy_Spritesheet_134
+    21300270: Gus_Happy_Spritesheet_135
+    21300272: Gus_Happy_Spritesheet_136
+    21300274: Gus_Happy_Spritesheet_137
+    21300276: Gus_Happy_Spritesheet_138
+    21300278: Gus_Happy_Spritesheet_139
+    21300280: Gus_Happy_Spritesheet_140
+    21300282: Gus_Happy_Spritesheet_141
+    21300284: Gus_Happy_Spritesheet_142
+    21300286: Gus_Happy_Spritesheet_143
+    21300288: Gus_Happy_Spritesheet_144
+    21300290: Gus_Happy_Spritesheet_145
+    21300292: Gus_Happy_Spritesheet_146
+    21300294: Gus_Happy_Spritesheet_147
+    21300296: Gus_Happy_Spritesheet_148
+    21300298: Gus_Happy_Spritesheet_149
+    21300300: Gus_Happy_Spritesheet_150
+    21300302: Gus_Happy_Spritesheet_151
+    21300304: Gus_Happy_Spritesheet_152
+    21300306: Gus_Happy_Spritesheet_153
+    21300308: Gus_Happy_Spritesheet_154
+    21300310: Gus_Happy_Spritesheet_155
+    21300312: Gus_Happy_Spritesheet_156
+    21300314: Gus_Happy_Spritesheet_157
+    21300316: Gus_Happy_Spritesheet_158
+    21300318: Gus_Happy_Spritesheet_159
+    21300320: Gus_Happy_Spritesheet_160
+    21300322: Gus_Happy_Spritesheet_161
+    21300324: Gus_Happy_Spritesheet_162
+    21300326: Gus_Happy_Spritesheet_163
+    21300328: Gus_Happy_Spritesheet_164
+    21300330: Gus_Happy_Spritesheet_165
+    21300332: Gus_Happy_Spritesheet_166
+    21300334: Gus_Happy_Spritesheet_167
+    21300336: Gus_Happy_Spritesheet_168
+    21300338: Gus_Happy_Spritesheet_169
+    21300340: Gus_Happy_Spritesheet_170
+    21300342: Gus_Happy_Spritesheet_171
+    21300344: Gus_Happy_Spritesheet_172
+    21300346: Gus_Happy_Spritesheet_173
+    21300348: Gus_Happy_Spritesheet_174
+    21300350: Gus_Happy_Spritesheet_175
+    21300352: Gus_Happy_Spritesheet_176
+    21300354: Gus_Happy_Spritesheet_177
+    21300356: Gus_Happy_Spritesheet_178
+    21300358: Gus_Happy_Spritesheet_179
+    21300360: Gus_Happy_Spritesheet_180
+    21300362: Gus_Happy_Spritesheet_181
+    21300364: Gus_Happy_Spritesheet_182
+    21300366: Gus_Happy_Spritesheet_183
+    21300368: Gus_Happy_Spritesheet_184
+    21300370: Gus_Happy_Spritesheet_185
+    21300372: Gus_Happy_Spritesheet_186
+    21300374: Gus_Happy_Spritesheet_187
+    21300376: Gus_Happy_Spritesheet_188
+    21300378: Gus_Happy_Spritesheet_189
+    21300380: Gus_Happy_Spritesheet_190
+    21300382: Gus_Happy_Spritesheet_191
+    21300384: Gus_Happy_Spritesheet_192
+    21300386: Gus_Happy_Spritesheet_193
+    21300388: Gus_Happy_Spritesheet_194
+    21300390: Gus_Happy_Spritesheet_195
+    21300392: Gus_Happy_Spritesheet_196
+    21300394: Gus_Happy_Spritesheet_197
+    21300396: Gus_Happy_Spritesheet_198
+    21300398: Gus_Happy_Spritesheet_199
+    21300400: Gus_Happy_Spritesheet_200
+    21300402: Gus_Happy_Spritesheet_201
+    21300404: Gus_Happy_Spritesheet_202
+    21300406: Gus_Happy_Spritesheet_203
+    21300408: Gus_Happy_Spritesheet_204
+    21300410: Gus_Happy_Spritesheet_205
+    21300412: Gus_Happy_Spritesheet_206
+    21300414: Gus_Happy_Spritesheet_207
+    21300416: Gus_Happy_Spritesheet_208
+    21300418: Gus_Happy_Spritesheet_209
+    21300420: Gus_Happy_Spritesheet_210
+    21300422: Gus_Happy_Spritesheet_211
+    21300424: Gus_Happy_Spritesheet_212
+    21300426: Gus_Happy_Spritesheet_213
+    21300428: Gus_Happy_Spritesheet_214
+    21300430: Gus_Happy_Spritesheet_215
+    21300432: Gus_Happy_Spritesheet_216
+    21300434: Gus_Happy_Spritesheet_217
+    21300436: Gus_Happy_Spritesheet_218
+    21300438: Gus_Happy_Spritesheet_219
+    21300440: Gus_Happy_Spritesheet_220
+    21300442: Gus_Happy_Spritesheet_221
+    21300444: Gus_Happy_Spritesheet_222
+    21300446: Gus_Happy_Spritesheet_223
+    21300448: Gus_Happy_Spritesheet_224
+    21300450: Gus_Happy_Spritesheet_225
+    21300452: Gus_Happy_Spritesheet_226
+    21300454: Gus_Happy_Spritesheet_227
+    21300456: Gus_Happy_Spritesheet_228
+    21300458: Gus_Happy_Spritesheet_229
+    21300460: Gus_Happy_Spritesheet_230
+    21300462: Gus_Happy_Spritesheet_231
+    21300464: Gus_Happy_Spritesheet_232
+    21300466: Gus_Happy_Spritesheet_233
+    21300468: Gus_Happy_Spritesheet_234
+    21300470: Gus_Happy_Spritesheet_235
+    21300472: Gus_Happy_Spritesheet_236
+    21300474: Gus_Happy_Spritesheet_237
+    21300476: Gus_Happy_Spritesheet_238
+    21300478: Gus_Happy_Spritesheet_239
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc5235191d0eb458e23e472536bdcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb24cecc1b0174a9300d5209c2619c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143548fa9faa04744986cc0c38ea239a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717563d41c11274b9b18bba9d657143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56083b3b4d7bbf74cab37884486be011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1086d3499d864d89c4f48bf07165e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d82c072c427fe41b2f703f30ec86bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a59a0e8b530bda45aa7e3bcd08508dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a68622069a6324a8364cc39e5c46df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06e4a39fd4cb6f4d99d8425c78c2cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c791ebc8709944b0bb4a53c049c00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bc008efc2af31438a4ffbac1c93eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a4bd2b2036ee4eb5257a148019e1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3406e047462a3474fa3263d5cf7cc7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ef5bcc1c58fd419db216be9484ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a99ab520974164c83123e7f9877768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21777689783871f41941bf517bbbcc08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ee51fb68c7f345b457dd0cc731b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80268479a62141a4db549df619d95042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9b361d9260d94b82221842683bf79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e1db8cc7255c4988847f94e71dff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aca8ad8640e5c4facf7872f76fab65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e0fc31f2251f4bb5fbd98165a3d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7dbb75f5350a3419134db0356fb843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25810265e8dd2d340af6a1ccdcd68e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9429fac79494f41b28fdbafa911858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c145ea2c8a0a469e39e311631c51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af96592651a8044821c83613541522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd49ebf50fd8ab945b2ab872826e7667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e9f414f90cf784290a0bfb77425119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c5c3c4f0085d4d9773ee2aaf8b0a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0fe79148c90a419de41abb23f65bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973d9c7f5226e74993c1703990b2733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661f5bf4f2b352408c2ba462004f916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409459de7fa53e43832b1acbb82ad6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c99687bf6a002b49958d5126ee24752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4298b3e4cf0e9d439bab08f7c0fbe6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a148ca7902bee4bb75f9cb86b3c814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2602a5723bd71241afc81e871b08e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5f2592b504d9e49ba407e1e31a08ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab2512812cfe8d46bb4d25e6347d055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399a115e5e9a7bf42aa20c371397b55a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb9a2e52ff53442ad3e4b39684b1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7d926c9eedf045ac27b4b80db4443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca43d06a220ed440abe14487198518d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a8ef5ff3f8ca419d8be1fb06056bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952ea23a074bc44a837876a2f9ea66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3500ed6c87d14582f0859fd955da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809b03f20117644f96e4f45244c35df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bafd48dc157714882fa99f84822f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468069ae650bce4ca91bb10b12bf640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3be36f1f311db4ba67b823aada17d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7573038d141bb049a1c50c507e02472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fab77cf8a00de439288e69dd8ecb49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf591a60a49d6449e44fe6043eb11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082d9939ef206545a2e18941b4bc839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62370147cc9010645a25f65c5508ec48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a75041d5eb9b8419888994bb17134e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087498e012f90a419d0c8f232ca27a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846a82540a6ca5348824d7643ff3bb15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868fb85e8195a6b4bb0f59103124e9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581361e560d41f244adbe204dddef1d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffbb96d91129d74dbe811afac41beb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccfe7d908c5c2a46bed58b9721b2455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089d4f8358182f84f867589d56e15674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16729da70761fd4593038ca140639c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcbc178037f65042bc2837cd4d0fe12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c31521dd74be40bf0e0c541af1286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b78bfaab5cbc4a8d6a81746edbcd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0cadccb429f30478b4b94491af2cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7d5e35d79c4a478cef586c73061d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c44a69204bf7024ab9847bb26353e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b2c8b92fff834aa6123cee887fbc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe274beb2a35a4caee29654c944fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09319713b48b36e4fbce72f98401faf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb238374fb405a4e921251d84642ccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868e59a82d1213144bdd180cb7422c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d752ef30046b44ca263c5961a20c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea7d8e8982c9dd4c81435c883b42009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff684437363b3c47b83e68150a9e83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ced6c0188a59f499eff231c3a64efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6a5e260b24ed04793786e110185be1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d03a397c423ad4895a239cdca94ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e97f2c7fdb3b45b13d4f0a95522af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b090856a098e46baf60d38f9506f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd810c2a90863d44ad2e7c60b987087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78cada7e5b8b764b832ac2fc7ab1fab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914d61623917714e81472019279c90c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d722702c31564cd45be8d1fcee04cca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c15f6976fb1304db32cafad898e494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ad354c4f7fec40aa8263b61344f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd11a0d81125a4f93e4ae07bb6e81c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b479a67a57b624c9babd747dcaafdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7a1175ebbe9f42bc8a3b0d96df46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22de6f542a8a043998d4c6f44b62a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d7301cecc260468f2d76c101ec46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfbcc0b6375ff8408bf85674d1e4944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d2831cfba385459a12e2319430be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a327f7d23fd83b46afa926d3e7fad52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c830107dc6a5a4eb53a798d39fcf8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5010ee41af111149a9e3a78a4b9cb6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f72d83d841594999d8ce9da0259c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41427b82902b8ff4ca557d39eab053d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79bec590183aa84bb4b7edb12aecdb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d869cd2157b42b94995642d2114bb914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa3db4b611f6144b786ab3477d4895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1568d8397477147a9f713bf93a8209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb62d4b51c2ea04aac80ec53ee4f0d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee160e0d6a85a4f8db0887326137ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b959bdf9a74c214abe5c05467b6ee23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557951a378cde244d8ea9a0e1f8b1f1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171b4bf14e178f2489883712092b5571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f2f83eb2ec004aabeba8a0c66dfef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d8028844e577498a3f97a29f497e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9300d7903ca3e2344be158621a972e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e5b8a15019984da257ce52585618d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3af2fa68532884eb323e554da6cc78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffb5c000880954bb95f6b18c4ebcbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf42bc887195046b96e5a78655ea54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0893c2ae9cad7c946aa05767ee737a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a33bccc209e85a4994d828e3ff12d1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a064b2d7e2664db8c1c10c50a2ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a13f90f024dcec469dcebeeeed255c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb82f85d64684624da43d79b4a24090f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa73ffe6884269241b3a4ea28bdc1f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52d88b1016a754086b0d377bbfb85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af23ed66eabbf4e998094ec2378202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73759904acb081a489f49eb28526bd5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe852fef42efd47bb11de7d9e04d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40536af5860d0be468674ea66d91fcf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b9cc54bd14654e8213e9741037a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865b10108794354787414583ab8e385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17c29d6b5bb884cb80e158a3f45f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56421098d81541840972ac0af19b4d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5c9df4abf0d744895cc16650eeeda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0bc28410dee644597f349236dd7ff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71054a2138f31d49a0f564f2959aa88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84503cf9c7bd684ba37b9d1f2fb89e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e775eb8b5de941a7c25b9b041466b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832439e67c18a642bc4624344e12966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884487bb194c6547b1128362366df0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a8e1f2e9d1454aa5bd0fbab271283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e2744e7a725dd43a63ec7254084325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b77df65167a1a24b9cb30b63d92c095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287d088c7c430b4884b551111e1ee72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad41180d6e8044cbf504a8d2842069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29bbeed9b7880e4fbe0317d3e7d6bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0684a388ce3194186cc4b68646bbac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26129a4b8943d4aa4d94171d318b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531380141c3e42f4688c40c86e8d7fe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0de2c39101f2d4ebcd4c48f053a3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707cd956d49d974a81eb2cb8a9c7784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496001c80e6528a4f929fbdd6d940555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7cc282dea7a1c4d929122fb1db959d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f6bec157ac724ab472301a05566de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4170acb4469aa14b8b82359d7d87412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb3c9392e5f9c4e926076817b88905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9f3170bec2964687de18f42e6782d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c36b5480eb9e4f847874d98f2d20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a74c07b5b2ca48980db49da60bb07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64946896e518d2641ae38e53e6ab6dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dffb34510c124a9028a26cd5bf9c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c534ca03fcef7604fbb51525744f2f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371de7b18c537244ba8cdfe7ed0dac98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b4e649fb58664299ea7a7bd72aedf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea25e68a00e8e4aa2ee8d19092a2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d1cd3d21736c4409f1a949d72c23cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ccec3aba720bc4582dd694d9a6e97a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84496599b73a3344e8162696b43c05e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa0f9158891e549af7fd98bc7ee20b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cccf1ccf847d69478d177ce580cc643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faef92631020b4145ad7bbd99da1cc30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a5943d4e3571459281ffec5ef4189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa68c9a9389b541829292cbec8d5ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca811f86a6c8f64f920004699520a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ebcade1579cf040af8a9fea7b6d431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c82daf780c7d49876e0171f0c8e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73684055b71dd4bb54f1cc111b17d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb959f4797b384ca33134c6a4bfe6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf7c450c64e9ef4fa0100ffc5d36c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20121db5417b86e458d69bc423817d60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67827dbf8253646af29a48369925e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cae1b59f531fb47bbb32647d88258e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c550eb5193a9488ef6e3e4778ee08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49c23e685c3d14b88735ecdd4a788c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d5bcd93f6fee846bea83a1844074c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02830fd62109aef4ab567dfae2e24182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f845d0fdb80024ebec1b8914157204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141b87f8a5de61d469038db38a6dc755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78786984bbd238e459697831196fccb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4f791279d79a4b9a735a043302c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b83fc9e7e272c346a08bdf5982cd793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa35cf9e8e396b4da7c4daba446b592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad180d07b17e954288fe54b9ef465c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de776542b96b95248b1ea259d7366dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c538f108791347a4fbe387d036749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff1533fdee20840ac89c2af8b00d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f4f9e46b94d34f8285afebd45cc9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4502f2a5897de4aaee186a7facb9a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9079dc5c0ac235478362ef4c368a0e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c7d0fd5953f084a83d37aa11279746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484034fe4179ea34793a01f493ededef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56155d036310a640833c0c3334aec03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804985ed1cca5a2448fcb3a9e3da3c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e508768b7dbe40b2186cb78502459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bfe7497fa452a4eb70fbbeceaeeaa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320381e73904da468b54968186d1d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebb7e47a3e3e14d8abcf61e920b1de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab01845f2e6c6f4d817163040b4151d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9a0ef8bac1bb40ab9c3c8d1bf252e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3101c5080fadd743be1ff73b497fba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ec14bf4a6c6f43976606ca02bd6e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbfea3d3c0d1f4a83d68e75a7588c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fea0518c613184c8b783a412c4d3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34aab9383114c49be356f8bb502ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbed8fcf71b1b94f9d5515f2f463e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c989068444ab0342a857942c9be439f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44553056ba268e40a1b785381e5f770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc29a9504fff964f877487d54fca075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dfa289a239bcf4eaf72ac4292473db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef3587a49b0129409efef66f369c63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41653b6c5f20274f9bb584f50a37b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83fb01399f62e347a338c8f7c0393d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f76076540bab469418509a5620a3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b464384dfa0464f8485b3c99ce2fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb41590d892f140aaf19680bd26214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3063e6fed5da4c1459971a87f56e4d4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a21ed6733447b478dc4de7bc7014fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80272b4df2961f040a1989bcb64ae775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6301580746f2b46b1e61fc4293bdfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e19257498233744f95ca720abcfdea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc823c5181da9ec4092907a8ae857d25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26590ebfc1a94dd4eb5ec8198da4bc2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb812a9b015714fa8ff825f7ebeeb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a4211fc98b4a4f876470b5aa0296c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4bd47f4f2345d42b61bbe19c880ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca362076a90d047449133bfabbabf564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e1806c3f9f6d4bac01ca4ffd87034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a05700c7a0fc64580deff3726b4fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Happy_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1597f8b0689b0154a8b98ad12e2e9aff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d89372be9cf5bd499a29a5696066646
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

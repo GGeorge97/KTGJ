@@ -1,0 +1,5172 @@
+fileFormatVersion: 2
+guid: 76f7c4f4fa58cd441825f20bfa9d7dc5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gus_Angry_Spritesheet_0
+    21300002: Gus_Angry_Spritesheet_1
+    21300004: Gus_Angry_Spritesheet_2
+    21300006: Gus_Angry_Spritesheet_3
+    21300008: Gus_Angry_Spritesheet_4
+    21300010: Gus_Angry_Spritesheet_5
+    21300012: Gus_Angry_Spritesheet_6
+    21300014: Gus_Angry_Spritesheet_7
+    21300016: Gus_Angry_Spritesheet_8
+    21300018: Gus_Angry_Spritesheet_9
+    21300020: Gus_Angry_Spritesheet_10
+    21300022: Gus_Angry_Spritesheet_11
+    21300024: Gus_Angry_Spritesheet_12
+    21300026: Gus_Angry_Spritesheet_13
+    21300028: Gus_Angry_Spritesheet_14
+    21300030: Gus_Angry_Spritesheet_15
+    21300032: Gus_Angry_Spritesheet_16
+    21300034: Gus_Angry_Spritesheet_17
+    21300036: Gus_Angry_Spritesheet_18
+    21300038: Gus_Angry_Spritesheet_19
+    21300040: Gus_Angry_Spritesheet_20
+    21300042: Gus_Angry_Spritesheet_21
+    21300044: Gus_Angry_Spritesheet_22
+    21300046: Gus_Angry_Spritesheet_23
+    21300048: Gus_Angry_Spritesheet_24
+    21300050: Gus_Angry_Spritesheet_25
+    21300052: Gus_Angry_Spritesheet_26
+    21300054: Gus_Angry_Spritesheet_27
+    21300056: Gus_Angry_Spritesheet_28
+    21300058: Gus_Angry_Spritesheet_29
+    21300060: Gus_Angry_Spritesheet_30
+    21300062: Gus_Angry_Spritesheet_31
+    21300064: Gus_Angry_Spritesheet_32
+    21300066: Gus_Angry_Spritesheet_33
+    21300068: Gus_Angry_Spritesheet_34
+    21300070: Gus_Angry_Spritesheet_35
+    21300072: Gus_Angry_Spritesheet_36
+    21300074: Gus_Angry_Spritesheet_37
+    21300076: Gus_Angry_Spritesheet_38
+    21300078: Gus_Angry_Spritesheet_39
+    21300080: Gus_Angry_Spritesheet_40
+    21300082: Gus_Angry_Spritesheet_41
+    21300084: Gus_Angry_Spritesheet_42
+    21300086: Gus_Angry_Spritesheet_43
+    21300088: Gus_Angry_Spritesheet_44
+    21300090: Gus_Angry_Spritesheet_45
+    21300092: Gus_Angry_Spritesheet_46
+    21300094: Gus_Angry_Spritesheet_47
+    21300096: Gus_Angry_Spritesheet_48
+    21300098: Gus_Angry_Spritesheet_49
+    21300100: Gus_Angry_Spritesheet_50
+    21300102: Gus_Angry_Spritesheet_51
+    21300104: Gus_Angry_Spritesheet_52
+    21300106: Gus_Angry_Spritesheet_53
+    21300108: Gus_Angry_Spritesheet_54
+    21300110: Gus_Angry_Spritesheet_55
+    21300112: Gus_Angry_Spritesheet_56
+    21300114: Gus_Angry_Spritesheet_57
+    21300116: Gus_Angry_Spritesheet_58
+    21300118: Gus_Angry_Spritesheet_59
+    21300120: Gus_Angry_Spritesheet_60
+    21300122: Gus_Angry_Spritesheet_61
+    21300124: Gus_Angry_Spritesheet_62
+    21300126: Gus_Angry_Spritesheet_63
+    21300128: Gus_Angry_Spritesheet_64
+    21300130: Gus_Angry_Spritesheet_65
+    21300132: Gus_Angry_Spritesheet_66
+    21300134: Gus_Angry_Spritesheet_67
+    21300136: Gus_Angry_Spritesheet_68
+    21300138: Gus_Angry_Spritesheet_69
+    21300140: Gus_Angry_Spritesheet_70
+    21300142: Gus_Angry_Spritesheet_71
+    21300144: Gus_Angry_Spritesheet_72
+    21300146: Gus_Angry_Spritesheet_73
+    21300148: Gus_Angry_Spritesheet_74
+    21300150: Gus_Angry_Spritesheet_75
+    21300152: Gus_Angry_Spritesheet_76
+    21300154: Gus_Angry_Spritesheet_77
+    21300156: Gus_Angry_Spritesheet_78
+    21300158: Gus_Angry_Spritesheet_79
+    21300160: Gus_Angry_Spritesheet_80
+    21300162: Gus_Angry_Spritesheet_81
+    21300164: Gus_Angry_Spritesheet_82
+    21300166: Gus_Angry_Spritesheet_83
+    21300168: Gus_Angry_Spritesheet_84
+    21300170: Gus_Angry_Spritesheet_85
+    21300172: Gus_Angry_Spritesheet_86
+    21300174: Gus_Angry_Spritesheet_87
+    21300176: Gus_Angry_Spritesheet_88
+    21300178: Gus_Angry_Spritesheet_89
+    21300180: Gus_Angry_Spritesheet_90
+    21300182: Gus_Angry_Spritesheet_91
+    21300184: Gus_Angry_Spritesheet_92
+    21300186: Gus_Angry_Spritesheet_93
+    21300188: Gus_Angry_Spritesheet_94
+    21300190: Gus_Angry_Spritesheet_95
+    21300192: Gus_Angry_Spritesheet_96
+    21300194: Gus_Angry_Spritesheet_97
+    21300196: Gus_Angry_Spritesheet_98
+    21300198: Gus_Angry_Spritesheet_99
+    21300200: Gus_Angry_Spritesheet_100
+    21300202: Gus_Angry_Spritesheet_101
+    21300204: Gus_Angry_Spritesheet_102
+    21300206: Gus_Angry_Spritesheet_103
+    21300208: Gus_Angry_Spritesheet_104
+    21300210: Gus_Angry_Spritesheet_105
+    21300212: Gus_Angry_Spritesheet_106
+    21300214: Gus_Angry_Spritesheet_107
+    21300216: Gus_Angry_Spritesheet_108
+    21300218: Gus_Angry_Spritesheet_109
+    21300220: Gus_Angry_Spritesheet_110
+    21300222: Gus_Angry_Spritesheet_111
+    21300224: Gus_Angry_Spritesheet_112
+    21300226: Gus_Angry_Spritesheet_113
+    21300228: Gus_Angry_Spritesheet_114
+    21300230: Gus_Angry_Spritesheet_115
+    21300232: Gus_Angry_Spritesheet_116
+    21300234: Gus_Angry_Spritesheet_117
+    21300236: Gus_Angry_Spritesheet_118
+    21300238: Gus_Angry_Spritesheet_119
+    21300240: Gus_Angry_Spritesheet_120
+    21300242: Gus_Angry_Spritesheet_121
+    21300244: Gus_Angry_Spritesheet_122
+    21300246: Gus_Angry_Spritesheet_123
+    21300248: Gus_Angry_Spritesheet_124
+    21300250: Gus_Angry_Spritesheet_125
+    21300252: Gus_Angry_Spritesheet_126
+    21300254: Gus_Angry_Spritesheet_127
+    21300256: Gus_Angry_Spritesheet_128
+    21300258: Gus_Angry_Spritesheet_129
+    21300260: Gus_Angry_Spritesheet_130
+    21300262: Gus_Angry_Spritesheet_131
+    21300264: Gus_Angry_Spritesheet_132
+    21300266: Gus_Angry_Spritesheet_133
+    21300268: Gus_Angry_Spritesheet_134
+    21300270: Gus_Angry_Spritesheet_135
+    21300272: Gus_Angry_Spritesheet_136
+    21300274: Gus_Angry_Spritesheet_137
+    21300276: Gus_Angry_Spritesheet_138
+    21300278: Gus_Angry_Spritesheet_139
+    21300280: Gus_Angry_Spritesheet_140
+    21300282: Gus_Angry_Spritesheet_141
+    21300284: Gus_Angry_Spritesheet_142
+    21300286: Gus_Angry_Spritesheet_143
+    21300288: Gus_Angry_Spritesheet_144
+    21300290: Gus_Angry_Spritesheet_145
+    21300292: Gus_Angry_Spritesheet_146
+    21300294: Gus_Angry_Spritesheet_147
+    21300296: Gus_Angry_Spritesheet_148
+    21300298: Gus_Angry_Spritesheet_149
+    21300300: Gus_Angry_Spritesheet_150
+    21300302: Gus_Angry_Spritesheet_151
+    21300304: Gus_Angry_Spritesheet_152
+    21300306: Gus_Angry_Spritesheet_153
+    21300308: Gus_Angry_Spritesheet_154
+    21300310: Gus_Angry_Spritesheet_155
+    21300312: Gus_Angry_Spritesheet_156
+    21300314: Gus_Angry_Spritesheet_157
+    21300316: Gus_Angry_Spritesheet_158
+    21300318: Gus_Angry_Spritesheet_159
+    21300320: Gus_Angry_Spritesheet_160
+    21300322: Gus_Angry_Spritesheet_161
+    21300324: Gus_Angry_Spritesheet_162
+    21300326: Gus_Angry_Spritesheet_163
+    21300328: Gus_Angry_Spritesheet_164
+    21300330: Gus_Angry_Spritesheet_165
+    21300332: Gus_Angry_Spritesheet_166
+    21300334: Gus_Angry_Spritesheet_167
+    21300336: Gus_Angry_Spritesheet_168
+    21300338: Gus_Angry_Spritesheet_169
+    21300340: Gus_Angry_Spritesheet_170
+    21300342: Gus_Angry_Spritesheet_171
+    21300344: Gus_Angry_Spritesheet_172
+    21300346: Gus_Angry_Spritesheet_173
+    21300348: Gus_Angry_Spritesheet_174
+    21300350: Gus_Angry_Spritesheet_175
+    21300352: Gus_Angry_Spritesheet_176
+    21300354: Gus_Angry_Spritesheet_177
+    21300356: Gus_Angry_Spritesheet_178
+    21300358: Gus_Angry_Spritesheet_179
+    21300360: Gus_Angry_Spritesheet_180
+    21300362: Gus_Angry_Spritesheet_181
+    21300364: Gus_Angry_Spritesheet_182
+    21300366: Gus_Angry_Spritesheet_183
+    21300368: Gus_Angry_Spritesheet_184
+    21300370: Gus_Angry_Spritesheet_185
+    21300372: Gus_Angry_Spritesheet_186
+    21300374: Gus_Angry_Spritesheet_187
+    21300376: Gus_Angry_Spritesheet_188
+    21300378: Gus_Angry_Spritesheet_189
+    21300380: Gus_Angry_Spritesheet_190
+    21300382: Gus_Angry_Spritesheet_191
+    21300384: Gus_Angry_Spritesheet_192
+    21300386: Gus_Angry_Spritesheet_193
+    21300388: Gus_Angry_Spritesheet_194
+    21300390: Gus_Angry_Spritesheet_195
+    21300392: Gus_Angry_Spritesheet_196
+    21300394: Gus_Angry_Spritesheet_197
+    21300396: Gus_Angry_Spritesheet_198
+    21300398: Gus_Angry_Spritesheet_199
+    21300400: Gus_Angry_Spritesheet_200
+    21300402: Gus_Angry_Spritesheet_201
+    21300404: Gus_Angry_Spritesheet_202
+    21300406: Gus_Angry_Spritesheet_203
+    21300408: Gus_Angry_Spritesheet_204
+    21300410: Gus_Angry_Spritesheet_205
+    21300412: Gus_Angry_Spritesheet_206
+    21300414: Gus_Angry_Spritesheet_207
+    21300416: Gus_Angry_Spritesheet_208
+    21300418: Gus_Angry_Spritesheet_209
+    21300420: Gus_Angry_Spritesheet_210
+    21300422: Gus_Angry_Spritesheet_211
+    21300424: Gus_Angry_Spritesheet_212
+    21300426: Gus_Angry_Spritesheet_213
+    21300428: Gus_Angry_Spritesheet_214
+    21300430: Gus_Angry_Spritesheet_215
+    21300432: Gus_Angry_Spritesheet_216
+    21300434: Gus_Angry_Spritesheet_217
+    21300436: Gus_Angry_Spritesheet_218
+    21300438: Gus_Angry_Spritesheet_219
+    21300440: Gus_Angry_Spritesheet_220
+    21300442: Gus_Angry_Spritesheet_221
+    21300444: Gus_Angry_Spritesheet_222
+    21300446: Gus_Angry_Spritesheet_223
+    21300448: Gus_Angry_Spritesheet_224
+    21300450: Gus_Angry_Spritesheet_225
+    21300452: Gus_Angry_Spritesheet_226
+    21300454: Gus_Angry_Spritesheet_227
+    21300456: Gus_Angry_Spritesheet_228
+    21300458: Gus_Angry_Spritesheet_229
+    21300460: Gus_Angry_Spritesheet_230
+    21300462: Gus_Angry_Spritesheet_231
+    21300464: Gus_Angry_Spritesheet_232
+    21300466: Gus_Angry_Spritesheet_233
+    21300468: Gus_Angry_Spritesheet_234
+    21300470: Gus_Angry_Spritesheet_235
+    21300472: Gus_Angry_Spritesheet_236
+    21300474: Gus_Angry_Spritesheet_237
+    21300476: Gus_Angry_Spritesheet_238
+    21300478: Gus_Angry_Spritesheet_239
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc55da459a00e4d932409918381769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7a70557613294aae12792f7d1bc33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4edeb3ca851da459152bda384be929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e96f855471f62408268adef4a9654c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798be457d17ad2c44a4a02e1cca22787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647924a9c7d5024c8d1af43cd14dcc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168f91c593455840a47ba8230ac01a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173e28d114dd0446bc725c552e15ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d4f1721bc3fe4a90a3ee0d2223f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ddff5300208c44b05e71c84b5e4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbdd580e24c3e54da3984f4da0b94d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e85d9df4f5d8b42846e035253df019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225b1b11bf4edf04a8cb53a1a870c832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5c71b2ebeb18a43a4217f7fef0a2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48111abc0a5fc94481bafe6d9c76949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa565606f99a5f4597c146ac69b6f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ee02ffa0961e4a89188c4abb5ecf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f2070d74f72841b7d5484a3511775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875e3b0d2b464ba4c948fdd3714a431f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5479b961213fd4ebf34dfc2e9555ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eb5781237618b4f8e572eced6dc241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971509ef44013fb469cac4a450e0ebd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57e807cc9b6204887fa79a53e0c7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b941e0a8343b44be6adfbe118514f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b17ea118ca5545be0d9799a5c8045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffbda30f066ba49a859950f73e403e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339bdf0234426014dac3b1ab994b9d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f9b2bebcd2e3469d29c14eb99b726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a5571a8de793429d1d597638fe5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 4550
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31821290c4f5e584d80f4cea36c9cb3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c1fa0a3a4b1b42a7994b835d4f70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb539b2f4d144448aa7e79ec8a54c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4afad9220b637b42b8ba91497983b62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e580b2b5e837246a28e2e5528b3262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f41b20b692534eb10c893dd9cd3f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234a858ca347ea428981ade89efd5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999ed71474c9524ea9a5d729e967aef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3307bc562caf2b46afda84eecdd30ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684433d6e68a2fb4ca9dfd80930f8575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546b5bb2b2b3f0489f1d1d2ea7daa98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914d80cc6c477940b96098c05e21972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8623069000c32d42a1cb0f99ac41671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf040887e82dcca4b809b7e3daeead7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc70eecf5a4c0f46913da2eb29810c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc4b5a4687e0b48974a77966a2e3e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffd539fe0758943849674a617a82ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae399c21abcc27240b48cb2e0905d0ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f7217d287c814cb62bb6cf180576d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c208d6d1dae304db1cd9a08737b2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f631dd9464729c43a95f7bd4948073e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4974a09f07a6ff4a899309dca4e9642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0dbb341a5c3f43b99ce5b3b609751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693018b0f71d52144bb8a0cb83190ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa514e22832f2f43a7cb30cd6046664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140f5364d8640340893d792d7b5f4ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b098544aba4c4c8562ccc10c97627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d27d3c9a11e2541a097e31c96c8659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d94611d0c0b724eac07802901be574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771105d6ec6b49b4fa6945df70a72f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3900
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325efae403b76e74ea477cde36c2e059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9637cdaa5c4f3741ba98bfe874ba762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72cc5f752bddd4ea24b6f41c0bfcb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f059dc6de345874d8ae280fd58731d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716cf9ced8760e141ab6e605d82514b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b5843fe1dd534c8566019ea58817e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1fcc0aff7246f4ea2ff237382b1276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f32dbabef64d41947e536872a5d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb7060132ae9a040b10d26e50bf37d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b29a099a5aca4ab5b58e348afad0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f51371eee64f4e8eb63dd3dcfdad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196195e5d0ea9864ca7d19c669c59172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3463d87010d762458daf4191f746e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191c61761ac616429300cacbad8723e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae9ca202d939e4391c242c96e4e6f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1491f12b508d6844098e376edd5784c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed02fa54d928a93489db838b81ff7115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557952c5c266fd744ad84e0460eebdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da7a6fa1eb839488654be6627315c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38f3b62671a0544ad92b6daa2346f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025bb5ed7e3eb98458cf68e3fa8ebcad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de993809f83e744aaabd333c18a50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824d2d6e205a734cb552819b8408165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff0e51af58f524f84ee0a1a4b05432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291726b9be5b6d47946c5f6e8ca6178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08938e1f7560f9940bf74b3ec8a8d1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa3f36ba7bcaf4f869b9c0983bf6a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aafe2e8167b296498288cc21ce42032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142963f8f3d728f4cb9c3949946dbf95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344cd9e1099e46f44a92fd0aab7997e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 3250
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ade4cd12213d4abfd1334200c70f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126912d568779f4b99858c30f5da253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f45e1139c3bf648b811b218610e2bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14371ceb653cc884bb87662966f48de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f663a062e63cc448316bf1e337a020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4a14a642f748841aa2442e7880cc6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67815ad6d14fb0447a6adf82d8e008b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a4411ebcb0cc429be2588eb16e468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d17f129b06854f90eae8888a8e31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef02fc0b85d05c41a5b15b98c7dcda7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca981e1e2e47b9f4eb1865415dfd8344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d992009f9b2d4f9aa61f566cb29da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60ebeacc3e344748a4e4518b602491f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75198bcd40eac4485f919347fd99c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89ff1d50d1a4d48aaf334c0e0ce2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27f4e5d43ac5141bc26bfe92a01846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7a9429e503b748aead5e87ee725e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bfa4bcc54baeb4bad190c48f55b7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc50d3daa946949a65f2ae65e1bdac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd5476c7d3f264a8b701d37722586b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bcd186200964d45881e051d2cbc3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda2327e12c464e4c85b0fcc050a6867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd228a756b46e4dac6d97a38060f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5584ce8cf452ef4ea8e0b6ad6fe7666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3e421146b72c41b1f037e8ea1e29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cc905cd283524c8f2d3f704b7aa59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f18d685151de4c8e140de7dfc8abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853e7c321ce5ba4fb935f1fbccb4842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f7f9b9f8fa7e448164b6abfaf88f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67364c962336bb468164654e72e4bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 2600
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7212181b94d35648874c21f52bef7fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28581572249d0948b52aea5db23d77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd76d4ebc177a41ace70427b9f3132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d26d49cdb1064083bd2dcdf607eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9be3737c761d4a9226c63ba1ab2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5e24860af92d4da184a5a9b1cf9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8faf68d502be442ad2e3d6c40c6437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62de711c265e62f4ab8e2c1640475102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9e40330d137041992f101c33073ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f2a6dda8ddee4d932df7c5d551eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b07e5f911462348afad59a267b6a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff86a909391e64fa5618e1943857b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f6c4eb2fb2c2643b2ad6af193dbddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723033fcb1206b14c8781c3d1f759e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14188c0e7eab4c84f8cb1f5451dce183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465fd915fdc0be4fa6da183e3b0c920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51efa93a7ba68dd488fe92afa05f64f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e832f6f4643934f8d163ffd6ba5807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a23e1458909f41a07a2d9df8dc7de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ade5b9a6057084ab0594f17e35475f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8e6b5a8281904b9281359228fd489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e6b576668882446bd52763f49326b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc992b58f719b4294a92de102600b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93c37b048c1c5f47abc25a85dc32788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c984a31b45144e8f135573d6bd2f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fee3eac045be048b5a858d23ee6a67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db10260c983a504d94767292b1f7115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de65c27e1642f43a3fb477dc7bb87b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21faa55272ad64bbeb845c5e6e1ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c75924ffbbdcc4b9999dc71f41491a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1950
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a039458f83847346986d91ab1d2dfd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4af599687da243a63ef22e6c45d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e53ca2e3d154c438f6d38deba401ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37bb6018bac724dabbbec4f5aeec07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20103f94dccd414498ab1a644be39a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1460729b4443f747a0370f004521030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd62a863208464d9357360e3e99763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1707fecce6fc840ac375feab9a1c0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d60357b1c5ad14580d26ab332743c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e761c85d90e948aa684537be61704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b73dab398d0646479c7b418d5370f44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e84d55fb6e06843b4ef997617c7f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fff2be71fa14f41a8f85e63ad418a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92851416c006e7844b10b86575434f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67f35f90aab2846bf06c154ce770f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf734231f989564abb8e3a0295334e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b371124c0407b542a4f8d7495d202dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5cb839b1dfb8c4fbe9bf9dcbe88028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e139d741202d469ea73552139b906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e733f2079ad07949a361aa47774e52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8e72f812a4c1f47a5036dc232c4365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81cc2ba139871c4b93759c51feb323c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e5119b484fcb45b5679d2e4a38d01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9b5ca56a5dc045b790b41b75d6f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6ad0edae9c7d4aa2fcbc7234e556e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e275e502671d8d44a93ab7a3331ffde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824cd1cb9daf27141b00e937e420a4cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838901484b93d94b95fab05a781a768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461262b60d42cfd48aff13ae2b3def6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab352cc4986da46a50f83d0e782bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 1300
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075fc2dff2249c74bb38d48ae1d93aa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4af88e2a0c9594b92c210f150e2b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f0ed0a7c2357459175dd27fe0f846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90bf9126d4abd40a015515d0c6cbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062c1a097703ec8408a50cd518053813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd44ea2dff32e4db167ca6e91bf469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc1e7d9341b8f0419caf2440c2f9416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3550a561fb6bc448a0eaab2df91cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f423b3921421814c9cd1036c779e0a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c08c5f49938b4b8e602c24b61500b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b416cfb8e4ca4334fb23837363229090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b25cead2f013247ac390063b98629c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17e015aadec9641a66197b3ec5c035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408332ce106ac345bc7b9795c5a71e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4ffc3fbbba7745a9b471cc14211d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002baed9c38fcf449ed4abbb1a7ec52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_195
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36feb01c322ef8740b650515770fb92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_196
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470e32246d27184cbf1b9b21c5445fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_197
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb545e23d75743b45a06a4b27bbd22fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_198
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135539251d2a0224eb5bcc6da067c517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_199
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8da20953bb9a64ea0453e5b4ddd362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_200
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26641db97b3c9f4da8372b7f51f30d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_201
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14abf67b5286fd3468fd4f9c2517e548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_202
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c3039cb041744ead19b84bd26d8fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_203
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33292cd1dcba9a04f890bc0f71cb2c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_204
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a959cc8c9b0a4b91f5f94a381498b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_205
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d9ad7732fe4fb4993431d4739eeb4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_206
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af48ceb0b3eafc49974edf536f9d361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_207
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b194b4133cc74499f1dbbe834d394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_208
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93882917bfebf4a800f15db9196e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_209
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 650
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f8ed5fb3473b4eb2f348a3a6f9ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36ef9c0feff4440bda517c41f991d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_211
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1d55b2898d484c89143b1e951f963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_212
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c01bd7e8fbc94b8e3794eed13856c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_213
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448e42a652ef764480fb5faf62d0198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_214
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771a3866118fab24888f87b5fae45070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_215
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb520c1f687f646af89cb2d4423873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_216
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c673083db43cd9468c640cb3e7b56d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_217
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd7e5e94062c141b31cfbc265e6c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_218
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c69f526d20b74b8d4cf20660a7693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_219
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09efb18ba1cbfb2409f193f12b68ae2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_220
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c469c4af3b253e4bb51ab1238ab53cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_221
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3f7109b1707c44eaa6509be275296b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_222
+      rect:
+        serializedVersion: 2
+        x: 5460
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e01fd5ad3e6a3458f6bf81e50d6b3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_223
+      rect:
+        serializedVersion: 2
+        x: 5915
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a2ac3ba814b842aa102cc5ea7c1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_224
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189944f5528c514eab6ca8902adc363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_225
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e75facf54120468377c48bbd86e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_226
+      rect:
+        serializedVersion: 2
+        x: 7280
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acdb3a5caa24f941b314a4304d0a20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_227
+      rect:
+        serializedVersion: 2
+        x: 7735
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b122970d6e297459b0543bbd393c96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_228
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f64c20b294b2e4ba2e5c8f4d7a8804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_229
+      rect:
+        serializedVersion: 2
+        x: 8645
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c63d3036a963747969452c3bd9cf69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_230
+      rect:
+        serializedVersion: 2
+        x: 9100
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988d7721e8203e84fab87ea89f173885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_231
+      rect:
+        serializedVersion: 2
+        x: 9555
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e560931d13b71f4a8360061e39e69f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_232
+      rect:
+        serializedVersion: 2
+        x: 10010
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79636de01fb3eb747947d507b2491629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_233
+      rect:
+        serializedVersion: 2
+        x: 10465
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6fc069cc7809449057ea3b5af67b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_234
+      rect:
+        serializedVersion: 2
+        x: 10920
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702f3f9018535184ab16ae6595b89caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_235
+      rect:
+        serializedVersion: 2
+        x: 11375
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82d553371b5cb48966cc66d4a26afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_236
+      rect:
+        serializedVersion: 2
+        x: 11830
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c347308b3a7989a4096ed693453247ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_237
+      rect:
+        serializedVersion: 2
+        x: 12285
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa51e19858cdaf4c80291a3373efe8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_238
+      rect:
+        serializedVersion: 2
+        x: 12740
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53658ae42942340bdfb48e27212b5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gus_Angry_Spritesheet_239
+      rect:
+        serializedVersion: 2
+        x: 13195
+        y: 0
+        width: 455
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f748b474de354dbcbe910df6883b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 447372f0b94a0534c8470bef53604764
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

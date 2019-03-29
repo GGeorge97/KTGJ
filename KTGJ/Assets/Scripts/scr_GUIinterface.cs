@@ -5,8 +5,11 @@ using UnityEngine.UI;
 
 public class scr_GUIinterface : MonoBehaviour
 {
+    private AudioSource audioClip;
+
     private void Start()
     {
+        audioClip = gameObject.GetComponent<AudioSource>();
         switch (scr_MasterController.masterController.getCurrentScene())
         {
             case (scr_MasterController.Scenes.MAIN):
@@ -53,6 +56,7 @@ public class scr_GUIinterface : MonoBehaviour
 
     private void RefreshEmails()
     {
+        audioClip.Play();
         float spawnPoint = 0.0f;
         for (int i = scr_EventManager.eventList.Count - 1; i >= 0; i--)
         {
@@ -69,7 +73,7 @@ public class scr_GUIinterface : MonoBehaviour
                     emailObject.GetComponentInChildren<Button>().colors = colours;
                 }
                 emailObject.transform.position = new Vector3(emailObject.transform.position.x, emailObject.transform.position.y - spawnPoint, emailObject.transform.position.z);
-                emailObject.GetComponentInChildren<scr_Email>().setEmailContents(i, email.getSender(), email.getSubject(), email.getTimeRecieved());
+                emailObject.GetComponentInChildren<scr_Email>().setEmailContents(i, email.getIcon(), email.getSender(), email.getSubject(), email.getTimeRecieved());
                 spawnPoint += 80.0f;
             }
         }

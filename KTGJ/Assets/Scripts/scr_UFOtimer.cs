@@ -12,13 +12,16 @@ public class scr_UFOtimer : MonoBehaviour
     void Start()
     {
         start = new Vector3(gameObject.transform.position.x, gameObject.transform.position.y, gameObject.transform.position.z);
-        end = new Vector3(gameObject.transform.position.x - 100.0f, gameObject.transform.position.y, gameObject.transform.position.z);
+        end = new Vector3(gameObject.transform.position.x - 20.0f, gameObject.transform.position.y, gameObject.transform.position.z);
         time = (float)scr_MasterController.masterController.getEndgameTime();
     }
 
     void Update()
     {
-        t_move += Time.deltaTime / time;
-        gameObject.transform.position = Vector3.Lerp(start, end, t_move);
+        if (gameObject.transform.position.x > gameObject.transform.position.x - 20.0f)
+        {
+            t_move += Time.deltaTime / time;
+            gameObject.transform.position = Vector3.Lerp(start, end, t_move);
+        }
     }
 }

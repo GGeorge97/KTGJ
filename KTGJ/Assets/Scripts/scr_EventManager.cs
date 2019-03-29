@@ -39,6 +39,7 @@ public class scr_EventManager : MonoBehaviour
     public void resetScrollDOWNindex() { scrollDOWNindex = activeEmailCount; }
 
     private bool once = false;
+    private bool twice = false;
 
     void Start()
     {
@@ -55,6 +56,12 @@ public class scr_EventManager : MonoBehaviour
         if (scr_MasterController.masterController.getElapsedTime() > 2.0f && !once)
         {
             once = true;
+            CreateEmailEvent(scr_Event.EmailType.TUTORIAL);
+        }
+
+        if (scr_MasterController.masterController.getElapsedTime() >= 20.0f && !twice)
+        {
+            twice = true;
             CreateEmailEvent(scr_Event.EmailType.TUTORIAL);
         }
     }
