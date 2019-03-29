@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5047095777481480743}
   - component: {fileID: 6789187164036815205}
   - component: {fileID: 1650732399902581961}
+  - component: {fileID: 5458029284716547572}
   - component: {fileID: 6931790902664312354}
   m_Layer: 0
   m_Name: MasterController
@@ -97,9 +98,27 @@ MonoBehaviour:
   iconChoice1: {fileID: 21300000, guid: 58dd1c5bb2abc53409c6fb9b75e9864e, type: 3}
   iconChoice2: {fileID: 21300000, guid: ba3f9b125b3a54f4ebb2677323fa833c, type: 3}
   emptyEmoji: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
-  emoji1: {fileID: 21300000, guid: eab424758fd43ab4d85a4cb941cf4c89, type: 3}
+  emoji1: {fileID: 21300000, guid: daa1acaccf0aa1b4788f007e02704f6a, type: 3}
   emoji2: {fileID: 21300000, guid: f6f67b50ed28fec41a5ed8466300599c, type: 3}
   emoji3: {fileID: 21300000, guid: 918876b9e23c97d42868143a7b48ab46, type: 3}
+--- !u!114 &5458029284716547572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475143204488407449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e370e07c32f6fb24d9460dc2a2d94a7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emojiPanelPrefab: {fileID: 4051108791768411377, guid: 829e36351eabfe64faf76cb8b7f874b2,
+    type: 3}
+  emojiTextPrefab: {fileID: 4760870598128552515, guid: fd8caf4c13a42f24bb582127b1080156,
+    type: 3}
+  emojiKeyboardPrefab: {fileID: 3324536314283060384, guid: fa38d6d66bca7ae45b5229928353afc4,
+    type: 3}
 --- !u!81 &6931790902664312354
 AudioListener:
   m_ObjectHideFlags: 0
