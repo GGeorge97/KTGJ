@@ -59,7 +59,7 @@ public class scr_EventManager : MonoBehaviour
             CreateEmailEvent(scr_Event.EmailType.TUTORIAL);
         }
 
-        if (scr_MasterController.masterController.getElapsedTime() >= 20.0f && !twice)
+        if (scr_MasterController.masterController.getElapsedTime() >= 10.0f && !twice)
         {
             twice = true;
             CreateEmailEvent(scr_Event.EmailType.TUTORIAL);
@@ -68,8 +68,6 @@ public class scr_EventManager : MonoBehaviour
 
     private void HandleInput()
     {
-        if (Input.GetKeyDown(KeyCode.G))
-            scr_EventManager.eventManager.CreateEmailEvent(scr_Event.EmailType.CHOICE);
         switch (scr_MasterController.masterController.getCurrentScene())
         {
             case (scr_MasterController.Scenes.MAIN):

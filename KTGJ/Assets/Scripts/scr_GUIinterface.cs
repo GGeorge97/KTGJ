@@ -37,6 +37,7 @@ public class scr_GUIinterface : MonoBehaviour
             case (scr_MasterController.Scenes.EMAIL):
                 if (scr_EventManager.eventManager.getNewEmailEventAdded() || scr_EventManager.eventManager.getRefreshRequired())
                 {
+                    audioClip.Play();
                     foreach (Transform childObject in GameObject.FindGameObjectWithTag("EmailScreen").gameObject.transform)
                     {
                         if (childObject.gameObject.name == "Email(Clone)")
@@ -56,7 +57,6 @@ public class scr_GUIinterface : MonoBehaviour
 
     private void RefreshEmails()
     {
-        audioClip.Play();
         float spawnPoint = 0.0f;
         for (int i = scr_EventManager.eventList.Count - 1; i >= 0; i--)
         {
