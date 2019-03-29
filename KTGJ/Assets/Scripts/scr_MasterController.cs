@@ -27,6 +27,7 @@ public class scr_MasterController : MonoBehaviour
     //=Persistent Data=//
     private float elapsedTime;                  // Global timer
     public float getElapsedTime() { return elapsedTime; }
+    public void changeElapsedTime(float setVal) { elapsedTime += setVal; }
 
     private const float endgameTime = 180.0f;  // End of game time value, 180 = 3 mins
     public float getEndgameTime() { return endgameTime; }
@@ -39,7 +40,11 @@ public class scr_MasterController : MonoBehaviour
     public bool getGameOver() { return gameOver; }
     public void setGameOver(bool setVal) { gameOver = setVal; }
 
-    private int funds = 10;                          // Player money count
+    private bool healthUp = false;             // Health upgrade flag
+    public bool getHealthUp() { return healthUp; }
+    public void setHealthUp(bool setVal) { healthUp = setVal; }
+
+    private int funds = 160;                          // Player money count
     public int getFunds() { return funds; }
     public void setFunds(int setVal) { funds = setVal; }
     public void changeFunds(int setVal) { funds += setVal; }

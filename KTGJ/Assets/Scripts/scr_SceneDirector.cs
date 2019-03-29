@@ -18,9 +18,12 @@ public class scr_SceneDirector : MonoBehaviour
 
     private void Update()
     {
+        animator = gameObject.GetComponent<Animator>();
 
-        if (!animator)
-            animator = gameObject.GetComponent<Animator>();
+        if (scr_MasterController.masterController.getHealthUp())
+        {
+            GameObject.FindGameObjectWithTag("HealthUp").SetActive(true);
+        }
 
         if (scr_MasterController.masterController.getGameOver())
             SceneManager.LoadScene("sce_End", LoadSceneMode.Single);
