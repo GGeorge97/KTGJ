@@ -11,20 +11,34 @@ public class scr_EmojiEvent : MonoBehaviour
     private GameObject emojiTextPrefab;
     [SerializeField]
     private GameObject emojiKeyboardPrefab;
+    [SerializeField]
+    private GameObject buttonPrefab;
 
     private Sprite[] emojis = new Sprite[3];
     public Sprite[] getEmojis() { return emojis; }
     public void setEmojis(Sprite[] setVal) { emojis = setVal; }
 
-    private string phrase; 
+    public static string phrase;
     public string getPhrase() { return phrase; }
     public void setPhrase(string setVal) { phrase = setVal; }
 
     private GameObject emojiPanel;
-    private GameObject emojiText;
-    private GameObject emojiKeyboard; 
+    public static GameObject emojiText;
+    private GameObject emojiKeyboard;
+    private GameObject[] buttons = new GameObject[25];
 
-    private char[] codedString = new char[50]; 
+    public char[] codedString = new char[50];
+    private char[] shuffle;
+
+    private string help;
+
+    private void Start()
+    {
+        emojiPanel = Instantiate(emojiPanelPrefab);
+        emojiText = Instantiate(emojiTextPrefab);
+
+        help = emojiTextPrefab.GetComponentInChildren<Text>().text;
+    }
 
     private void RunEmojiEvent()
     {
@@ -34,6 +48,17 @@ public class scr_EmojiEvent : MonoBehaviour
         // Setters 
         setEmojis(phraseData.getEmojis());
         setPhrase(phraseData.getPhrase());
+
+        shuffle = phrase.ToCharArray();
+        for (int i = 0; i < phrase.Length; i++)
+        {
+            if (phrase[i] == '_')
+            {
+                shuffle[i] = phrase[i + 1];
+                i++;
+            }
+        }
+        Shuffle();
 
         //Debug.Log(emojis[0]);
         //Debug.Log(emojis[1]);
@@ -48,6 +73,26 @@ public class scr_EmojiEvent : MonoBehaviour
         EncodeText();
 
         emojiKeyboard = Instantiate(emojiKeyboardPrefab, GameObject.Find("EmojiScreen").transform);
+
+        // Create buttons with phrase letters on them
+        for (int i = 0; i < phrase.Length; i++)
+        {
+            buttons[i] = Instantiate(buttonPrefab, emojiKeyboard.transform);
+            buttons[i].transform.Translate(i * 75.0f, 0.0f, 0.0f);
+            buttons[i].GetComponentInChildren<Text>().text = shuffle[i].ToString();
+        }
+    }
+
+    private void Shuffle()
+    {
+        for (int i = 0; i < shuffle.Length; i++)
+        {
+            char temp = shuffle[i];
+
+            int rand = Random.Range(0, shuffle.Length);
+            shuffle[i] = shuffle[rand];
+            shuffle[rand] = temp;
+        }
     }
 
     private void EncodeText()
@@ -82,5 +127,21 @@ public class scr_EmojiEvent : MonoBehaviour
     public void Update()
     {
         HandleInput();
+    }
+
+    public void UpdatePhrase(char letter, int x)
+    {
+        // Should be able to change letter and update the string so the user can see the phrase update 
+        codedString[x] = letter;
+        Debug.Log(codedString[x]);
+
+        emojiText.GetComponentInChildren<Text>().text = " ";
+
+        for (int i = 0; i < phrase.Length; i++)
+        {
+            //help += codedString[i].ToString() + " ";
+            emojiText.GetComponentInChildren<Text>().text += codedString[i].ToString() + " ";
+            Debug.Log(codedString[i]);
+        }
     }
 }
