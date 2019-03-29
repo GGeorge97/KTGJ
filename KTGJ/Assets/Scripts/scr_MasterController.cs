@@ -44,7 +44,7 @@ public class scr_MasterController : MonoBehaviour
     public bool getHealthUp() { return healthUp; }
     public void setHealthUp(bool setVal) { healthUp = setVal; }
 
-    private int funds = 160;                          // Player money count
+    private int funds = 10;                          // Player money count
     public int getFunds() { return funds; }
     public void setFunds(int setVal) { funds = setVal; }
     public void changeFunds(int setVal) { funds += setVal; }
