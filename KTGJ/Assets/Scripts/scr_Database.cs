@@ -393,7 +393,7 @@ public class scr_Database : MonoBehaviour
         //=Phrases=
         phrases = new string[pDataSize] 
         {
-            "Help",
+            "HELP",
             "abc_xyz",
             "abc_xyz_nop"
         };
